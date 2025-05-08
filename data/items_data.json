@@ -1,5 +1,18 @@
 [
   {
+    "item_id": "5056827",
+    "amount": "5000.0",
+    "currency": "AZN",
+    "location": [
+      "Rəssamlıq Akademiyası",
+      "Nəriman Nərimanov m.",
+      "Nərimanov r."
+    ],
+    "Kateqoriya": "Obyekt",
+    "Sahə": "500 m²",
+    "Təmir": "var"
+  },
+  {
     "item_id": "4959734",
     "amount": "310000.0",
     "currency": "AZN",
@@ -12,17 +25,16 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5184413",
-    "amount": "900.0",
+    "item_id": "5142259",
+    "amount": "300000.0",
     "currency": "AZN",
     "location": [
-      "20 Yanvar m.",
-      "Nəsimi r."
+      "Memar Əcəmi m.",
+      "Binəqədi r."
     ],
-    "Kateqoriya": "Yeni tikili",
-    "Mərtəbə": "17 / 20",
+    "Kateqoriya": "Obyekt",
     "Sahə": "50 m²",
-    "Otaq sayı": "2",
+    "Çıxarış": "var",
     "Təmir": "var"
   },
   {
@@ -85,22 +97,6 @@
     "Təmir": "yoxdur"
   },
   {
-    "item_id": "3825844",
-    "amount": "299000.0",
-    "currency": "AZN",
-    "location": [
-      "Xəzər r.",
-      "Şüvəlan q."
-    ],
-    "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "180 m²",
-    "Torpaq sahəsi": "5 sot",
-    "Otaq sayı": "5",
-    "Çıxarış": "var",
-    "İpoteka": "var",
-    "Təmir": "var"
-  },
-  {
     "item_id": "3852754",
     "amount": "39.0",
     "currency": "AZN",
@@ -134,19 +130,17 @@
     "Təmir": "var"
   },
   {
-    "item_id": "4113285",
-    "amount": "165000.0",
+    "item_id": "2716163",
+    "amount": "100.0",
     "currency": "AZN",
     "location": [
-      "Xətai r.",
-      "Əhmədli q."
+      "Xəzər r.",
+      "Türkan q."
     ],
-    "Kateqoriya": "Yeni tikili",
-    "Mərtəbə": "3 / 16",
-    "Sahə": "78 m²",
-    "Otaq sayı": "3",
-    "Çıxarış": "var",
-    "İpoteka": "var",
+    "Kateqoriya": "Həyət evi/Bağ evi",
+    "Sahə": "260 m²",
+    "Torpaq sahəsi": "8 sot",
+    "Otaq sayı": "5",
     "Təmir": "var"
   },
   {
@@ -167,20 +161,17 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5107350",
-    "amount": "225000.0",
+    "item_id": "5169209",
+    "amount": "112000.0",
     "currency": "AZN",
     "location": [
-      "Azadlıq Prospekti m.",
-      "Binəqədi r.",
-      "8-ci mikrorayon q."
+      "Sabunçu r.",
+      "Nardaran q."
     ],
-    "Kateqoriya": "Köhnə tikili",
-    "Mərtəbə": "2 / 5",
-    "Sahə": "105 m²",
-    "Otaq sayı": "4",
+    "Kateqoriya": "Torpaq",
+    "Sahə": "24 sot",
     "Çıxarış": "var",
-    "Təmir": "var"
+    "İpoteka": "var"
   },
   {
     "item_id": "4351437",
@@ -212,22 +203,6 @@
     "Təmir": "var"
   },
   {
-    "item_id": "4687575",
-    "amount": "444000.0",
-    "currency": "AZN",
-    "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
-    ],
-    "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "250 m²",
-    "Torpaq sahəsi": "7 sot",
-    "Otaq sayı": "4",
-    "Çıxarış": "var",
-    "İpoteka": "var",
-    "Təmir": "var"
-  },
-  {
     "item_id": "5166148",
     "amount": "105000.0",
     "currency": "AZN",
@@ -239,6 +214,17 @@
     "Sahə": "8.5 sot",
     "Çıxarış": "var",
     "İpoteka": "var"
+  },
+  {
+    "item_id": "4912143",
+    "amount": "200.0",
+    "currency": "AZN",
+    "location": [],
+    "Kateqoriya": "Həyət evi/Bağ evi",
+    "Sahə": "150 m²",
+    "Torpaq sahəsi": "4 sot",
+    "Otaq sayı": "4",
+    "Təmir": "var"
   },
   {
     "item_id": "5172433",
@@ -258,28 +244,16 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5037112",
-    "amount": "285000.0",
+    "item_id": "4617223",
+    "amount": "110000.0",
     "currency": "AZN",
     "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
+      "Abşeron r.",
+      "Novxanı q."
     ],
     "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "140 m²",
-    "Torpaq sahəsi": "3 sot",
-    "Otaq sayı": "4",
-    "Çıxarış": "var",
-    "Təmir": "var"
-  },
-  {
-    "item_id": "5185656",
-    "amount": "420000.0",
-    "currency": "AZN",
-    "location": [],
-    "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "500 m²",
-    "Torpaq sahəsi": "16 sot",
+    "Sahə": "132 m²",
+    "Torpaq sahəsi": "5 sot",
     "Otaq sayı": "7",
     "Çıxarış": "var",
     "Təmir": "yoxdur"
@@ -309,6 +283,22 @@
     "Kateqoriya": "Yeni tikili",
     "Mərtəbə": "16 / 18",
     "Sahə": "53 m²",
+    "Otaq sayı": "2",
+    "Çıxarış": "var",
+    "İpoteka": "var",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "5169083",
+    "amount": "147000.0",
+    "currency": "AZN",
+    "location": [
+      "Avtovağzal m.",
+      "Binəqədi r."
+    ],
+    "Kateqoriya": "Yeni tikili",
+    "Mərtəbə": "5 / 17",
+    "Sahə": "70 m²",
     "Otaq sayı": "2",
     "Çıxarış": "var",
     "İpoteka": "var",
@@ -345,35 +335,6 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5122526",
-    "amount": "30000.0",
-    "currency": "AZN",
-    "location": [
-      "Abşeron r.",
-      "Novxanı q."
-    ],
-    "Kateqoriya": "Torpaq",
-    "Sahə": "4 sot",
-    "Çıxarış": "var",
-    "İpoteka": "var"
-  },
-  {
-    "item_id": "5184519",
-    "amount": "268000.0",
-    "currency": "AZN",
-    "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
-    ],
-    "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "160 m²",
-    "Torpaq sahəsi": "2 sot",
-    "Otaq sayı": "4",
-    "Çıxarış": "var",
-    "İpoteka": "var",
-    "Təmir": "var"
-  },
-  {
     "item_id": "5165139",
     "amount": "380000.0",
     "currency": "AZN",
@@ -389,6 +350,31 @@
     "Təmir": "var"
   },
   {
+    "item_id": "4515580",
+    "amount": "135000.0",
+    "currency": "AZN",
+    "location": [],
+    "Kateqoriya": "Yeni tikili",
+    "Mərtəbə": "14 / 16",
+    "Sahə": "110 m²",
+    "Otaq sayı": "3",
+    "Çıxarış": "var",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "4881242",
+    "amount": "400000.0",
+    "currency": "AZN",
+    "location": [
+      "Gənclik m.",
+      "Nərimanov r."
+    ],
+    "Kateqoriya": "Obyekt",
+    "Sahə": "134 m²",
+    "Çıxarış": "var",
+    "Təmir": "var"
+  },
+  {
     "item_id": "5038500",
     "amount": "98000.0",
     "currency": "AZN",
@@ -400,25 +386,6 @@
     "Sahə": "20 m²",
     "Çıxarış": "var",
     "İpoteka": "var",
-    "Təmir": "var"
-  },
-  {
-    "item_id": "4810281",
-    "amount": "110.0",
-    "currency": "AZN",
-    "location": [
-      "Azərbaycan Dövlət Neft və Sənaye Universiteti",
-      "Bakı Musiqi Akademiyası",
-      "Milli Konservatoriya",
-      "28 May m.",
-      "Nizami kinoteatrı",
-      "Sahil m.",
-      "Nəsimi r."
-    ],
-    "Kateqoriya": "Yeni tikili",
-    "Mərtəbə": "14 / 20",
-    "Sahə": "235 m²",
-    "Otaq sayı": "3",
     "Təmir": "var"
   },
   {
@@ -445,21 +412,6 @@
     "Sahə": "9.5 sot",
     "Çıxarış": "var",
     "İpoteka": "var"
-  },
-  {
-    "item_id": "4362102",
-    "amount": "455340.0",
-    "currency": "AZN",
-    "location": [
-      "Xətai r.",
-      "Ağ şəhər q."
-    ],
-    "Kateqoriya": "Yeni tikili",
-    "Mərtəbə": "7 / 7",
-    "Sahə": "74 m²",
-    "Otaq sayı": "2",
-    "Çıxarış": "yoxdur",
-    "Təmir": "var"
   },
   {
     "item_id": "5097244",
@@ -521,18 +473,6 @@
     "Təmir": "var"
   },
   {
-    "item_id": "4822793",
-    "amount": "980000.0",
-    "currency": "AZN",
-    "location": [
-      "Xətai r."
-    ],
-    "Kateqoriya": "Obyekt",
-    "Sahə": "370 m²",
-    "Çıxarış": "yoxdur",
-    "Təmir": "var"
-  },
-  {
     "item_id": "5111890",
     "amount": "70000.0",
     "currency": "AZN",
@@ -548,19 +488,15 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5143183",
-    "amount": "177000.0",
+    "item_id": "4822793",
+    "amount": "980000.0",
     "currency": "AZN",
     "location": [
-      "İnşaatçılar m.",
-      "Yasamal r.",
-      "Yeni Yasamal q."
+      "Xətai r."
     ],
-    "Kateqoriya": "Yeni tikili",
-    "Mərtəbə": "9 / 20",
-    "Sahə": "78 m²",
-    "Otaq sayı": "2",
-    "Çıxarış": "var",
+    "Kateqoriya": "Obyekt",
+    "Sahə": "370 m²",
+    "Çıxarış": "yoxdur",
     "Təmir": "var"
   },
   {
@@ -665,18 +601,35 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5068771",
-    "amount": "98000.0",
+    "item_id": "4234996",
+    "amount": "106665.0",
     "currency": "AZN",
     "location": [
-      "Qara Qarayev m.",
-      "Nizami r.",
-      "8-ci kilometr q."
+      "Suraxanı r.",
+      "Zığ q."
+    ],
+    "Kateqoriya": "Yeni tikili",
+    "Mərtəbə": "7 / 14",
+    "Sahə": "54.7 m²",
+    "Otaq sayı": "2",
+    "Çıxarış": "yoxdur",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "4965109",
+    "amount": "750000.0",
+    "currency": "AZN",
+    "location": [
+      "M.Hüseynzadə parkı",
+      "İzmir parkı",
+      "Sevil Qazıyeva parkı",
+      "Nizami m.",
+      "Yasamal r."
     ],
     "Kateqoriya": "Köhnə tikili",
-    "Mərtəbə": "3 / 5",
-    "Sahə": "35 m²",
-    "Otaq sayı": "1",
+    "Mərtəbə": "5 / 5",
+    "Sahə": "400 m²",
+    "Otaq sayı": "5",
     "Çıxarış": "var",
     "Təmir": "var"
   },
@@ -708,21 +661,6 @@
     "Kateqoriya": "Yeni tikili",
     "Mərtəbə": "16 / 17",
     "Sahə": "87 m²",
-    "Otaq sayı": "2",
-    "Təmir": "var"
-  },
-  {
-    "item_id": "5144278",
-    "amount": "7500.0",
-    "currency": "AZN",
-    "location": [
-      "Sea Breeze",
-      "Sabunçu r.",
-      "Nardaran q."
-    ],
-    "Kateqoriya": "Yeni tikili",
-    "Mərtəbə": "6 / 8",
-    "Sahə": "75 m²",
     "Otaq sayı": "2",
     "Təmir": "var"
   },
@@ -766,6 +704,38 @@
     "Təmir": "var"
   },
   {
+    "item_id": "5032165",
+    "amount": "630000.0",
+    "currency": "AZN",
+    "location": [
+      "Abşeron r.",
+      "Novxanı q."
+    ],
+    "Kateqoriya": "Həyət evi/Bağ evi",
+    "Sahə": "305 m²",
+    "Torpaq sahəsi": "8.1 sot",
+    "Otaq sayı": "6",
+    "Çıxarış": "var",
+    "İpoteka": "var",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "5136086",
+    "amount": "235000.0",
+    "currency": "AZN",
+    "location": [
+      "Şüvəlan q.",
+      "Xəzər r."
+    ],
+    "Kateqoriya": "Həyət evi/Bağ evi",
+    "Sahə": "155 m²",
+    "Torpaq sahəsi": "2.8 sot",
+    "Otaq sayı": "4",
+    "Çıxarış": "var",
+    "İpoteka": "var",
+    "Təmir": "var"
+  },
+  {
     "item_id": "5166133",
     "amount": "127000.0",
     "currency": "AZN",
@@ -789,18 +759,6 @@
     "Otaq sayı": "2",
     "Çıxarış": "var",
     "Təmir": "var"
-  },
-  {
-    "item_id": "5112825",
-    "amount": "110000.0",
-    "currency": "AZN",
-    "location": [
-      "Abşeron r.",
-      "Novxanı q."
-    ],
-    "Kateqoriya": "Torpaq",
-    "Sahə": "13.5 sot",
-    "Çıxarış": "var"
   },
   {
     "item_id": "5181767",
@@ -867,35 +825,18 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5051650",
-    "amount": "1400000.0",
+    "item_id": "5064932",
+    "amount": "590000.0",
     "currency": "AZN",
     "location": [
-      "Beşmərtəbə",
-      "Nizami m.",
-      "Qış parkı",
-      "Nəsimi r.",
-      "Kubinka q."
-    ],
-    "Kateqoriya": "Obyekt",
-    "Sahə": "440 m²",
-    "Çıxarış": "var",
-    "Təmir": "var"
-  },
-  {
-    "item_id": "4038124",
-    "amount": "345000.0",
-    "currency": "AZN",
-    "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
+      "Xətai r.",
+      "Köhnə Günəşli q."
     ],
     "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "140 m²",
-    "Torpaq sahəsi": "4 sot",
-    "Otaq sayı": "4",
+    "Sahə": "360 m²",
+    "Torpaq sahəsi": "3.5 sot",
+    "Otaq sayı": "7",
     "Çıxarış": "var",
-    "İpoteka": "var",
     "Təmir": "var"
   },
   {
@@ -915,47 +856,44 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5167908",
-    "amount": "245000.0",
+    "item_id": "5176057",
+    "amount": "3000.0",
     "currency": "AZN",
     "location": [
-      "Sabunçu r.",
-      "Kürdəxanı q."
+      "Ağ şəhər",
+      "Xətai r.",
+      "Ağ şəhər q."
+    ],
+    "Kateqoriya": "Yeni tikili",
+    "Mərtəbə": "4 / 7",
+    "Sahə": "130 m²",
+    "Otaq sayı": "3",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "4840131",
+    "amount": "2045850.0",
+    "currency": "AZN",
+    "location": [
+      "Şah İsmayıl Xətai m.",
+      "Xətai r.",
+      "Ağ şəhər q."
     ],
     "Kateqoriya": "Obyekt",
-    "Sahə": "450 m²",
-    "Çıxarış": "var",
-    "Təmir": "var"
-  },
-  {
-    "item_id": "5168229",
-    "amount": "85000.0",
-    "currency": "AZN",
-    "location": [
-      "Binəqədi r.",
-      "Biləcəri q."
-    ],
-    "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "95 m²",
-    "Torpaq sahəsi": "18 sot",
-    "Otaq sayı": "3",
+    "Sahə": "177.9 m²",
     "Çıxarış": "yoxdur",
-    "Təmir": "var"
+    "Təmir": "yoxdur"
   },
   {
-    "item_id": "4266689",
-    "amount": "630000.0",
+    "item_id": "5058889",
+    "amount": "67900.0",
     "currency": "AZN",
-    "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
-    ],
+    "location": [],
     "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "350 m²",
-    "Torpaq sahəsi": "7.5 sot",
-    "Otaq sayı": "5",
+    "Sahə": "80 m²",
+    "Torpaq sahəsi": "0.8 sot",
+    "Otaq sayı": "3",
     "Çıxarış": "var",
-    "İpoteka": "var",
     "Təmir": "var"
   },
   {
@@ -976,6 +914,20 @@
     "Təmir": "var"
   },
   {
+    "item_id": "5158541",
+    "amount": "365000.0",
+    "currency": "AZN",
+    "location": [
+      "Memar Əcəmi m.",
+      "Binəqədi r."
+    ],
+    "Kateqoriya": "Obyekt",
+    "Sahə": "60 m²",
+    "Çıxarış": "var",
+    "İpoteka": "var",
+    "Təmir": "var"
+  },
+  {
     "item_id": "5103258",
     "amount": "900000.0",
     "currency": "AZN",
@@ -985,22 +937,6 @@
     "Kateqoriya": "Obyekt",
     "Sahə": "115 m²",
     "Çıxarış": "var",
-    "Təmir": "var"
-  },
-  {
-    "item_id": "5168065",
-    "amount": "499000.0",
-    "currency": "AZN",
-    "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
-    ],
-    "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "230 m²",
-    "Torpaq sahəsi": "5.5 sot",
-    "Otaq sayı": "5",
-    "Çıxarış": "var",
-    "İpoteka": "var",
     "Təmir": "var"
   },
   {
@@ -1022,6 +958,34 @@
     "Təmir": "var"
   },
   {
+    "item_id": "5129119",
+    "amount": "148000.0",
+    "currency": "AZN",
+    "location": [
+      "Neftçilər m.",
+      "Nizami r.",
+      "8-ci kilometr q."
+    ],
+    "Kateqoriya": "Köhnə tikili",
+    "Mərtəbə": "4 / 5",
+    "Sahə": "75 m²",
+    "Otaq sayı": "3",
+    "Çıxarış": "var",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "4997082",
+    "amount": "85500.0",
+    "currency": "AZN",
+    "location": [],
+    "Kateqoriya": "Yeni tikili",
+    "Mərtəbə": "11 / 14",
+    "Sahə": "62 m²",
+    "Otaq sayı": "2",
+    "Çıxarış": "yoxdur",
+    "Təmir": "var"
+  },
+  {
     "item_id": "5186450",
     "amount": "50000.0",
     "currency": "AZN",
@@ -1034,6 +998,24 @@
     "Torpaq sahəsi": "3 sot",
     "Otaq sayı": "2",
     "Çıxarış": "yoxdur",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "5174093",
+    "amount": "1000.0",
+    "currency": "AZN",
+    "location": [
+      "Bakı Musiqi Akademiyası",
+      "Qış parkı",
+      "Milli Konservatoriya",
+      "Nizami kinoteatrı",
+      "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+      "28 May m.",
+      "Sahil m.",
+      "Nəsimi r."
+    ],
+    "Kateqoriya": "Obyekt",
+    "Sahə": "65 m²",
     "Təmir": "var"
   },
   {
@@ -1053,49 +1035,6 @@
     "Təmir": "var"
   },
   {
-    "item_id": "4452005",
-    "amount": "517752.0",
-    "currency": "AZN",
-    "location": [
-      "Sabunçu r.",
-      "Nardaran q."
-    ],
-    "Kateqoriya": "Yeni tikili",
-    "Mərtəbə": "1 / 8",
-    "Sahə": "169.2 m²",
-    "Otaq sayı": "3",
-    "Çıxarış": "yoxdur",
-    "İpoteka": "var",
-    "Təmir": "yoxdur"
-  },
-  {
-    "item_id": "5179247",
-    "amount": "595000.0",
-    "currency": "AZN",
-    "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
-    ],
-    "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "230 m²",
-    "Torpaq sahəsi": "7 sot",
-    "Otaq sayı": "5",
-    "Çıxarış": "var",
-    "Təmir": "var"
-  },
-  {
-    "item_id": "5118394",
-    "amount": "340000.0",
-    "currency": "AZN",
-    "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
-    ],
-    "Kateqoriya": "Torpaq",
-    "Sahə": "12 sot",
-    "Çıxarış": "var"
-  },
-  {
     "item_id": "5147145",
     "amount": "133000.0",
     "currency": "AZN",
@@ -1109,6 +1048,18 @@
     "Otaq sayı": "2",
     "Çıxarış": "var",
     "İpoteka": "var",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "5003954",
+    "amount": "103000.0",
+    "currency": "AZN",
+    "location": [],
+    "Kateqoriya": "Yeni tikili",
+    "Mərtəbə": "5 / 9",
+    "Sahə": "96 m²",
+    "Otaq sayı": "3",
+    "Çıxarış": "yoxdur",
     "Təmir": "var"
   },
   {
@@ -1127,19 +1078,32 @@
     "Təmir": "yoxdur"
   },
   {
-    "item_id": "5145673",
-    "amount": "255000.0",
+    "item_id": "5156675",
+    "amount": "345000.0",
     "currency": "AZN",
     "location": [
-      "Neftçilər m.",
-      "Nizami r."
+      "Azadlıq Prospekti m.",
+      "Binəqədi r."
+    ],
+    "Kateqoriya": "Torpaq",
+    "Sahə": "5.2 sot",
+    "Çıxarış": "var",
+    "İpoteka": "var"
+  },
+  {
+    "item_id": "3309447",
+    "amount": "243000.0",
+    "currency": "AZN",
+    "location": [
+      "Binəqədi r.",
+      "Xutor q."
     ],
     "Kateqoriya": "Yeni tikili",
-    "Mərtəbə": "3 / 14",
-    "Sahə": "110 m²",
+    "Mərtəbə": "7 / 16",
+    "Sahə": "135 m²",
     "Otaq sayı": "3",
-    "Çıxarış": "var",
-    "Təmir": "var"
+    "Çıxarış": "yoxdur",
+    "Təmir": "yoxdur"
   },
   {
     "item_id": "5178713",
@@ -1188,16 +1152,16 @@
     "Təmir": "var"
   },
   {
-    "item_id": "5119065",
-    "amount": "390000.0",
+    "item_id": "5140712",
+    "amount": "131000.0",
     "currency": "AZN",
     "location": [
-      "Xəzər r.",
-      "Mərdəkan q."
+      "Abşeron r.",
+      "Novxanı q."
     ],
     "Kateqoriya": "Həyət evi/Bağ evi",
-    "Sahə": "245 m²",
-    "Torpaq sahəsi": "4 sot",
+    "Sahə": "200 m²",
+    "Torpaq sahəsi": "4.8 sot",
     "Otaq sayı": "5",
     "Çıxarış": "var",
     "İpoteka": "var",
@@ -1248,6 +1212,21 @@
     "Otaq sayı": "2",
     "Çıxarış": "var",
     "İpoteka": "var",
+    "Təmir": "var"
+  },
+  {
+    "item_id": "5126935",
+    "amount": "125000.0",
+    "currency": "AZN",
+    "location": [
+      "Abşeron r.",
+      "Novxanı q."
+    ],
+    "Kateqoriya": "Həyət evi/Bağ evi",
+    "Sahə": "210 m²",
+    "Torpaq sahəsi": "11 sot",
+    "Otaq sayı": "5",
+    "Çıxarış": "var",
     "Təmir": "var"
   }
 ]

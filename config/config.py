@@ -1,0 +1,5 @@
+ITEM_URL_BASE = "https://bina.az/items/"
+BASE_URL = "https://bina.az/items/all"
+HOME_FILE = "data/test.html"
+OUTPUT_FILE = "data/items_data.json"
+OUTPUT_CSV_FILE = "data/items_data.csv"

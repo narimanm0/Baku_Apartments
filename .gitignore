@@ -18,6 +18,7 @@ uv.lock
 # Logs and databases
 *.log
 *.sqlite3
+logs/
 
 # IDE / Editor files
 .vscode/
