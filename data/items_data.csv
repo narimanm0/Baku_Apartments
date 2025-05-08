@@ -1,29 +1,85 @@
-,item_id,amount,currency,Kateqoriya,Sahə,Çıxarış,Mərtəbə,Otaq sayı,Təmir,İpoteka,Torpaq sahəsi
-0,5112825,110000,AZN,Torpaq,13.5 sot,var,,,,,
-1,4983218,1800,AZN,Yeni tikili,50 m²,,3 / 6,1.0,var,,
-2,4113285,165000,AZN,Yeni tikili,78 m²,var,3 / 16,3.0,var,var,
-3,4711907,150,AZN,Həyət evi/Bağ evi,500 m²,,,6.0,var,,16 sot
-4,4038124,345000,AZN,Həyət evi/Bağ evi,140 m²,var,,4.0,var,var,4 sot
-5,5167908,245000,AZN,Obyekt,450 m²,var,,,var,,
-6,4687575,444000,AZN,Həyət evi/Bağ evi,250 m²,var,,4.0,var,var,7 sot
-7,4266689,630000,AZN,Həyət evi/Bağ evi,350 m²,var,,5.0,var,var,7.5 sot
-8,4839041,225000,AZN,Həyət evi/Bağ evi,180 m²,var,,4.0,var,var,6 sot
-9,5107114,540000,AZN,Həyət evi/Bağ evi,250 m²,var,,5.0,var,var,7 sot
-10,5172433,730,AZN,Yeni tikili,60 m²,,8 / 13,2.0,var,,
-11,5037112,285000,AZN,Həyət evi/Bağ evi,140 m²,var,,4.0,var,,3 sot
-12,5184523,245000,AZN,Yeni tikili,60 m²,var,15 / 16,2.0,var,var,
-13,5168065,499000,AZN,Həyət evi/Bağ evi,230 m²,var,,5.0,var,var,5.5 sot
-14,5184519,268000,AZN,Həyət evi/Bağ evi,160 m²,var,,4.0,var,var,2 sot
-15,5186450,50000,AZN,Həyət evi/Bağ evi,40 m²,yoxdur,,2.0,var,,3 sot
-16,4624278,255000,AZN,Torpaq,8.3 sot,var,,,,,
-17,4530215,352240,AZN,Yeni tikili,74 m²,yoxdur,1 / 7,2.0,var,var,
-18,5179247,595000,AZN,Həyət evi/Bağ evi,230 m²,var,,5.0,var,,7 sot
-19,5170034,275000,AZN,Yeni tikili,145 m²,var,5 / 16,4.0,var,var,
-20,5181371,600,AZN,Yeni tikili,70 m²,,9 / 16,2.0,var,,
-21,5145673,255000,AZN,Yeni tikili,110 m²,var,3 / 14,3.0,var,,
-22,4999301,215000,AZN,Yeni tikili,60 m²,var,8 / 16,2.0,var,var,
-23,5160637,210000,AZN,Köhnə tikili,75 m²,var,4 / 5,3.0,var,var,
-24,5068771,98000,AZN,Köhnə tikili,35 m²,var,3 / 5,1.0,var,,
-25,5119065,390000,AZN,Həyət evi/Bağ evi,245 m²,var,,5.0,var,var,4 sot
-26,4632009,5600000,AZN,Torpaq,280 sot,var,,,,,
-27,5144278,7500,AZN,Yeni tikili,75 m²,,6 / 8,2.0,var,,
+,item_id,amount,currency,Kateqoriya,Mərtəbə,Sahə,Otaq sayı,Çıxarış,Təmir,Torpaq sahəsi,İpoteka
+0,4959734,310000,AZN,Yeni tikili,6 / 14,150 m²,4.0,var,var,,
+1,5165167,340000,AZN,Həyət evi/Bağ evi,,250 m²,5.0,var,var,6 sot,
+2,5122759,220000,AZN,Köhnə tikili,2 / 9,85 m²,3.0,var,var,,
+3,4802446,225000,AZN,Yeni tikili,5 / 19,130 m²,3.0,yoxdur,var,,
+4,5138486,480000,AZN,Yeni tikili,16 / 17,125 m²,4.0,var,var,,
+5,5186362,1100,AZN,Yeni tikili,3 / 14,180 m²,4.0,,var,,
+6,4113285,165000,AZN,Yeni tikili,3 / 16,78 m²,3.0,var,var,,var
+7,5171230,480000,AZN,Yeni tikili,13 / 17,139 m²,3.0,yoxdur,var,,
+8,4351437,1000000,AZN,Obyekt,,90 m²,,var,var,,
+9,4939762,265000,AZN,Yeni tikili,7 / 17,140 m²,4.0,var,var,,
+10,4061219,5000,AZN,Həyət evi/Bağ evi,,300 m²,5.0,,var,12 sot,
+11,4687575,444000,AZN,Həyət evi/Bağ evi,,250 m²,4.0,var,var,7 sot,var
+12,4839041,225000,AZN,Həyət evi/Bağ evi,,180 m²,4.0,var,var,6 sot,var
+13,5172433,730,AZN,Yeni tikili,8 / 13,60 m²,2.0,,var,,
+14,5037112,285000,AZN,Həyət evi/Bağ evi,,140 m²,4.0,var,var,3 sot,
+15,4707683,260000,AZN,Həyət evi/Bağ evi,,171.4 m²,5.0,var,var,5.8 sot,var
+16,5114032,470000,AZN,Obyekt,,560 m²,,yoxdur,var,,
+17,4749417,145000,AZN,Yeni tikili,14 / 15,94 m²,3.0,var,var,,
+18,5094015,146000,AZN,Yeni tikili,16 / 18,53 m²,2.0,var,var,,var
+19,4966017,232700,AZN,Yeni tikili,7 / 14,116.3 m²,3.0,yoxdur,yoxdur,,var
+20,5151006,105000,AZN,Yeni tikili,5 / 8,75 m²,3.0,yoxdur,var,,
+21,4986500,268000,AZN,Köhnə tikili,3 / 9,125 m²,5.0,var,var,,
+22,5184519,268000,AZN,Həyət evi/Bağ evi,,160 m²,4.0,var,var,2 sot,var
+23,5165139,380000,AZN,Həyət evi/Bağ evi,,200 m²,4.0,var,var,3 sot,
+24,5038500,98000,AZN,Obyekt,,20 m²,,var,var,,var
+25,4624278,255000,AZN,Torpaq,,8.3 sot,,var,,,
+26,4661811,279000,AZN,Həyət evi/Bağ evi,,160 m²,5.0,var,var,3 sot,var
+27,5097244,289000,AZN,Həyət evi/Bağ evi,,54 m²,1.0,yoxdur,var,1 sot,
+28,5170034,275000,AZN,Yeni tikili,5 / 16,145 m²,4.0,var,var,,var
+29,5109657,62500,AZN,Yeni tikili,4 / 6,42 m²,2.0,var,var,,var
+30,5111890,70000,AZN,Həyət evi/Bağ evi,,110 m²,4.0,yoxdur,var,3 sot,
+31,3485086,4000,AZN,Həyət evi/Bağ evi,,300 m²,,,var,12 sot,
+32,4822793,980000,AZN,Obyekt,,370 m²,,yoxdur,var,,
+33,5185733,275000,AZN,Həyət evi/Bağ evi,,180 m²,4.0,var,var,7 sot,var
+34,5104486,159000,AZN,Köhnə tikili,7 / 9,58 m²,1.0,yoxdur,var,,
+35,4959777,163000,AZN,Yeni tikili,5 / 15,98 m²,3.0,var,var,,
+36,5153278,103000,AZN,Yeni tikili,6 / 16,80 m²,3.0,yoxdur,var,,
+37,4999301,215000,AZN,Yeni tikili,8 / 16,60 m²,2.0,var,var,,var
+38,5118470,90000,AZN,Torpaq,,30 sot,,var,,,
+39,4901100,305000,AZN,Yeni tikili,1 / 4,66 m²,1.0,yoxdur,var,,
+40,5115965,44500,AZN,Yeni tikili,7 / 16,30 m²,1.0,yoxdur,var,,
+41,4158518,439775,AZN,Yeni tikili,3 / 16,179.5 m²,4.0,yoxdur,yoxdur,,var
+42,4884485,50000,AZN,Həyət evi/Bağ evi,,160 m²,5.0,yoxdur,var,1 sot,
+43,5068771,98000,AZN,Köhnə tikili,3 / 5,35 m²,1.0,var,var,,
+44,4891042,95000,AZN,Həyət evi/Bağ evi,,112 m²,5.0,yoxdur,yoxdur,2 sot,
+45,5060163,150,AZN,Yeni tikili,16 / 17,87 m²,2.0,,var,,
+46,5107114,540000,AZN,Həyət evi/Bağ evi,,250 m²,5.0,var,var,7 sot,var
+47,3818945,622400,AZN,Yeni tikili,17 / 17,194.5 m²,4.0,var,,,var
+48,5144278,7500,AZN,Yeni tikili,6 / 8,75 m²,2.0,,var,,
+49,4486588,609518,AZN,Yeni tikili,6 / 7,137.9 m²,3.0,yoxdur,var,,var
+50,4280166,230000,AZN,Yeni tikili,13 / 17,124 m²,3.0,yoxdur,var,,
+51,5110014,92000,AZN,Köhnə tikili,4 / 4,60 m²,2.0,var,var,,
+52,5112825,110000,AZN,Torpaq,,13.5 sot,,var,,,
+53,4632009,5600000,AZN,Torpaq,,280 sot,,var,,,
+54,5181767,181000,AZN,Köhnə tikili,9 / 9,90 m²,3.0,var,var,,var
+55,5089925,175000,AZN,Yeni tikili,16 / 17,80 m²,3.0,var,var,,var
+56,5103590,500000,AZN,Həyət evi/Bağ evi,,280 m²,6.0,var,var,20 sot,var
+57,4983218,1800,AZN,Yeni tikili,3 / 6,50 m²,1.0,,var,,
+58,5187275,6500,AZN,Torpaq,,4 sot,,var,,,
+59,3713070,299000,AZN,Həyət evi/Bağ evi,,250 m²,5.0,var,var,6 sot,
+60,4038124,345000,AZN,Həyət evi/Bağ evi,,140 m²,4.0,var,var,4 sot,var
+61,5167908,245000,AZN,Obyekt,,450 m²,,var,var,,
+62,4266689,630000,AZN,Həyət evi/Bağ evi,,350 m²,5.0,var,var,7.5 sot,var
+63,5181362,445000,AZN,Yeni tikili,22 / 27,145 m²,3.0,var,var,,
+64,5186086,950,AZN,Yeni tikili,12 / 20,110 m²,3.0,,var,,
+65,5184523,245000,AZN,Yeni tikili,15 / 16,60 m²,2.0,var,var,,var
+66,5168065,499000,AZN,Həyət evi/Bağ evi,,230 m²,5.0,var,var,5.5 sot,var
+67,5163744,415000,AZN,Yeni tikili,4 / 18,155 m²,4.0,var,var,,var
+68,5187276,699,AZN,Yeni tikili,18 / 20,80 m²,2.0,,var,,
+69,5186450,50000,AZN,Həyət evi/Bağ evi,,40 m²,2.0,yoxdur,var,3 sot,
+70,5187274,29500,AZN,Həyət evi/Bağ evi,,140 m²,4.0,var,yoxdur,6 sot,
+71,5184531,595000,AZN,Həyət evi/Bağ evi,,300 m²,5.0,var,var,8 sot,var
+72,5179247,595000,AZN,Həyət evi/Bağ evi,,230 m²,5.0,var,var,7 sot,
+73,4194193,195000,AZN,Həyət evi/Bağ evi,,150 m²,4.0,var,var,3 sot,var
+74,5149274,240000,AZN,Yeni tikili,5 / 16,162 m²,3.0,yoxdur,yoxdur,,
+75,5147145,133000,AZN,Köhnə tikili,6 / 9,45 m²,2.0,var,var,,var
+76,5095087,189200,AZN,Yeni tikili,5 / 16,71.4 m²,2.0,yoxdur,yoxdur,,
+77,5162858,118000,AZN,Həyət evi/Bağ evi,,200 m²,6.0,var,var,2.5 sot,
+78,5145673,255000,AZN,Yeni tikili,3 / 14,110 m²,3.0,var,var,,
+79,5184396,250000,AZN,Həyət evi/Bağ evi,,240 m²,9.0,var,var,6 sot,
+80,5084859,119500,AZN,Köhnə tikili,4 / 5,55 m²,2.0,var,var,,
+81,5119065,390000,AZN,Həyət evi/Bağ evi,,245 m²,5.0,var,var,4 sot,var
+82,5161334,105000,AZN,Yeni tikili,9 / 12,90 m²,3.0,var,var,,var
+83,5038503,151000,AZN,Yeni tikili,10 / 18,52 m²,2.0,var,var,,var
