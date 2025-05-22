@@ -1,0 +1,72 @@
+Unnamed: 0,Item_id,Amount,Currency,Location,Category,Area,Number_of_rooms,Frontage,Mortgage,Condition,Land_area,Current_floor,Total_floors
+118,5108804,8500,AZN,"['ASAN Xidmət №2', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Ofis,447 m²,5.0,0,0,1,0,0.0,0.0
+209,4976959,1500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,130 m²,4.0,0,0,1,0,0.0,0.0
+220,5175463,3000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Ofis,191 m²,4.0,0,0,1,0,0.0,0.0
+222,4991071,2500,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'Nəsimi r.']",Ofis,107 m²,5.0,0,0,1,0,0.0,0.0
+361,5163633,2000,AZN,"['Binəqədi r.', '9-cu mikrorayon q.']",Ofis,482 m²,7.0,0,0,1,0,0.0,0.0
+390,5012992,20000,AZN,"['Ulduz m.', 'Bakmil m.', 'Nərimanov r.', 'Böyükşor q.']",Ofis,2000 m²,20.0,0,0,1,0,0.0,0.0
+469,4766423,700,AZN,"['Azərbaycan Dövlət Neft və Sənaye Universiteti', '28 May m.', 'Bakı Musiqi Akademiyası', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Ofis,32 m²,1.0,0,0,1,0,0.0,0.0
+764,5185964,1500,AZN,"['Milli Konservatoriya', 'Bakı Musiqi Akademiyası', 'Xaqani bağı', 'Nizami kinoteatrı', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Pedaqoji Universiteti', 'Sahil bağı', '28 May m.', 'Sahil m.', 'Nəsimi r.']",Ofis,105 m²,3.0,0,0,1,0,0.0,0.0
+1128,5180290,720,AZN,"['Tibb Universiteti', 'Nəsimi r.']",Ofis,24 m²,1.0,0,0,1,0,0.0,0.0
+1135,5174703,850,AZN,"['Grand Hayat Residence', '8 Noyabr m.', 'Nərimanov r.']",Ofis,30 m²,2.0,0,0,1,0,0.0,0.0
+1182,4480081,420,AZN,['Nərimanov r.'],Ofis,25 m²,1.0,0,0,1,0,0.0,0.0
+1201,5164890,2800,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Ofis,100.1 m²,3.0,0,0,1,0,0.0,0.0
+1241,5147125,1700,AZN,"['ASAN Xidmət №3', 'Bakı Dövlət Universiteti', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Ofis,104 m²,3.0,0,0,1,0,0.0,0.0
+1282,5047822,1500,AZN,"['ASAN Xidmət №2', 'Ağ şəhər', 'Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Ofis,50 m²,2.0,0,0,1,0,0.0,0.0
+1283,5193370,1000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Ofis,70 m²,2.0,0,0,1,0,0.0,0.0
+1533,5178532,1900,AZN,"['Nizami m.', 'Beşmərtəbə', 'Yasamal r.']",Ofis,120 m²,4.0,0,0,1,0,0.0,0.0
+1609,5115845,2860,AZN,"['Azərbaycan Dillər Universiteti', 'Sirk', 'Bakı Slavyan Universiteti', 'Zabitlər parkı', '28 May m.', 'Nəsimi r.']",Ofis,130 m²,4.0,0,0,1,0,0.0,0.0
+1622,4813255,1200,AZN,"['Yasamal r.', 'Yeni Yasamal q.']",Ofis,120 m²,2.0,0,0,1,0,0.0,0.0
+1668,5194367,450,AZN,"['Mərkəzi Univermaq', 'İçəri Şəhər m.', 'Nizami m.', 'Yasamal r.']",Ofis,18 m²,1.0,0,0,1,0,0.0,0.0
+1692,4830972,8400,AZN,"['Ağ şəhər', 'Xətai r.', 'Ağ şəhər q.']",Ofis,210 m²,7.0,0,0,1,0,0.0,0.0
+1974,4923652,450,AZN,"['Səbail r.', 'Badamdar q.']",Ofis,50 m²,1.0,0,0,1,0,0.0,0.0
+2130,4977403,340,AZN,"['Nizami m.', 'Yasamal r.']",Ofis,20 m²,1.0,0,0,1,0,0.0,0.0
+2444,5193150,1000,AZN,"['Təhsil Nazirliyi', 'Gənclik m.', 'Nərimanov r.']",Ofis,155 m²,4.0,0,0,1,0,0.0,0.0
+2532,5142183,1650,AZN,"['Mərkəzi Park', 'Dövlət Statistika Komitəsi', 'Nizami m.', 'Yasamal r.']",Ofis,90 m²,2.0,0,0,1,0,0.0,0.0
+2698,5137499,1800,AZN,"['Beşmərtəbə', 'Nizami m.', 'Nəsimi r.']",Ofis,200 m²,8.0,0,0,1,0,0.0,0.0
+3050,5059377,1600,AZN,"['Tibb Universiteti', '8 Noyabr m.', 'Nəsimi r.']",Ofis,80 m²,3.0,0,0,1,0,0.0,0.0
+3056,5191427,800,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Ofis,35 m²,1.0,0,0,1,0,0.0,0.0
+3113,5192856,1200,AZN,"['Azərbaycan Dillər Universiteti', 'Bakı Slavyan Universiteti', 'Dostluq kinoteatrı', 'Sirk', '28 May m.', 'Nəsimi r.']",Ofis,86.5 m²,3.0,0,0,1,0,0.0,0.0
+3134,5169562,2100,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Ofis,190 m²,5.0,0,0,1,0,0.0,0.0
+3229,5193786,995000,AZN,"['20 Yanvar m.', '8 Noyabr m.', 'Yasamal r.']",Ofis,600 m²,19.0,1,1,1,0,0.0,0.0
+3262,4959896,200,AZN,"['Nəsimi bazarı', 'Zoopark', 'Koala parkı', 'Nəsimi r.']",Ofis,20 m²,3.0,0,0,1,0,0.0,0.0
+3298,4987244,1800,AZN,"['Ağ şəhər', 'Xətai r.', 'Ağ şəhər q.']",Ofis,50 m²,1.0,0,0,0,0,0.0,0.0
+3328,5192855,2200,AZN,"['Həzi Aslanov m.', 'Ukrayna dairəsi', 'Xətai r.']",Ofis,280.3 m²,10.0,0,0,1,0,0.0,0.0
+3365,5119777,770000,AZN,"['Ağ şəhər', 'Xətai r.', 'Ağ şəhər q.']",Ofis,148.3 m²,3.0,0,0,1,0,0.0,0.0
+3493,5140825,760,AZN,"['Şərq bazarı', 'Nərimanov r.']",Ofis,33 m²,1.0,0,0,1,0,0.0,0.0
+3638,4663623,400,AZN,['Nərimanov r.'],Ofis,18 m²,1.0,0,0,1,0,0.0,0.0
+3653,5108453,750,AZN,"['Nizami m.', 'Yasamal r.']",Ofis,48 m²,3.0,0,0,1,0,0.0,0.0
+3698,5185736,1700,AZN,"['ASAN Xidmət №1', 'Tibb Universiteti', 'Nəsimi r.']",Ofis,90 m²,3.0,0,0,1,0,0.0,0.0
+3928,5176886,2000,AZN,"['Sahil m.', 'Sahil bağı', 'Xaqani bağı', 'Xalça Muzeyi', 'Pedaqoji Universiteti', 'Nizami kinoteatrı', '28 May m.', 'Səbail r.']",Ofis,65 m²,2.0,0,0,1,0,0.0,0.0
+4038,5194117,2000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Ofis,110 m²,3.0,0,0,1,0,0.0,0.0
+4041,5193117,250,AZN,"['Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Ofis,23 m²,1.0,0,0,1,0,0.0,0.0
+4119,5166008,3500,AZN,"['Elmlər Akademiyası m.', 'Hüseyn Cavid parkı', 'Texniki Universiteti', 'Yasamal r.']",Ofis,200 m²,5.0,0,0,1,0,0.0,0.0
+4235,5125048,400,AZN,"['Dərnəgül m.', 'Binəqədi r.', '7-ci mikrorayon q.']",Ofis,24 m²,1.0,0,0,1,0,0.0,0.0
+4319,5135164,3420,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,180 m²,5.0,0,0,1,0,0.0,0.0
+4458,4292334,650,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,30 m²,1.0,0,0,1,0,0.0,0.0
+4559,4607530,8000,AZN,['Nərimanov r.'],Ofis,800 m²,10.0,0,0,1,0,0.0,0.0
+4598,5147615,200000,AZN,['Xətai r.'],Ofis,229 m²,1.0,1,0,0,0,0.0,0.0
+4616,5169351,9000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Ofis,510 m²,15.0,0,0,1,0,0.0,0.0
+4692,5193670,800,AZN,"['Nəriman Nərimanov parkı', 'Rəssamlıq Akademiyası', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,70 m²,2.0,0,0,1,0,0.0,0.0
+4695,5183882,4500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,350 m²,6.0,0,0,1,0,0.0,0.0
+4698,5193006,1000,AZN,"['Zərifə Əliyeva adına park', 'Nəsimi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Ofis,140 m²,4.0,0,0,1,0,0.0,0.0
+4833,5194163,1200,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Ofis,100 m²,4.0,0,0,1,0,0.0,0.0
+4882,5165769,2900,AZN,"['Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Ofis,200 m²,8.0,0,0,1,0,0.0,0.0
+5173,4068848,4000,AZN,"['Nizami m.', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Ofis,400 m²,6.0,0,0,1,0,0.0,0.0
+5602,5021508,900,AZN,"['28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', 'Səməd Vurğun parkı', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Ofis,65 m²,2.0,0,0,1,0,0.0,0.0
+5613,4840509,4500,AZN,"['20 Yanvar m.', 'İnşaatçılar m.', 'Yasamal r.']",Ofis,370 m²,5.0,0,0,1,0,0.0,0.0
+5970,5074070,530,AZN,['Nərimanov r.'],Ofis,20 m²,1.0,0,0,1,0,0.0,0.0
+6024,4803087,4700,AZN,"['ASAN Xidmət №2', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Ofis,168 m²,5.0,0,0,1,0,0.0,0.0
+6076,4672463,3500,AZN,"['Şərq bazarı', 'Nərimanov r.']",Ofis,185 m²,4.0,0,0,1,0,0.0,0.0
+6175,5192886,900,AZN,"['Şərq bazarı', '28 May m.', 'Nərimanov r.']",Ofis,50 m²,2.0,0,0,1,0,0.0,0.0
+6204,5140449,850,AZN,"['Azərbaycan Dillər Universiteti', 'Sirk', 'Bakı Slavyan Universiteti', 'Zabitlər parkı', '28 May m.', 'Nəsimi r.']",Ofis,24 m²,2.0,0,0,1,0,0.0,0.0
+6295,5074212,1210,AZN,"['Tibb Universiteti', 'Park Zorge', 'Rusiya səfirliyi', 'Sevil Qazıyeva parkı', 'Nəsimi r.']",Ofis,55 m²,2.0,0,0,1,0,0.0,0.0
+6792,5160984,3000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Ofis,450 m²,9.0,0,0,1,0,0.0,0.0
+6826,5117980,1300,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,100 m²,5.0,0,0,1,0,0.0,0.0
+6927,5124826,400,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,30 m²,2.0,0,0,1,0,0.0,0.0
+7028,5047643,3600,AZN,"['Zabitlər parkı', 'Nizami m.', 'Sirk', 'Nəsimi r.', 'Kubinka q.']",Ofis,145 m²,3.0,0,0,1,0,0.0,0.0
+7041,4968846,800,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,40 m²,1.0,0,0,1,0,0.0,0.0
+7133,4960649,8000,AZN,"['Təhsil Nazirliyi', 'Nərimanov r.']",Ofis,350 m²,8.0,0,0,1,0,0.0,0.0
+7174,5194158,1500,AZN,['Nərimanov r.'],Ofis,85 m²,3.0,0,0,1,0,0.0,0.0
+7314,5134245,2147,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Ofis,113 m²,3.0,0,0,1,0,0.0,0.0
+7338,4731632,700,AZN,"['Azərbaycan Dillər Universiteti', 'Sirk', 'Bakı Slavyan Universiteti', 'Zabitlər parkı', '28 May m.', 'Nəsimi r.']",Ofis,32 m²,1.0,0,0,1,0,0.0,0.0

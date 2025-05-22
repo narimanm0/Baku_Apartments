@@ -1,0 +1,1921 @@
+Unnamed: 0,Item_id,Amount,Currency,Location,Category,Area,Number_of_rooms,Frontage,Mortgage,Condition,Land_area,Current_floor,Total_floors
+12,5138864,180000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3 sot,0.0,0.0
+13,4542167,495000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,7.2 sot,0.0,0.0
+20,5121336,600,AZN,"['Neftçi bazası', 'Nəsimi r.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,2 sot,0.0,0.0
+27,5192789,95000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,110 m²,4.0,1,0,1,2.2 sot,0.0,0.0
+29,4875516,3500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,5.0,0,0,1,7 sot,0.0,0.0
+30,4303498,435000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+34,5176307,245000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+35,5150735,80000,AZN,[],Həyət evi/Bağ evi,80 m²,3.0,1,0,1,1.2 sot,0.0,0.0
+42,5075150,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,155 m²,4.0,1,1,1,4 sot,0.0,0.0
+45,5109481,470000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,370 m²,5.0,1,1,1,6 sot,0.0,0.0
+46,4523256,454000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,151 m²,4.0,1,0,1,4.3 sot,0.0,0.0
+48,5179500,320000,AZN,[],Həyət evi/Bağ evi,300 m²,7.0,1,0,1,12 sot,0.0,0.0
+56,5058889,67900,AZN,[],Həyət evi/Bağ evi,80 m²,3.0,1,0,1,0.8 sot,0.0,0.0
+60,5169602,85000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,2 sot,0.0,0.0
+64,5192356,875000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,9 sot,0.0,0.0
+70,4886113,250000,AZN,[],Həyət evi/Bağ evi,300 m²,8.0,1,0,1,6 sot,0.0,0.0
+73,5099037,77000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,1.3 sot,0.0,0.0
+84,5109667,215000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,0,0.2 sot,0.0,0.0
+90,5177134,2250000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,420 m²,6.0,1,1,1,6.2 sot,0.0,0.0
+91,4881980,75000,AZN,[],Həyət evi/Bağ evi,131 m²,5.0,0,0,0,10 sot,0.0,0.0
+94,4323490,445000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,0,1,7 sot,0.0,0.0
+100,5192430,875000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,420 m²,9.0,1,0,1,9 sot,0.0,0.0
+102,4786958,430000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,6 sot,0.0,0.0
+103,5194062,220000,AZN,[],Həyət evi/Bağ evi,174 m²,8.0,1,0,1,5 sot,0.0,0.0
+105,5179200,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,135 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+106,4602672,148000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,2.2 sot,0.0,0.0
+107,3482192,700000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,280 m²,0.0,1,0,1,12 sot,0.0,0.0
+111,4868588,235000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+116,4914904,350000,AZN,"['Abşeron r.', 'Görədil q.']",Həyət evi/Bağ evi,300 m²,4.0,0,0,1,6 sot,0.0,0.0
+124,4163331,420000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,486 m²,7.0,1,0,1,5 sot,0.0,0.0
+128,5193942,83000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,100 m²,3.0,1,1,1,2 sot,0.0,0.0
+133,4999915,500000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,340 m²,7.0,1,0,1,9 sot,0.0,0.0
+135,4625838,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,5.5 sot,0.0,0.0
+136,5157488,395000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,175 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+138,5140232,480000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,610 m²,6.0,1,0,0,3 sot,0.0,0.0
+144,5194190,83000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,2.5 sot,0.0,0.0
+145,5176252,250000,AZN,[],Həyət evi/Bağ evi,185 m²,4.0,1,1,0,1.5 sot,0.0,0.0
+148,5130515,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+149,5092572,275000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,150 m²,5.0,1,1,1,3 sot,0.0,0.0
+166,5126226,550000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,600 m²,14.0,1,0,0,14 sot,0.0,0.0
+171,5165245,320000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+173,5071389,485000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,8 sot,0.0,0.0
+176,5193277,195000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,400 m²,7.0,0,0,1,7 sot,0.0,0.0
+184,4467069,548000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,7 sot,0.0,0.0
+191,4963698,98000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,1.6 sot,0.0,0.0
+195,5048859,590000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,1,1,7 sot,0.0,0.0
+200,4774710,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,5.0,1,1,1,4 sot,0.0,0.0
+208,5068299,65000,AZN,"['Binəqədi r.', 'Xocəsən q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,2 sot,0.0,0.0
+210,4170895,6000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,12 sot,0.0,0.0
+211,5194145,50,AZN,[],Həyət evi/Bağ evi,101 m²,3.0,0,0,1,47 sot,0.0,0.0
+217,3515902,200,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,320 m²,4.0,0,0,1,14 sot,0.0,0.0
+224,4759414,248000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+236,4780510,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3 sot,0.0,0.0
+242,4834999,200,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,12 sot,0.0,0.0
+243,5193193,103000,AZN,"['Xocəsən m.', 'Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,5.8 sot,0.0,0.0
+244,4014556,650000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,0,1,7 sot,0.0,0.0
+251,5136823,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,3.0,0,0,1,5 sot,0.0,0.0
+254,4061235,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,380 m²,6.0,0,0,1,16 sot,0.0,0.0
+258,4774952,590000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,5 sot,0.0,0.0
+264,4616917,900000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,500 m²,5.0,1,0,1,12 sot,0.0,0.0
+265,4979691,87000,AZN,[],Həyət evi/Bağ evi,100 m²,4.0,1,0,1,8.5 sot,0.0,0.0
+268,3423595,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,0.0,1,0,1,8 sot,0.0,0.0
+269,4277747,355000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,0,1,4 sot,0.0,0.0
+270,5170931,120000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3 sot,0.0,0.0
+276,5035944,270000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,140 m²,4.0,0,0,1,10 sot,0.0,0.0
+279,5082389,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4 sot,0.0,0.0
+285,4250476,240000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,400 m²,7.0,1,0,1,3.3 sot,0.0,0.0
+293,5152749,185000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3 sot,0.0,0.0
+297,5172102,285000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+302,4324415,690000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,340 m²,7.0,1,1,1,12 sot,0.0,0.0
+303,5194257,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,8 sot,0.0,0.0
+304,5194014,139900,AZN,"['Abşeron r.', 'Mehdiabad q.']",Həyət evi/Bağ evi,240 m²,8.0,1,0,1,6 sot,0.0,0.0
+305,4895033,120000,AZN,"['Abşeron r.', 'Mehdiabad q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,3 sot,0.0,0.0
+311,5137070,69900,AZN,[],Həyət evi/Bağ evi,160 m²,4.0,0,0,0,2.5 sot,0.0,0.0
+312,5193941,118000,AZN,"['Qaradağ r.', 'Sahil q.']",Həyət evi/Bağ evi,282 m²,5.0,0,0,0,2.7 sot,0.0,0.0
+316,5193588,89000,AZN,[],Həyət evi/Bağ evi,200 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+317,5170057,470000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,4 sot,0.0,0.0
+318,5184276,136000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,1,1,2.5 sot,0.0,0.0
+324,5051710,399000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,3 sot,0.0,0.0
+331,4652577,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,5.5 sot,0.0,0.0
+333,5009424,58000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,75 m²,3.0,1,1,1,1.2 sot,0.0,0.0
+334,4204278,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,320 m²,7.0,0,0,1,24 sot,0.0,0.0
+335,5105150,260000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Həyət evi/Bağ evi,220 m²,7.0,1,0,1,1.3 sot,0.0,0.0
+345,5155596,295000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+355,5112641,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+356,2897917,120,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,3.0,0,0,1,8 sot,0.0,0.0
+358,4412419,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+360,5018620,890000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,320 m²,5.0,1,1,1,12 sot,0.0,0.0
+368,5112421,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,4 sot,0.0,0.0
+371,5129178,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,360 m²,6.0,1,1,1,6 sot,0.0,0.0
+372,4501847,325000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+373,5137097,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+374,5015799,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,7.0,0,0,1,25 sot,0.0,0.0
+385,5027351,84000,AZN,[],Həyət evi/Bağ evi,90 m²,3.0,1,1,1,4 sot,0.0,0.0
+388,4777883,780000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,0,1,10 sot,0.0,0.0
+391,5165699,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3 sot,0.0,0.0
+393,5132097,95000,AZN,"['Sabunçu r.', 'Balaxanı q.']",Həyət evi/Bağ evi,125 m²,3.0,1,0,1,1.7 sot,0.0,0.0
+394,5188630,268000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,3 sot,0.0,0.0
+397,5194342,160000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,2.3 sot,0.0,0.0
+403,4743243,280000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,5 sot,0.0,0.0
+408,5163032,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+410,5194241,99500,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,100 m²,4.0,1,1,1,1 sot,0.0,0.0
+412,5018713,230000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,3 sot,0.0,0.0
+414,5126767,125000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,220 m²,6.0,1,1,1,3.5 sot,0.0,0.0
+423,5109434,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,6 sot,0.0,0.0
+424,5159575,250,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,12 sot,0.0,0.0
+425,4714490,345000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,0,1,5 sot,0.0,0.0
+428,5154155,598000,AZN,"['Xəzər r.', 'Dübəndi q.']",Həyət evi/Bağ evi,250 m²,4.0,1,0,1,7 sot,0.0,0.0
+430,4862788,310000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4.2 sot,0.0,0.0
+433,5189962,135000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,0,3.5 sot,0.0,0.0
+438,4380532,250,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,0.0,0,0,1,9 sot,0.0,0.0
+439,4538044,495000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,8 sot,0.0,0.0
+443,3872783,790000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,350 m²,6.0,1,1,1,15 sot,0.0,0.0
+445,4785228,399000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,270 m²,4.0,0,0,0,8 sot,0.0,0.0
+447,4938074,320000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,168 m²,4.0,1,0,1,9 sot,0.0,0.0
+456,4232312,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+460,5073657,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,5.0,1,0,1,3 sot,0.0,0.0
+462,4820932,455000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,0,1,6 sot,0.0,0.0
+464,5153629,190000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,330 m²,6.0,1,0,1,4 sot,0.0,0.0
+476,5135671,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+477,5168913,46000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,50 m²,2.0,1,1,1,1 sot,0.0,0.0
+488,5094798,320000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,7 sot,0.0,0.0
+489,5109468,850000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,475 m²,6.0,1,1,1,18 sot,0.0,0.0
+494,4862775,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+496,5193607,31000,AZN,[],Həyət evi/Bağ evi,36 m²,3.0,0,0,1,2 sot,0.0,0.0
+497,4996260,229000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+499,5162858,118000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,200 m²,6.0,1,0,1,2.5 sot,0.0,0.0
+500,5193174,5500,AZN,"['Sabunçu r.', 'Pirşağı q.']",Həyət evi/Bağ evi,410 m²,5.0,0,0,1,15 sot,0.0,0.0
+501,5193986,200000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,200 m²,6.0,1,0,1,8 sot,0.0,0.0
+512,5110908,960000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,6.0,1,1,1,12 sot,0.0,0.0
+515,4987622,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,5 sot,0.0,0.0
+517,4371206,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,10 sot,0.0,0.0
+523,3696489,1050000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,7.0,1,0,1,14 sot,0.0,0.0
+524,4780101,590000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,7 sot,0.0,0.0
+535,5038592,130000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,2 sot,0.0,0.0
+536,4995918,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+537,4248282,165000,AZN,[],Həyət evi/Bağ evi,166 m²,6.0,1,1,1,1.8 sot,0.0,0.0
+548,5035879,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+557,5192133,150000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,148 m²,7.0,1,1,1,6 sot,0.0,0.0
+567,4987547,220000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4 sot,0.0,0.0
+568,5183987,83000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,220 m²,7.0,1,0,0,2 sot,0.0,0.0
+570,5194206,95000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,90.2 m²,3.0,1,1,1,3 sot,0.0,0.0
+580,5193081,67300,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,120 m²,3.0,1,1,1,3 sot,0.0,0.0
+587,4409888,200,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,5 sot,0.0,0.0
+594,5184435,320000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+595,5097195,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,7 sot,0.0,0.0
+601,4875633,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,0,1,6 sot,0.0,0.0
+606,4784103,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,3.7 sot,0.0,0.0
+610,5074544,98000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+612,5042128,460000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,240 m²,7.0,1,0,1,2.5 sot,0.0,0.0
+617,4588172,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+619,5152395,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,3 sot,0.0,0.0
+620,5136437,760000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,440 m²,6.0,1,1,1,6 sot,0.0,0.0
+633,4788871,357000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,6 sot,0.0,0.0
+636,4777629,435000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,1,0,1,6 sot,0.0,0.0
+638,4700897,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,6.0,1,1,1,14 sot,0.0,0.0
+644,5121716,85000,AZN,['Xətai r.'],Həyət evi/Bağ evi,75 m²,3.0,0,0,1,1 sot,0.0,0.0
+653,4972194,640000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,8 sot,0.0,0.0
+655,5120089,165000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,8 sot,0.0,0.0
+656,5194118,122000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,250 m²,8.0,1,0,1,2.5 sot,0.0,0.0
+657,4540124,460000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,1,1,8 sot,0.0,0.0
+663,4605527,3500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,3.0,0,0,1,10 sot,0.0,0.0
+666,4697764,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,6.0,1,0,1,14 sot,0.0,0.0
+668,4331791,32000,AZN,"['Abşeron r.', 'Hökməli q.']",Həyət evi/Bağ evi,200 m²,6.0,1,0,0,3.5 sot,0.0,0.0
+672,4788482,535000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,4.0,1,0,1,8 sot,0.0,0.0
+675,4776393,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+676,5097190,540000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,7 sot,0.0,0.0
+683,4952530,369000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,6 sot,0.0,0.0
+686,5194313,240000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,105 m²,3.0,1,1,1,3 sot,0.0,0.0
+688,4792296,685000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,1,1,7.5 sot,0.0,0.0
+692,5193859,110000,AZN,"['Abşeron r.', 'Hökməli q.']",Həyət evi/Bağ evi,190 m²,7.0,1,0,0,3 sot,0.0,0.0
+706,5192781,90000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+709,5007533,1700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,17 sot,0.0,0.0
+714,5128040,85000,AZN,"['Abşeron r.', 'Atyalı q.']",Həyət evi/Bağ evi,100 m²,4.0,1,0,1,5 sot,0.0,0.0
+715,5125116,395000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,5.0,1,1,1,5 sot,0.0,0.0
+717,5193510,115000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,110 m²,3.0,1,0,1,4.7 sot,0.0,0.0
+719,5061117,1700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,1,1,17 sot,0.0,0.0
+720,5109319,55000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,65 m²,2.0,1,0,1,2 sot,0.0,0.0
+727,4737667,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,12 sot,0.0,0.0
+730,4311408,155000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,140 m²,5.0,1,0,1,1.5 sot,0.0,0.0
+733,5194297,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.6 sot,0.0,0.0
+737,4675958,225000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,277.3 m²,5.0,1,1,1,6 sot,0.0,0.0
+740,4272478,415000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+743,5182009,110000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,240 m²,6.0,1,1,0,3 sot,0.0,0.0
+745,4897103,69500,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,120 m²,3.0,1,1,1,1 sot,0.0,0.0
+749,5173659,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,7 sot,0.0,0.0
+750,4840422,160000,AZN,[],Həyət evi/Bağ evi,114 m²,5.0,1,0,1,7.6 sot,0.0,0.0
+754,4682203,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,1,1,5 sot,0.0,0.0
+768,4458092,200,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,10 m²,4.0,0,0,1,12 sot,0.0,0.0
+769,5002152,660000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,7 sot,0.0,0.0
+771,5166891,580000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Köhnə Günəşli q.']",Həyət evi/Bağ evi,400 m²,7.0,1,1,1,3 sot,0.0,0.0
+774,5179787,650000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,600 m²,6.0,1,0,1,11 sot,0.0,0.0
+776,4853255,255000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+777,4077951,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4 sot,0.0,0.0
+778,5055770,12000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,800 m²,8.0,0,0,1,15 sot,0.0,0.0
+781,2607226,850000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,570 m²,0.0,1,0,0,12 sot,0.0,0.0
+785,4725417,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+786,5182908,390000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,260 m²,4.0,1,1,1,3 sot,0.0,0.0
+789,5111878,92000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,0,7 sot,0.0,0.0
+790,5183520,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+792,4320653,495000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,255 m²,4.0,1,1,1,6 sot,0.0,0.0
+795,5020617,550000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,7 sot,0.0,0.0
+799,5125377,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,4 sot,0.0,0.0
+800,4912143,200,AZN,[],Həyət evi/Bağ evi,150 m²,4.0,0,0,1,4 sot,0.0,0.0
+801,4608581,1700000,AZN,"['Xətai r.', 'Köhnə Günəşli q.']",Həyət evi/Bağ evi,1000 m²,8.0,1,0,1,12 sot,0.0,0.0
+803,5064819,115000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,2 sot,0.0,0.0
+804,4994659,230000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,3 sot,0.0,0.0
+815,5113585,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,0,2.5 sot,0.0,0.0
+826,5115537,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+831,4755524,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+839,4400362,450,AZN,[],Həyət evi/Bağ evi,350 m²,8.0,0,0,1,5 sot,0.0,0.0
+846,5155622,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,3 sot,0.0,0.0
+850,5134225,595000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,250 m²,6.0,1,0,1,12 sot,0.0,0.0
+852,4042192,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,6 sot,0.0,0.0
+860,4774903,195000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,3.0,1,0,1,4 sot,0.0,0.0
+866,5170443,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,8 sot,0.0,0.0
+867,4995495,540000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,1,1,7 sot,0.0,0.0
+870,5193773,130000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,3 sot,0.0,0.0
+874,5122923,695000,AZN,"['Sabunçu r.', 'Pirşağı q.']",Həyət evi/Bağ evi,480 m²,10.0,1,0,1,22 sot,0.0,0.0
+875,4995904,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,0,1,6.5 sot,0.0,0.0
+881,4833484,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,5 sot,0.0,0.0
+882,5193423,57000,AZN,"['Səbail r.', '20-ci sahə q.']",Həyət evi/Bağ evi,50 m²,2.0,0,0,1,0.3 sot,0.0,0.0
+888,4914241,485000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,206 m²,4.0,1,1,1,5 sot,0.0,0.0
+889,5033715,840000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,760 m²,12.0,1,1,1,9 sot,0.0,0.0
+891,5194058,150,AZN,[],Həyət evi/Bağ evi,200 m²,6.0,0,0,1,8 sot,0.0,0.0
+893,4780501,600000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,7.0,1,1,1,6.5 sot,0.0,0.0
+903,4704288,250,AZN,[],Həyət evi/Bağ evi,280 m²,6.0,0,0,1,10 sot,0.0,0.0
+909,5010775,310000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.2 sot,0.0,0.0
+912,5111909,67000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,80 m²,3.0,1,1,1,3 sot,0.0,0.0
+914,5115470,99000,AZN,"['Qaradağ r.', 'Lökbatan q.']",Həyət evi/Bağ evi,150 m²,3.0,1,1,1,3 sot,0.0,0.0
+915,2763084,1400000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,0.0,1,0,0,11 sot,0.0,0.0
+922,4474646,105000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,6.0,1,0,0,3 sot,0.0,0.0
+928,4644209,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,12 sot,0.0,0.0
+936,5182736,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+939,5112875,390000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,450 m²,8.0,1,0,0,11 sot,0.0,0.0
+947,4328498,210000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+949,4618339,80000,AZN,[],Həyət evi/Bağ evi,460 m²,8.0,1,0,0,4 sot,0.0,0.0
+956,5064932,590000,AZN,"['Xətai r.', 'Köhnə Günəşli q.']",Həyət evi/Bağ evi,360 m²,7.0,1,0,1,3.5 sot,0.0,0.0
+962,4852944,1550000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,550 m²,6.0,1,0,1,8 sot,0.0,0.0
+963,4655247,196000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,5.0,1,1,1,3 sot,0.0,0.0
+967,4881708,530000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,1,1,5 sot,0.0,0.0
+972,5194222,650000,AZN,['Səbail r.'],Həyət evi/Bağ evi,556 m²,7.0,1,1,1,4.5 sot,0.0,0.0
+973,3813692,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,0,1,5 sot,0.0,0.0
+975,5181826,145000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,100 m²,3.0,1,1,1,11 sot,0.0,0.0
+977,5175261,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+979,4255254,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+982,4767648,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+984,5172290,6500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,1000 m²,6.0,0,0,1,50 sot,0.0,0.0
+988,4998804,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,6.5 sot,0.0,0.0
+1000,4740232,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,5.0,1,1,1,5 sot,0.0,0.0
+1004,5094999,255000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,226 m²,6.0,1,0,1,17 sot,0.0,0.0
+1007,5099644,230000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,240 m²,5.0,0,0,1,6 sot,0.0,0.0
+1012,5130797,180000,AZN,"['Suraxanı r.', 'Yeni Günəşli q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+1013,5101275,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,175 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+1015,5189256,7000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,88 m²,2.0,0,0,1,10000 sot,0.0,0.0
+1019,5066164,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+1020,5034838,295000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,4 sot,0.0,0.0
+1026,5027286,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,0,1,8 sot,0.0,0.0
+1035,5141045,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,12 sot,0.0,0.0
+1037,5177065,100,AZN,[],Həyət evi/Bağ evi,160 m²,3.0,0,0,1,20 sot,0.0,0.0
+1041,4467753,358000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,1,0,1,6 sot,0.0,0.0
+1045,5106497,379000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,4 sot,0.0,0.0
+1052,5194154,95000,AZN,"['Suraxanı r.', 'Yeni Suraxanı q.']",Həyət evi/Bağ evi,152 m²,3.0,1,1,0,1.8 sot,0.0,0.0
+1054,5128194,339000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,5 sot,0.0,0.0
+1055,5034984,77000,AZN,"['Qaradağ r.', 'Lökbatan q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,3.5 sot,0.0,0.0
+1062,4211647,2000000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,650 m²,10.0,1,0,1,7 sot,0.0,0.0
+1064,5027376,235000,AZN,"['Qaradağ r.', 'Lökbatan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,2 sot,0.0,0.0
+1070,5191676,450000,AZN,"['Avtovağzal m.', 'Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,300 m²,7.0,1,0,1,5.5 sot,0.0,0.0
+1073,4859740,435000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+1078,4707664,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,6 sot,0.0,0.0
+1079,4786902,660000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,1,1,7 sot,0.0,0.0
+1084,5181393,240000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,3.0,1,0,1,3 sot,0.0,0.0
+1086,4808206,9000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,8 sot,0.0,0.0
+1087,5076393,790000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,450 m²,9.0,1,1,1,3.5 sot,0.0,0.0
+1094,4355289,555000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,7 sot,0.0,0.0
+1095,4336773,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,5 sot,0.0,0.0
+1106,5155997,400000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,7.0,1,0,1,5 sot,0.0,0.0
+1108,4590466,85000,AZN,[],Həyət evi/Bağ evi,120 m²,4.0,1,0,1,1.1 sot,0.0,0.0
+1109,5167744,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,3 sot,0.0,0.0
+1114,5050284,399000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,3 sot,0.0,0.0
+1115,4730026,250000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+1116,4789753,900000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,330 m²,6.0,1,1,0,20 sot,0.0,0.0
+1147,5184396,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,9.0,1,0,1,6 sot,0.0,0.0
+1158,4310799,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,0,1,6 sot,0.0,0.0
+1173,5180819,910000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,5.0,1,0,1,18 sot,0.0,0.0
+1175,5156428,320000,AZN,"['Nardaran q.', 'Sabunçu r.']",Həyət evi/Bağ evi,420 m²,9.0,1,0,1,25 sot,0.0,0.0
+1176,5163815,3000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,4 sot,0.0,0.0
+1179,5066437,470000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,7 sot,0.0,0.0
+1188,5169229,470000,AZN,"['Binəqədi r.', '28 May q.']",Həyət evi/Bağ evi,1000 m²,11.0,1,0,1,10 sot,0.0,0.0
+1189,5173073,4500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,9 sot,0.0,0.0
+1190,4682894,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+1195,5192776,1500,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,205 m²,2.0,0,0,1,12.7 sot,0.0,0.0
+1196,5188502,138000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,152 m²,4.0,1,1,1,4 sot,0.0,0.0
+1199,4301189,4500,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,8 sot,0.0,0.0
+1206,5113345,170000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,6 sot,0.0,0.0
+1209,5178282,550000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,270 m²,6.0,1,0,1,11 sot,0.0,0.0
+1218,5189470,450000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,0,1,12 sot,0.0,0.0
+1219,5019302,155000,AZN,['Binəqədi r.'],Həyət evi/Bağ evi,200 m²,4.0,0,0,1,1.5 sot,0.0,0.0
+1220,5171248,130,AZN,[],Həyət evi/Bağ evi,300 m²,5.0,0,0,1,16 sot,0.0,0.0
+1221,5178500,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3.8 sot,0.0,0.0
+1225,4232329,530000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,1,1,6 sot,0.0,0.0
+1226,4470920,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,6 sot,0.0,0.0
+1233,4561327,395000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,35 sot,0.0,0.0
+1239,4796761,200,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,3.0,0,0,1,10 sot,0.0,0.0
+1243,3642532,400,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,0,0,1,30 sot,0.0,0.0
+1245,3583165,210000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3 sot,0.0,0.0
+1248,5150107,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+1249,5173671,15000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,560 m²,6.0,0,0,1,20 sot,0.0,0.0
+1250,4748657,260000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+1252,5017946,218000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+1255,4491389,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,6.5 sot,0.0,0.0
+1256,5045704,145000,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,260 m²,7.0,0,0,1,2 sot,0.0,0.0
+1261,4661405,185000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,300 m²,7.0,1,0,1,3 sot,0.0,0.0
+1266,5114652,250000,AZN,"['Abşeron r.', 'Mehdiabad q.']",Həyət evi/Bağ evi,450 m²,9.0,1,0,1,7 sot,0.0,0.0
+1269,4014641,1550000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,600 m²,7.0,1,0,1,18 sot,0.0,0.0
+1281,4287967,310000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,6 sot,0.0,0.0
+1291,4342401,325000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,6 sot,0.0,0.0
+1292,5111106,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+1296,5193092,95000,AZN,"['Azadlıq Prospekti m.', 'Nəsimi m.', 'Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,113.4 m²,4.0,1,0,1,2 sot,0.0,0.0
+1297,5152629,458000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,350 m²,8.0,1,1,1,3.5 sot,0.0,0.0
+1299,4391091,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,5 sot,0.0,0.0
+1301,4944928,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+1302,5193321,1900000,AZN,"['Gənclik m.', 'Nərimanov r.']",Həyət evi/Bağ evi,450 m²,7.0,1,1,1,6 sot,0.0,0.0
+1304,4353935,210000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3.3 sot,0.0,0.0
+1306,4595846,250000,AZN,[],Həyət evi/Bağ evi,350 m²,7.0,1,0,1,24 sot,0.0,0.0
+1307,5112680,4000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,0,0,1,9.5 sot,0.0,0.0
+1308,4440759,8000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,600 m²,10.0,0,0,1,24 sot,0.0,0.0
+1315,5194140,300,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,36 m²,2.0,0,0,1,1 sot,0.0,0.0
+1317,4842566,285000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,5 sot,0.0,0.0
+1320,4762966,454000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4.2 sot,0.0,0.0
+1321,4335846,90000,AZN,[],Həyət evi/Bağ evi,140 m²,5.0,1,0,1,25 sot,0.0,0.0
+1322,4776500,780000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,7.5 sot,0.0,0.0
+1325,4886232,730000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,7 sot,0.0,0.0
+1326,4743757,248000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,165 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+1333,5122662,200000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,0,1,12 sot,0.0,0.0
+1335,5173684,4500,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,7 sot,0.0,0.0
+1341,4996001,654500,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,390 m²,9.0,1,1,0,6 sot,0.0,0.0
+1342,5040987,245000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,6 sot,0.0,0.0
+1344,4540141,480000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,4 sot,0.0,0.0
+1348,4112607,5000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,290 m²,5.0,0,0,1,15 sot,0.0,0.0
+1349,5187678,300000,AZN,"['Sabunçu r.', 'Yeni Ramana q.']",Həyət evi/Bağ evi,380 m²,7.0,0,0,1,5 sot,0.0,0.0
+1352,5073691,840000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,500 m²,8.0,1,0,1,18 sot,0.0,0.0
+1356,4787918,285000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,0,3 sot,0.0,0.0
+1358,4391013,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+1361,5193348,320000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,3.0,1,0,1,4 sot,0.0,0.0
+1364,5194404,100000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,130 m²,5.0,1,0,1,5 sot,0.0,0.0
+1368,4995933,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+1370,5191980,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,7.2 sot,0.0,0.0
+1389,5165616,230000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,0,18 sot,0.0,0.0
+1391,5182821,460000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,235 m²,7.0,1,0,1,2.5 sot,0.0,0.0
+1395,4382279,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,500 m²,6.0,0,0,1,30 sot,0.0,0.0
+1400,3941924,5000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,12 sot,0.0,0.0
+1407,5194383,150,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,13 sot,0.0,0.0
+1408,5187755,369000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,250 m²,6.0,1,1,1,12.5 sot,0.0,0.0
+1413,5082395,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,6.0,1,0,1,6 sot,0.0,0.0
+1414,5170177,655000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,4.0,1,1,1,6.5 sot,0.0,0.0
+1417,4413180,650000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,6.0,1,0,1,11 sot,0.0,0.0
+1419,4990137,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,1,3 sot,0.0,0.0
+1420,5192724,440000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,300 m²,8.0,1,0,1,6 sot,0.0,0.0
+1426,4857035,310000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+1427,4969982,1000000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,710 m²,7.0,1,1,0,5.5 sot,0.0,0.0
+1432,5111455,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+1446,3117136,480000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,0.0,1,1,1,6 sot,0.0,0.0
+1448,5017914,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4 sot,0.0,0.0
+1450,5148128,5500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,0,0,1,12 sot,0.0,0.0
+1454,5148215,675000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,8.5 sot,0.0,0.0
+1460,5102526,440000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,11 sot,0.0,0.0
+1461,4741582,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,5.0,1,1,1,4 sot,0.0,0.0
+1465,5068581,750000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,450 m²,10.0,1,0,1,30 sot,0.0,0.0
+1466,4987543,245000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+1477,4491669,770000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,6.0,1,0,1,8 sot,0.0,0.0
+1478,2605393,690000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,0.0,1,0,0,10 sot,0.0,0.0
+1487,3646922,985000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,5 sot,0.0,0.0
+1488,4927659,320000,AZN,[],Həyət evi/Bağ evi,280 m²,5.0,1,1,1,6 sot,0.0,0.0
+1494,5194284,95000,AZN,"['Sabunçu r.', 'Sabunçu q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,2.2 sot,0.0,0.0
+1499,5178674,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,10 sot,0.0,0.0
+1502,5066882,220000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+1504,5193595,4000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,3.0,0,0,1,10 sot,0.0,0.0
+1505,4776269,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,330 m²,5.0,1,0,1,5 sot,0.0,0.0
+1506,5150701,570000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,6 sot,0.0,0.0
+1512,5070785,4000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,12 sot,0.0,0.0
+1513,5163843,570000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,5.5 sot,0.0,0.0
+1515,5173735,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+1528,5194286,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+1530,4636690,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4 sot,0.0,0.0
+1534,4580873,105000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,166 m²,6.0,1,0,0,1.5 sot,0.0,0.0
+1545,5193596,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,4 sot,0.0,0.0
+1546,2342534,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,237 m²,0.0,1,0,1,7 sot,0.0,0.0
+1547,4839995,319000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,155 m²,4.0,1,1,1,4 sot,0.0,0.0
+1569,5112830,210000,AZN,"['Avtovağzal m.', 'Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,175 m²,5.0,1,0,1,2.5 sot,0.0,0.0
+1574,5172753,167000,AZN,"['Albalılıq q.', 'Xəzər r.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,13 sot,0.0,0.0
+1576,5109910,300000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+1577,4441792,510000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,6 sot,0.0,0.0
+1580,5174149,4500,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,125 m²,4.0,0,0,1,5 sot,0.0,0.0
+1581,5044123,790000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,400 m²,6.0,1,1,0,15 sot,0.0,0.0
+1584,4045079,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,1,1,6 sot,0.0,0.0
+1587,3422684,560000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,0.0,1,0,1,7 sot,0.0,0.0
+1588,5091594,2000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,140 m²,6.0,0,0,1,24 sot,0.0,0.0
+1591,4268030,6000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,0,0,1,10 sot,0.0,0.0
+1592,3897333,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+1596,4852187,310000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4.2 sot,0.0,0.0
+1601,5194080,58000,AZN,[],Həyət evi/Bağ evi,90 m²,3.0,1,0,1,1.6 sot,0.0,0.0
+1610,5192823,60000,AZN,[],Həyət evi/Bağ evi,119 m²,3.0,1,0,1,6 sot,0.0,0.0
+1623,5194201,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,3 sot,0.0,0.0
+1629,4809074,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,7 sot,0.0,0.0
+1633,5190751,450000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,9 sot,0.0,0.0
+1636,3505528,950000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,7.0,1,0,1,16 sot,0.0,0.0
+1638,5108083,3000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,450 m²,6.0,0,0,1,5 sot,0.0,0.0
+1651,5192931,875000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,440 m²,6.0,1,1,1,9 sot,0.0,0.0
+1654,4939777,890000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,12 sot,0.0,0.0
+1659,2853383,15000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,10 sot,0.0,0.0
+1660,5110435,135000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,3 sot,0.0,0.0
+1663,5193636,650000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,8.0,1,1,1,10 sot,0.0,0.0
+1666,5188828,185000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,3.8 sot,0.0,0.0
+1667,5065032,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4 sot,0.0,0.0
+1669,5046854,78000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,122 m²,4.0,1,1,1,1.4 sot,0.0,0.0
+1670,4829701,170000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,3 sot,0.0,0.0
+1673,5106717,339000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,240 m²,6.0,1,1,1,6 sot,0.0,0.0
+1674,4789300,285000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+1677,4970089,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,155 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+1688,3292457,1350000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,410 m²,7.0,1,1,1,14.5 sot,0.0,0.0
+1693,4629659,1390000,AZN,['Xəzər r.'],Həyət evi/Bağ evi,606 m²,7.0,1,1,1,16 sot,0.0,0.0
+1695,5071123,885000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,1,1,7.2 sot,0.0,0.0
+1699,5176765,185000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,120 m²,3.0,1,1,1,3.5 sot,0.0,0.0
+1705,5112326,150,AZN,['Xəzər r.'],Həyət evi/Bağ evi,110 m²,4.0,0,0,1,4 sot,0.0,0.0
+1710,5065069,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+1716,4872668,525000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,4.0,1,1,1,7 sot,0.0,0.0
+1720,4843328,235000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,150 m²,5.0,1,0,1,11 sot,0.0,0.0
+1722,4662378,140000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,160 m²,6.0,1,1,1,3.4 sot,0.0,0.0
+1727,4722475,80000,AZN,[],Həyət evi/Bağ evi,115 m²,4.0,1,0,1,1.2 sot,0.0,0.0
+1728,4687552,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+1730,5061138,83000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+1734,5097203,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,235 m²,5.0,1,1,1,4 sot,0.0,0.0
+1739,5063616,6500,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,5 sot,0.0,0.0
+1741,5117922,295000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+1743,5184338,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,8 sot,0.0,0.0
+1745,5032166,360000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,350 m²,4.0,1,1,1,11 sot,0.0,0.0
+1751,5062687,229000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,240 m²,6.0,1,0,1,3 sot,0.0,0.0
+1755,5073603,515000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,8 sot,0.0,0.0
+1756,5192839,13000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,450 m²,10.0,0,0,1,8 sot,0.0,0.0
+1763,5031620,499000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,0,1,5 sot,0.0,0.0
+1765,4565849,99000,AZN,"['Abşeron r.', 'Saray q.']",Həyət evi/Bağ evi,240 m²,7.0,1,0,1,14 sot,0.0,0.0
+1768,4967192,135000,AZN,[],Həyət evi/Bağ evi,150 m²,4.0,1,0,1,2 sot,0.0,0.0
+1780,5194244,245000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+1784,5133257,6000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,25 sot,0.0,0.0
+1788,4969113,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,12 sot,0.0,0.0
+1789,3841809,3400000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,2000 m²,10.0,1,0,1,26 sot,0.0,0.0
+1799,4401314,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,16 sot,0.0,0.0
+1800,4778704,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,4 sot,0.0,0.0
+1805,5139632,185000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,12 sot,0.0,0.0
+1809,5103944,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,350 m²,6.0,0,0,0,14 sot,0.0,0.0
+1812,5170459,120000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,100 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+1822,4419757,185000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+1827,5092320,250000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,2.8 sot,0.0,0.0
+1840,4632131,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,4 sot,0.0,0.0
+1843,4796136,1500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,0,0,1,7 sot,0.0,0.0
+1845,5193960,82000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,90 m²,3.0,1,0,1,3 sot,0.0,0.0
+1849,2917379,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,290 m²,0.0,0,0,1,8 sot,0.0,0.0
+1850,5017971,540000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,7 sot,0.0,0.0
+1851,5193388,137000,AZN,[],Həyət evi/Bağ evi,160 m²,5.0,1,0,1,4 sot,0.0,0.0
+1854,5147733,645000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Həyət evi/Bağ evi,340 m²,10.0,1,0,1,2 sot,0.0,0.0
+1857,5190557,1250000,AZN,"['Qara Qarayev m.', 'Nizami r.']",Həyət evi/Bağ evi,566 m²,6.0,1,0,1,13 sot,0.0,0.0
+1860,5194224,499,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.']",Həyət evi/Bağ evi,80 m²,2.0,0,0,1,1 sot,0.0,0.0
+1864,5095822,1050000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,7.0,1,1,1,14 sot,0.0,0.0
+1865,4131795,2500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,4.3 sot,0.0,0.0
+1866,2097115,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,110 m²,3.0,0,0,1,5 sot,0.0,0.0
+1871,3846191,125000,AZN,"['Xəzər r.', 'Binə q.', 'Binə atçılıq mərkəzi']",Həyət evi/Bağ evi,240 m²,7.0,0,0,1,2.7 sot,0.0,0.0
+1873,4368116,625000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,8 sot,0.0,0.0
+1875,4712298,50000,AZN,[],Həyət evi/Bağ evi,70 m²,2.0,0,0,1,2.5 sot,0.0,0.0
+1878,5159490,175000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+1882,5170267,490000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,7 sot,0.0,0.0
+1886,4776637,155000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,3.0,1,1,1,3 sot,0.0,0.0
+1890,5192729,430000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,0,1,6 sot,0.0,0.0
+1894,4692790,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+1895,5111654,46000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,50 m²,2.0,1,0,1,1.2 sot,0.0,0.0
+1898,5168597,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,340 m²,9.0,1,0,1,6 sot,0.0,0.0
+1903,5115840,195000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,3.0,1,0,1,4 sot,0.0,0.0
+1909,5162964,245000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4 sot,0.0,0.0
+1923,4909752,6000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,0,0,1,8 sot,0.0,0.0
+1927,4774707,454000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4.2 sot,0.0,0.0
+1929,4897875,530000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,5 sot,0.0,0.0
+1931,5163881,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,4.5 sot,0.0,0.0
+1932,4492646,350,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,4.0,0,0,1,6 sot,0.0,0.0
+1937,5167214,200000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,160 m²,5.0,1,0,1,2.2 sot,0.0,0.0
+1944,5103902,570000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,550 m²,5.0,1,0,0,8.5 sot,0.0,0.0
+1946,5194027,43000,AZN,"['Abşeron r.', 'Qobu q.']",Həyət evi/Bağ evi,80 m²,4.0,0,0,1,3 sot,0.0,0.0
+1952,5136245,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4 sot,0.0,0.0
+1953,5193918,169000,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,170 m²,6.0,1,0,1,3 sot,0.0,0.0
+1955,5133459,85000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,90 m²,3.0,1,1,1,1.5 sot,0.0,0.0
+1957,5194279,450000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,290 m²,5.0,1,1,1,6 sot,0.0,0.0
+1958,5119117,73900,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,105 m²,3.0,1,1,1,1.1 sot,0.0,0.0
+1960,4232305,520000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,5.5 sot,0.0,0.0
+1963,5102249,515000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,1,1,7.5 sot,0.0,0.0
+1965,4774958,454000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4.2 sot,0.0,0.0
+1976,4864315,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,8 sot,0.0,0.0
+1981,3116857,100,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,430 m²,0.0,0,0,1,18 sot,0.0,0.0
+1983,4835375,95000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,104 m²,3.0,0,0,1,8.4 sot,0.0,0.0
+1984,5102656,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,1,4 sot,0.0,0.0
+1986,3481695,280000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,0.0,1,0,1,5.5 sot,0.0,0.0
+1987,4780571,155000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+1999,5109395,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+2004,5192415,485000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,6 sot,0.0,0.0
+2007,4895409,450000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,360 m²,5.0,1,0,0,6.8 sot,0.0,0.0
+2012,4658742,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,12 sot,0.0,0.0
+2015,5193741,5000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,67 m²,1.0,0,0,1,1 sot,0.0,0.0
+2017,5193846,188000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,100 m²,3.0,1,1,1,2.4 sot,0.0,0.0
+2018,4338604,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,0,0,1,8 sot,0.0,0.0
+2019,4931546,280000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+2023,5041656,480000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,0,4.5 sot,0.0,0.0
+2030,5193628,165000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,100 m²,4.0,1,0,1,4 sot,0.0,0.0
+2031,4433257,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,5 sot,0.0,0.0
+2034,4471029,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+2045,4985342,189999,AZN,"['Abşeron r.', 'Saray q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,10 sot,0.0,0.0
+2049,4914337,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3 sot,0.0,0.0
+2050,5192785,100000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,90 m²,2.0,1,0,1,4 sot,0.0,0.0
+2051,5193975,136000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,0,1,2.5 sot,0.0,0.0
+2053,4786874,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,6.0,1,1,1,11 sot,0.0,0.0
+2065,4993954,590000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,265 m²,5.0,1,0,1,6 sot,0.0,0.0
+2066,5073674,310000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,0,1,5 sot,0.0,0.0
+2070,4599188,2700000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,820 m²,7.0,1,1,1,7 sot,0.0,0.0
+2079,5193334,130000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,110 m²,4.0,1,0,1,2.6 sot,0.0,0.0
+2083,4856962,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+2084,4780140,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,5 sot,0.0,0.0
+2090,5185656,420000,AZN,[],Həyət evi/Bağ evi,500 m²,7.0,1,0,0,16 sot,0.0,0.0
+2092,2221253,200,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,500 m²,6.0,0,0,1,12 sot,0.0,0.0
+2099,4573077,315000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', '7-ci mikrorayon q.']",Həyət evi/Bağ evi,180 m²,5.0,1,0,1,2.2 sot,0.0,0.0
+2101,5179845,220000,AZN,['Xətai r.'],Həyət evi/Bağ evi,100 m²,3.0,1,1,1,1.6 sot,0.0,0.0
+2111,5193430,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,5 sot,0.0,0.0
+2116,5155344,200,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,3.0,0,0,1,5 sot,0.0,0.0
+2117,5160785,590000,AZN,['Xətai r.'],Həyət evi/Bağ evi,317 m²,5.0,1,1,1,3.6 sot,0.0,0.0
+2121,4640759,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,1,1,7 sot,0.0,0.0
+2123,4964562,188000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,0,1,6.1 sot,0.0,0.0
+2126,4691294,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+2133,4921103,300000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,265 m²,6.0,1,1,1,2.5 sot,0.0,0.0
+2140,5194042,73000,AZN,"['Səbail r.', '20-ci sahə q.']",Həyət evi/Bağ evi,65 m²,3.0,1,0,1,1 sot,0.0,0.0
+2148,5193106,800000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,12 sot,0.0,0.0
+2152,5193308,570000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,200 m²,6.0,1,0,1,6.5 sot,0.0,0.0
+2157,5112557,185000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,3 sot,0.0,0.0
+2158,5140179,600000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,6 sot,0.0,0.0
+2159,4697991,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,155 m²,5.0,1,0,1,4.1 sot,0.0,0.0
+2167,5128205,330000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,255 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+2171,5190746,168000,AZN,"['Qaradağ r.', 'Lökbatan q.']",Həyət evi/Bağ evi,210 m²,6.0,1,1,1,2 sot,0.0,0.0
+2174,5135806,250,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,16 sot,0.0,0.0
+2178,4434812,590000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,10 sot,0.0,0.0
+2182,4532278,90000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,1.5 sot,0.0,0.0
+2183,4016959,320000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+2184,5055728,165000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,135 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+2209,5128268,41000,AZN,[],Həyət evi/Bağ evi,65 m²,2.0,0,0,1,1 sot,0.0,0.0
+2213,5193080,40000,AZN,[],Həyət evi/Bağ evi,70 m²,2.0,0,0,1,1.2 sot,0.0,0.0
+2216,5179275,365000,AZN,[],Həyət evi/Bağ evi,220 m²,5.0,1,0,1,9.5 sot,0.0,0.0
+2220,4786865,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+2227,5137218,295000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4 sot,0.0,0.0
+2228,4488349,230000,AZN,"['Sabunçu r.', 'Zabrat q.']",Həyət evi/Bağ evi,240 m²,6.0,1,1,1,4 sot,0.0,0.0
+2231,3533767,390,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,6.0,0,0,1,6 sot,0.0,0.0
+2233,5079467,150,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,6 sot,0.0,0.0
+2235,5193771,80000,AZN,['Xaçmaz r.'],Həyət evi/Bağ evi,144 m²,6.0,1,0,1,28 sot,0.0,0.0
+2238,4693045,495000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,6 sot,0.0,0.0
+2240,4330155,550000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,6 sot,0.0,0.0
+2246,5065298,269000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,220 m²,6.0,1,1,1,20 sot,0.0,0.0
+2248,4831222,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,14 sot,0.0,0.0
+2251,5178987,450000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+2260,4933088,385000,AZN,[],Həyət evi/Bağ evi,240 m²,4.0,1,0,1,16 sot,0.0,0.0
+2261,5193505,300,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Həyət evi/Bağ evi,40 m²,2.0,0,0,1,2.5 sot,0.0,0.0
+2271,5158029,132000,AZN,"['Sabunçu r.', 'Kürdəxanı q.']",Həyət evi/Bağ evi,260 m²,6.0,0,0,1,5 sot,0.0,0.0
+2272,4251014,550000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,0,1,12 sot,0.0,0.0
+2274,2617948,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+2275,4828313,310000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,6.0,1,1,1,4 sot,0.0,0.0
+2280,4864933,200,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,8 sot,0.0,0.0
+2288,5039801,278000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,245 m²,5.0,1,0,1,6 sot,0.0,0.0
+2298,4651127,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,12 sot,0.0,0.0
+2299,5194289,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+2300,5193099,799000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,0,1,12 sot,0.0,0.0
+2301,2912855,12000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,600 m²,7.0,0,0,1,10 sot,0.0,0.0
+2308,5116199,650000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,8 sot,0.0,0.0
+2310,4998662,104000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,180 m²,6.0,1,1,1,1.7 sot,0.0,0.0
+2312,5175990,285000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,360 m²,5.0,1,0,1,13 sot,0.0,0.0
+2313,5091503,135000,AZN,"['Mərkəzi Univermaq', 'Beşmərtəbə', 'Fəvvarələr meydanı', 'Sahil m.', 'Nizami m.', 'İçəri Şəhər m.', 'Səbail r.']",Həyət evi/Bağ evi,39.5 m²,2.0,1,0,1,2 sot,0.0,0.0
+2315,4887968,220000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4 sot,0.0,0.0
+2322,5177981,590000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,265 m²,5.0,1,1,1,6 sot,0.0,0.0
+2324,5172384,265000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+2325,5141955,131000,AZN,"['Abşeron r.', 'Hökməli q.']",Həyət evi/Bağ evi,255 m²,8.0,1,0,1,0.1 sot,0.0,0.0
+2336,5115258,890000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,600 m²,9.0,1,0,1,6 sot,0.0,0.0
+2337,5192909,33000,AZN,[],Həyət evi/Bağ evi,33 m²,1.0,0,0,1,0.5 sot,0.0,0.0
+2342,4997223,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,1,1,4 sot,0.0,0.0
+2343,2200821,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,560 m²,6.0,0,0,1,12 sot,0.0,0.0
+2347,4947732,350000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,225 m²,8.0,1,0,1,3 sot,0.0,0.0
+2352,4775530,368000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+2356,5194389,75000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,65 m²,3.0,1,0,1,1.2 sot,0.0,0.0
+2357,5161261,228000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,2 sot,0.0,0.0
+2361,5039651,70,AZN,[],Həyət evi/Bağ evi,100 m²,4.0,0,0,1,50 sot,0.0,0.0
+2362,5153434,110000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,1.2 sot,0.0,0.0
+2363,5033058,580000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,6.0,1,1,1,3 sot,0.0,0.0
+2364,5114386,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+2370,5135387,812000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,290 m²,6.0,1,1,0,5.5 sot,0.0,0.0
+2373,4331306,285000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,5 sot,0.0,0.0
+2378,5056307,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+2381,5094485,125000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,130 m²,5.0,0,0,1,2 sot,0.0,0.0
+2382,4890709,620000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,1,1,7 sot,0.0,0.0
+2385,4805112,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,6 sot,0.0,0.0
+2394,5175148,140000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,4 sot,0.0,0.0
+2403,5194394,500,AZN,"['Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,90 m²,3.0,0,0,1,0.6 sot,0.0,0.0
+2406,5112602,140000,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,218 m²,4.0,1,1,1,6 sot,0.0,0.0
+2413,4686587,155000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,3.0,1,0,1,3 sot,0.0,0.0
+2415,5156916,85000,AZN,"['Sabunçu r.', 'Zabrat q.']",Həyət evi/Bağ evi,100 m²,3.0,1,1,1,2 sot,0.0,0.0
+2419,5116637,244000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,111 m²,4.0,1,0,1,3 sot,0.0,0.0
+2420,4824945,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,5 sot,0.0,0.0
+2430,4713795,310000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+2432,4775822,220000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,3.3 sot,0.0,0.0
+2436,5193656,75000,AZN,[],Həyət evi/Bağ evi,80 m²,3.0,1,1,1,2 sot,0.0,0.0
+2448,4285548,850000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,400 m²,5.0,1,1,1,8 sot,0.0,0.0
+2453,5155249,450000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,450 m²,7.0,1,1,1,6 sot,0.0,0.0
+2459,5193924,133000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,2.3 sot,0.0,0.0
+2460,5040622,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,1,3 sot,0.0,0.0
+2467,5019638,230000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,300 m²,7.0,1,1,1,4 sot,0.0,0.0
+2471,5193851,115000,AZN,"['Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,2 sot,0.0,0.0
+2473,5192768,4500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,7 sot,0.0,0.0
+2475,5182973,340000,AZN,[],Həyət evi/Bağ evi,214 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+2476,5122615,9500,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,0,14 sot,0.0,0.0
+2477,3420295,389000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,240 m²,4.0,1,1,1,4 sot,0.0,0.0
+2482,5174624,2000,AZN,"['Nəsimi m.', 'Azadlıq Prospekti m.', 'Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,250 m²,6.0,0,0,1,2 sot,0.0,0.0
+2485,4793301,275000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+2486,4776661,499000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,0,1,5 sot,0.0,0.0
+2490,4616973,900000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,500 m²,5.0,0,0,0,12 sot,0.0,0.0
+2492,5170342,1270000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,580 m²,8.0,1,1,1,13 sot,0.0,0.0
+2494,5172642,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,5 sot,0.0,0.0
+2496,5073793,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+2497,4981233,99000,AZN,[],Həyət evi/Bağ evi,56 m²,3.0,1,0,1,1 sot,0.0,0.0
+2501,5137160,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,4.0,1,0,1,4 sot,0.0,0.0
+2504,4780478,369000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+2506,5044723,350000,AZN,['Binəqədi r.'],Həyət evi/Bağ evi,100 m²,3.0,0,0,1,8 sot,0.0,0.0
+2514,5150746,137000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+2517,5106432,128000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,280 m²,8.0,1,0,1,2.7 sot,0.0,0.0
+2520,5099920,255000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+2527,4970954,130000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,220 m²,7.0,1,1,1,3 sot,0.0,0.0
+2528,4833520,770000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,600 m²,6.0,1,1,1,8 sot,0.0,0.0
+2531,4095224,5000,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,300 m²,4.0,0,0,1,15 sot,0.0,0.0
+2551,5192620,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+2552,4703748,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,6.0,1,0,1,17 sot,0.0,0.0
+2556,5192762,63000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,90 m²,4.0,0,0,1,2 sot,0.0,0.0
+2557,5077747,370000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Həyət evi/Bağ evi,230 m²,6.0,1,0,1,3 sot,0.0,0.0
+2559,4777253,430000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,4 sot,0.0,0.0
+2561,4774881,260000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4 sot,0.0,0.0
+2570,5107113,8500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,370 m²,6.0,0,0,1,11 sot,0.0,0.0
+2571,5038746,295000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,1,1,4 sot,0.0,0.0
+2573,5115296,244000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,111 m²,4.0,1,0,1,3 sot,0.0,0.0
+2578,5110790,137000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,250 m²,7.0,1,1,1,4 sot,0.0,0.0
+2584,4655655,8000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,500 m²,6.0,0,0,1,24 sot,0.0,0.0
+2589,5168593,350,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,6 sot,0.0,0.0
+2597,5034835,175000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,3 sot,0.0,0.0
+2598,5193901,75000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,3 sot,0.0,0.0
+2602,4972837,140000,AZN,"['Qaradağ r.', 'Lökbatan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,2 sot,0.0,0.0
+2604,5130479,13500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,60 m²,3.0,1,0,0,0.6 sot,0.0,0.0
+2607,5178304,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+2611,5194329,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+2614,5108076,97000,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,5 sot,0.0,0.0
+2615,5184342,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,8 sot,0.0,0.0
+2621,4279982,375000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+2622,2808920,5000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,500 m²,6.0,0,0,1,20 sot,0.0,0.0
+2624,5063264,245000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+2626,5082527,285000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,4 sot,0.0,0.0
+2628,4744744,360000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,243 m²,6.0,1,1,1,10 sot,0.0,0.0
+2632,5018153,565000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,210 m²,4.0,1,1,1,6.5 sot,0.0,0.0
+2633,4793296,535000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,225 m²,4.0,1,1,1,7 sot,0.0,0.0
+2637,4494366,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,0,1,4 sot,0.0,0.0
+2639,4511930,137000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,54 m²,3.0,1,0,1,3 sot,0.0,0.0
+2640,4870301,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,5 sot,0.0,0.0
+2642,2656776,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,0,0,1,10 sot,0.0,0.0
+2643,5156158,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,5 sot,0.0,0.0
+2645,4467649,660000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,1,1,7 sot,0.0,0.0
+2647,2836967,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,0.0,1,0,0,5 sot,0.0,0.0
+2656,5135902,289000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,550 m²,5.0,1,0,0,9 sot,0.0,0.0
+2657,5193365,660000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,428 m²,7.0,1,0,1,4.5 sot,0.0,0.0
+2658,5109748,460000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,6 sot,0.0,0.0
+2661,5067357,28000,AZN,"['Sabunçu r.', 'Balaxanı q.']",Həyət evi/Bağ evi,20 m²,1.0,0,0,1,4 sot,0.0,0.0
+2663,5063347,310000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,0,1,5 sot,0.0,0.0
+2668,4705965,220000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+2682,4073544,5000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,12 sot,0.0,0.0
+2687,4899331,495000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+2688,4978828,280000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+2689,5119177,295000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,230 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+2694,5115898,6000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,520 m²,8.0,0,0,1,50 sot,0.0,0.0
+2696,5142173,190000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,363 m²,6.0,1,1,1,4 sot,0.0,0.0
+2697,3452201,6000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,540 m²,6.0,0,0,1,16 sot,0.0,0.0
+2704,4776863,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,550 m²,7.0,1,1,1,14 sot,0.0,0.0
+2705,5174675,71000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,3 sot,0.0,0.0
+2711,5177969,400000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,244 m²,6.0,1,1,1,12 sot,0.0,0.0
+2712,5079462,515000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,7.2 sot,0.0,0.0
+2713,4862764,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+2716,5106818,1100000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,600 m²,6.0,1,0,1,6 sot,0.0,0.0
+2723,5168261,285000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,5 sot,0.0,0.0
+2725,4815223,145000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,120 m²,3.0,1,0,1,2 sot,0.0,0.0
+2727,4978830,175000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+2728,5165647,267000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,170 m²,5.0,1,0,1,4.4 sot,0.0,0.0
+2729,2624861,850000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,500 m²,0.0,1,0,0,12 sot,0.0,0.0
+2733,5188324,320000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,200 m²,5.0,0,0,1,2.4 sot,0.0,0.0
+2735,4862799,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+2744,4681435,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,225 m²,5.0,1,1,1,4 sot,0.0,0.0
+2745,4998797,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+2754,4850737,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,175 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+2757,5193494,225000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,200 m²,7.0,1,1,1,3.5 sot,0.0,0.0
+2758,4324821,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,6 sot,0.0,0.0
+2765,2968514,330000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,0.0,1,1,0,5.5 sot,0.0,0.0
+2774,5118189,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+2775,5180833,3500000,AZN,"['ASAN Xidmət №1', 'DİM', 'Nəsimi bazarı', 'Nərimanov r.']",Həyət evi/Bağ evi,550 m²,14.0,1,1,1,4 sot,0.0,0.0
+2778,5172153,370000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4.6 sot,0.0,0.0
+2780,5194004,50000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,78 m²,3.0,1,0,1,1.5 sot,0.0,0.0
+2796,4455754,240000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,240 m²,7.0,1,0,1,4 sot,0.0,0.0
+2800,4061233,15000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,550 m²,7.0,0,0,1,24 sot,0.0,0.0
+2804,4994674,565000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,210 m²,4.0,1,0,1,6.5 sot,0.0,0.0
+2818,5192766,325000,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,0,11.5 sot,0.0,0.0
+2819,4700104,780000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,7 sot,0.0,0.0
+2820,5169712,125000,AZN,"['Binə atçılıq mərkəzi', 'Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,4 sot,0.0,0.0
+2823,3535338,230000,AZN,['Suraxanı r.'],Həyət evi/Bağ evi,226 m²,7.0,1,0,1,9 sot,0.0,0.0
+2830,4859397,299000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,175 m²,4.0,1,0,1,4 sot,0.0,0.0
+2834,5086228,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,10 sot,0.0,0.0
+2836,5054914,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+2838,5192800,89000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,2 sot,0.0,0.0
+2846,4151002,200,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,500 m²,6.0,0,0,1,26 sot,0.0,0.0
+2850,5149266,4500,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,240 m²,4.0,0,0,1,16 sot,0.0,0.0
+2852,5168518,90000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,95 m²,3.0,0,0,1,2.2 sot,0.0,0.0
+2853,5064974,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+2856,5077844,139900,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,160 m²,5.0,1,0,1,2 sot,0.0,0.0
+2859,5011954,430000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,1,1,1,6.5 sot,0.0,0.0
+2860,5066639,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+2865,2883314,15000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,36 m²,10.0,0,0,1,1000 sot,0.0,0.0
+2866,5164893,800000,AZN,"['Xətai r.', 'Köhnə Günəşli q.']",Həyət evi/Bağ evi,800 m²,8.0,1,1,1,5 sot,0.0,0.0
+2876,4853066,225000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,6.5 sot,0.0,0.0
+2877,5159418,395000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+2878,3303745,150,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,300 m²,0.0,0,0,1,12 sot,0.0,0.0
+2887,5177280,15000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,1200 m²,6.0,0,0,1,18 sot,0.0,0.0
+2888,5175667,9000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,5.0,0,0,1,8 sot,0.0,0.0
+2889,5141171,149000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,4 sot,0.0,0.0
+2890,3732905,1700000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,450 m²,5.0,1,0,0,8 sot,0.0,0.0
+2892,5194229,570000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,5.5 sot,0.0,0.0
+2896,5098447,175000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+2897,4608738,8000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,250 m²,4.0,0,0,1,10 sot,0.0,0.0
+2903,4815949,95000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,280 m²,6.0,1,1,0,12 sot,0.0,0.0
+2907,5194365,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+2910,5148607,170000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,240 m²,5.0,1,0,1,7 sot,0.0,0.0
+2929,4837904,225000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,175 m²,4.0,1,1,1,6 sot,0.0,0.0
+2933,5032555,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,6 sot,0.0,0.0
+2936,4618963,780000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,10 sot,0.0,0.0
+2939,4956528,110,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,5 sot,0.0,0.0
+2940,5192713,85000,AZN,[],Həyət evi/Bağ evi,65 m²,2.0,1,0,1,3 sot,0.0,0.0
+2942,5121474,399000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,3 sot,0.0,0.0
+2945,5122328,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+2946,4993520,92000,AZN,[],Həyət evi/Bağ evi,300 m²,4.0,1,1,1,5 sot,0.0,0.0
+2947,5130061,148000,AZN,"['Sabunçu r.', 'Kürdəxanı q.']",Həyət evi/Bağ evi,168 m²,6.0,0,0,1,3 sot,0.0,0.0
+2948,5082356,65000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,0,4 sot,0.0,0.0
+2949,4989746,280,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,300 m²,7.0,0,0,1,6 sot,0.0,0.0
+2953,5133388,260000,AZN,['Suraxanı r.'],Həyət evi/Bağ evi,100 m²,3.0,1,0,1,8 sot,0.0,0.0
+2955,5194366,240,AZN,"['Tibb Universiteti', 'ASAN Xidmət №1', '8 Noyabr m.', 'Nəsimi r.', 'Kubinka q.']",Həyət evi/Bağ evi,10 m²,1.0,0,0,1,2 sot,0.0,0.0
+2961,5153607,8000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,450 m²,6.0,0,0,1,16 sot,0.0,0.0
+2965,5194193,152000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,120 m²,3.0,1,1,1,2.7 sot,0.0,0.0
+2970,4355962,250,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,350 m²,4.0,0,0,1,10 sot,0.0,0.0
+2975,5071394,419000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,7.0,1,1,1,8 sot,0.0,0.0
+2976,4384049,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,6 sot,0.0,0.0
+2978,4853318,275000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+2988,5192799,75000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,200 sot,0.0,0.0
+2989,5061110,215000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+2995,4039175,1200000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,380 m²,6.0,1,0,1,18 sot,0.0,0.0
+2996,3899238,359000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,5 sot,0.0,0.0
+2997,4017412,1050000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,560 m²,6.0,1,0,1,10 sot,0.0,0.0
+3009,5194283,400,AZN,"['Sabunçu r.', 'Pirşağı q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,6.5 sot,0.0,0.0
+3012,5065843,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,6.5 sot,0.0,0.0
+3018,5175346,750000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,290 m²,4.0,1,1,1,9.5 sot,0.0,0.0
+3021,3798761,345000,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,700 m²,10.0,1,1,1,18 sot,0.0,0.0
+3022,5159692,260000,AZN,[],Həyət evi/Bağ evi,200 m²,4.0,1,0,1,16 sot,0.0,0.0
+3025,3638008,300,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,5.0,0,0,0,7 sot,0.0,0.0
+3029,5193956,63000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,75 m²,3.0,1,1,1,1.7 sot,0.0,0.0
+3031,5178752,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,358 m²,5.0,0,0,1,8 sot,0.0,0.0
+3045,5182759,150000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,7 sot,0.0,0.0
+3047,5194037,100000,AZN,"['Xətai r.', 'NZS q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,1 sot,0.0,0.0
+3053,4699528,345000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,3 sot,0.0,0.0
+3054,5179009,285000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+3057,5063497,190000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+3058,5032560,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+3059,5151631,110000,AZN,"['Sabunçu r.', 'Sabunçu q.']",Həyət evi/Bağ evi,130 m²,5.0,1,0,1,2.5 sot,0.0,0.0
+3069,4054569,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+3071,4016770,295000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,6.0,1,1,1,5 sot,0.0,0.0
+3074,4984653,565000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,5.0,1,0,1,7 sot,0.0,0.0
+3081,5169793,130000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+3088,4971712,540000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,500 m²,8.0,1,0,0,6 sot,0.0,0.0
+3090,4853296,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,142 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+3092,5158852,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,4.0,0,0,1,9 sot,0.0,0.0
+3100,5172149,43500,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,2 sot,0.0,0.0
+3101,5177396,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+3111,5161381,64500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,2.5 sot,0.0,0.0
+3116,5081331,138000,AZN,"['Abşeron r.', 'Mehdiabad q.']",Həyət evi/Bağ evi,200 m²,8.0,1,0,1,3.5 sot,0.0,0.0
+3120,4627300,595000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,0,1,12 sot,0.0,0.0
+3127,5181551,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,110 m²,4.0,1,1,1,3 sot,0.0,0.0
+3135,5108657,2500,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,4 sot,0.0,0.0
+3136,5193465,100000,AZN,[],Həyət evi/Bağ evi,75 m²,3.0,1,0,1,4.5 sot,0.0,0.0
+3142,5194307,295000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+3147,2899963,450,AZN,"['Sabunçu r.', 'Pirşağı q.']",Həyət evi/Bağ evi,500 m²,0.0,0,0,0,12 sot,0.0,0.0
+3148,5181558,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,4.0,1,1,1,7 sot,0.0,0.0
+3151,4323883,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,6 sot,0.0,0.0
+3157,5193369,190000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,140 m²,7.0,1,1,1,2.2 sot,0.0,0.0
+3158,4330252,275000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+3162,4915289,45000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+3170,5144014,235000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,120 m²,5.0,1,0,1,3 sot,0.0,0.0
+3173,5088561,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,0,0,1,8 sot,0.0,0.0
+3176,4681107,499000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,6 sot,0.0,0.0
+3182,5040359,216,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,205 m²,5.0,0,0,1,15 sot,0.0,0.0
+3183,5133709,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,25 sot,0.0,0.0
+3192,4441810,325000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+3193,5082411,720000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,225 m²,5.0,1,1,1,8.5 sot,0.0,0.0
+3197,3430100,150,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,250 m²,4.0,0,0,1,12 sot,0.0,0.0
+3199,4895210,155000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,110 m²,3.0,1,0,1,3 sot,0.0,0.0
+3206,5130256,44000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,40 m²,2.0,1,0,1,1 sot,0.0,0.0
+3207,5175893,155000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,3.5 sot,0.0,0.0
+3208,4445332,415000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,6 sot,0.0,0.0
+3216,5192861,75000,AZN,"['Sabunçu r.', 'Yeni Ramana q.']",Həyət evi/Bağ evi,120 m²,3.0,0,0,1,3 sot,0.0,0.0
+3222,5173270,420000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,5 sot,0.0,0.0
+3224,5193082,4000,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,270 m²,5.0,0,0,1,16 sot,0.0,0.0
+3226,5102588,3500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,130 m²,3.0,0,0,1,12 sot,0.0,0.0
+3227,5027283,455000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,255 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+3228,4412507,685000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,1,1,7.5 sot,0.0,0.0
+3233,5163803,280000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4 sot,0.0,0.0
+3236,5174031,515000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,7.2 sot,0.0,0.0
+3237,5079804,850000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,0,1,11 sot,0.0,0.0
+3238,4404765,1800000,AZN,['Binəqədi r.'],Həyət evi/Bağ evi,870 m²,7.0,1,1,1,8 sot,0.0,0.0
+3241,5193451,36000,AZN,[],Həyət evi/Bağ evi,40 m²,2.0,0,0,1,1 sot,0.0,0.0
+3242,5192406,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,8 sot,0.0,0.0
+3246,5194338,60000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,80 m²,3.0,0,0,0,3 sot,0.0,0.0
+3251,2837544,980000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,0,14 sot,0.0,0.0
+3252,4573660,4000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,10 sot,0.0,0.0
+3254,4787974,240000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,250 m²,8.0,1,0,1,4 sot,0.0,0.0
+3255,3463769,5000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,500 m²,5.0,0,0,1,25 sot,0.0,0.0
+3265,5095902,220000,AZN,[],Həyət evi/Bağ evi,80 m²,4.0,1,0,1,3 sot,0.0,0.0
+3266,5156367,195000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,3 sot,0.0,0.0
+3268,3097631,650000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,800 m²,7.0,1,0,1,8 sot,0.0,0.0
+3269,5091473,1900000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,500 m²,11.0,1,0,1,34 sot,0.0,0.0
+3270,4699834,620000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,8 sot,0.0,0.0
+3271,5068747,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4 sot,0.0,0.0
+3274,5193842,485000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,0,1,6 sot,0.0,0.0
+3283,5109425,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+3285,5192979,75000,AZN,"['Sabunçu r.', 'Savalan q.']",Həyət evi/Bağ evi,97 m²,3.0,1,0,1,2 sot,0.0,0.0
+3297,5182766,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+3301,5193782,875000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,9 sot,0.0,0.0
+3302,5191854,875000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,420 m²,6.0,1,1,1,9 sot,0.0,0.0
+3304,4938213,175000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,4 sot,0.0,0.0
+3305,5193694,95000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,120 m²,3.0,1,1,1,3 sot,0.0,0.0
+3306,4631182,350000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,54 m²,5.0,1,0,0,8 sot,0.0,0.0
+3308,5110076,97000,AZN,"['Suraxanı r.', 'Günəşli q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,1.5 sot,0.0,0.0
+3309,5168609,300,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,6 sot,0.0,0.0
+3315,4773798,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,4 sot,0.0,0.0
+3321,4995896,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+3330,5156987,150000,AZN,"['Abşeron r.', 'Mehdiabad q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,6 sot,0.0,0.0
+3332,4931568,295000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,9.5 sot,0.0,0.0
+3338,4323933,830000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,1,1,8 sot,0.0,0.0
+3340,5178590,888000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,650 m²,9.0,1,0,1,12 sot,0.0,0.0
+3352,4776912,225000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+3360,3262870,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,239 m²,0.0,1,0,1,6 sot,0.0,0.0
+3366,5140805,180000,AZN,['Xətai r.'],Həyət evi/Bağ evi,120 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+3370,5193772,150000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,75 m²,3.0,1,1,1,4.5 sot,0.0,0.0
+3373,3186195,360000,AZN,"['Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,250 m²,6.0,1,0,1,4 sot,0.0,0.0
+3377,5184197,68000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,72 m²,3.0,1,1,1,1.8 sot,0.0,0.0
+3380,5178633,430000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,324 m²,6.0,1,0,0,5 sot,0.0,0.0
+3385,5175450,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,5 sot,0.0,0.0
+3388,5010785,2550000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,550 m²,8.0,1,0,0,15 sot,0.0,0.0
+3396,5055641,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,5.0,1,1,0,20 sot,0.0,0.0
+3399,4777734,310000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,165 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+3402,5122440,2000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,70 m²,2.0,0,0,1,1.5 sot,0.0,0.0
+3403,5092464,1500,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,100 m²,5.0,0,0,1,6 sot,0.0,0.0
+3405,5094393,155000,AZN,"['Suraxanı r.', 'Yeni Günəşli q.']",Həyət evi/Bağ evi,145 m²,4.0,0,0,0,3 sot,0.0,0.0
+3406,5171386,890000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,320 m²,5.0,1,1,1,12 sot,0.0,0.0
+3411,4618313,375000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+3412,4686363,300,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,360 m²,4.0,0,0,1,5 sot,0.0,0.0
+3418,5184367,350,AZN,"['Xətai r.', 'Əhmədli q.']",Həyət evi/Bağ evi,50 m²,1.0,0,0,1,0.5 sot,0.0,0.0
+3422,4906387,4500,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,240 m²,5.0,0,0,1,20 sot,0.0,0.0
+3423,5178376,87000,AZN,[],Həyət evi/Bağ evi,156 m²,5.0,1,1,1,12 sot,0.0,0.0
+3424,4083245,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,0,1,5 sot,0.0,0.0
+3439,5020918,140000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,280 m²,8.0,0,0,1,8.5 sot,0.0,0.0
+3452,4479297,4500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,4.0,0,0,1,4 sot,0.0,0.0
+3459,4829678,170000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,3 sot,0.0,0.0
+3464,5193957,57000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,70 m²,2.0,1,1,1,1.2 sot,0.0,0.0
+3466,5174874,245000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+3467,4225672,520000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+3471,5182598,299000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,5.0,0,1,1,5 sot,0.0,0.0
+3472,5179654,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,3.8 sot,0.0,0.0
+3477,4307022,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,5 sot,0.0,0.0
+3481,4277743,375000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+3485,4517543,490000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,272 m²,5.0,1,1,1,7 sot,0.0,0.0
+3487,5171479,195000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,3 sot,0.0,0.0
+3489,5161517,97000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Köhnə Günəşli q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,1.5 sot,0.0,0.0
+3491,5193473,95000,AZN,"['Sabunçu r.', 'Albalılıq q.']",Həyət evi/Bağ evi,240 m²,6.0,1,0,1,3 sot,0.0,0.0
+3494,4996835,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,6.5 sot,0.0,0.0
+3495,4795952,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,4 sot,0.0,0.0
+3496,5193232,36000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,70 m²,3.0,1,0,0,1.5 sot,0.0,0.0
+3498,4787753,175000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,1,1,3 sot,0.0,0.0
+3501,4778575,469000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,7 sot,0.0,0.0
+3503,4957783,318000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,5.0,1,0,1,6 sot,0.0,0.0
+3509,3450481,1457000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,600 m²,0.0,1,0,1,17 sot,0.0,0.0
+3510,5190013,570000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,300 m²,8.0,1,1,1,8 sot,0.0,0.0
+3511,5175742,450000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4 sot,0.0,0.0
+3513,4878250,145000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,130 m²,4.0,1,1,1,2 sot,0.0,0.0
+3519,4397634,1500000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,270 m²,5.0,1,0,1,53 sot,0.0,0.0
+3522,5146424,440000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,300 m²,8.0,1,0,1,6 sot,0.0,0.0
+3524,5144528,95000,AZN,[],Həyət evi/Bağ evi,100 m²,7.0,1,0,1,4 sot,0.0,0.0
+3525,5193222,255000,AZN,"['Suraxanı r.', 'Əmircan q.']",Həyət evi/Bağ evi,64 m²,2.0,1,0,1,5 sot,0.0,0.0
+3535,5074073,720000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,9 sot,0.0,0.0
+3536,4855311,225000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+3537,4978715,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,155 m²,4.0,1,1,1,4 sot,0.0,0.0
+3538,4950015,119,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,6.0,0,0,1,5 sot,0.0,0.0
+3541,5192433,384000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,7 sot,0.0,0.0
+3544,4565021,290000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,330 m²,6.0,0,0,1,5 sot,0.0,0.0
+3547,4746510,6000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,310 m²,5.0,0,0,1,9 sot,0.0,0.0
+3548,4290091,150,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,15 sot,0.0,0.0
+3551,3538421,400,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,150 m²,0.0,0,0,1,13 sot,0.0,0.0
+3561,5149249,3000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,240 m²,4.0,0,0,1,7 sot,0.0,0.0
+3567,5185746,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,7 sot,0.0,0.0
+3573,3851723,290000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,7 sot,0.0,0.0
+3576,5076302,358000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,284 m²,5.0,1,1,1,6 sot,0.0,0.0
+3579,5193295,450000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,280 m²,7.0,1,0,1,3 sot,0.0,0.0
+3580,4338463,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+3589,5186083,7000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,12 sot,0.0,0.0
+3590,4770842,1500000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,650 m²,10.0,1,0,1,18 sot,0.0,0.0
+3591,4727445,545000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,7 sot,0.0,0.0
+3594,4951817,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+3601,5193612,149000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Həyət evi/Bağ evi,90 m²,3.0,1,0,1,2 sot,0.0,0.0
+3606,5193895,50000,AZN,[],Həyət evi/Bağ evi,80 m²,2.0,1,0,1,1.5 sot,0.0,0.0
+3614,5138713,39000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,65 m²,3.0,1,0,1,1.2 sot,0.0,0.0
+3616,4858889,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,7 sot,0.0,0.0
+3618,5113106,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+3619,5103623,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,5.0,1,0,1,4 sot,0.0,0.0
+3620,5193341,115000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,1.5 sot,0.0,0.0
+3622,4864507,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,8 sot,0.0,0.0
+3627,5183556,5500,AZN,['Yasamal r.'],Həyət evi/Bağ evi,320 m²,5.0,0,0,1,1.5 sot,0.0,0.0
+3629,5179194,190000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+3631,4498653,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,1,1,3 sot,0.0,0.0
+3632,5113028,138000,AZN,"['Sabunçu r.', 'Zabrat q.']",Həyət evi/Bağ evi,190 m²,6.0,1,1,1,2.5 sot,0.0,0.0
+3636,4917572,170000,AZN,"['Sabunçu r.', 'Yeni Ramana q.']",Həyət evi/Bağ evi,165 m²,4.0,1,1,1,3.2 sot,0.0,0.0
+3640,5168632,245000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+3642,4616882,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,270 m²,5.0,1,1,1,7 sot,0.0,0.0
+3647,5099312,580000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,7.0,1,0,1,50 sot,0.0,0.0
+3649,3139332,4000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,5.0,0,0,1,8 sot,0.0,0.0
+3652,5165499,38000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,80 m²,3.0,0,0,1,2 sot,0.0,0.0
+3657,5139192,155000,AZN,"['Sabunçu r.', 'Pirşağı q.']",Həyət evi/Bağ evi,85 m²,3.0,1,1,1,2.5 sot,0.0,0.0
+3658,5157147,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,4.0,1,0,1,6 sot,0.0,0.0
+3659,4823403,225000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+3660,5136128,339000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,5 sot,0.0,0.0
+3662,5194059,250000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,180 m²,8.0,1,0,0,9 sot,0.0,0.0
+3665,4741303,368000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+3671,5165730,245000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+3672,5193522,279000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+3675,5185978,175000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,2.7 sot,0.0,0.0
+3681,5167902,650000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,0,1,7 sot,0.0,0.0
+3694,5193421,140000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,145 m²,5.0,1,0,1,2 sot,0.0,0.0
+3699,5187295,5000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,150 m²,4.0,0,0,1,10 sot,0.0,0.0
+3700,5170502,350000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3 sot,0.0,0.0
+3706,5194272,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,1,1,7 sot,0.0,0.0
+3708,4996711,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+3709,2721202,260000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,178 m²,0.0,1,0,1,5.5 sot,0.0,0.0
+3719,5156175,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+3724,5153569,52000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,70 m²,3.0,1,1,1,1.5 sot,0.0,0.0
+3732,5189197,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,0,0,1,6 sot,0.0,0.0
+3736,5167952,125000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,110 m²,4.0,1,0,1,3 sot,0.0,0.0
+3743,5025749,630000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,365 m²,6.0,1,0,1,16 sot,0.0,0.0
+3745,5163793,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+3747,4854488,49000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,80 m²,3.0,0,0,1,1.6 sot,0.0,0.0
+3757,4996314,3000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,0,0,1,12 sot,0.0,0.0
+3763,5090539,255000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+3766,5112687,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+3779,5133254,6000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,16 sot,0.0,0.0
+3790,5146864,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,6.5 sot,0.0,0.0
+3793,5192879,220,AZN,"['Binəqədi r.', 'Binəqədi q.']",Həyət evi/Bağ evi,70 m²,1.0,0,0,1,1 sot,0.0,0.0
+3794,4853238,285000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,0,1,5 sot,0.0,0.0
+3795,4999914,117000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,240 m²,7.0,1,0,1,2.5 sot,0.0,0.0
+3796,4736998,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,7 sot,0.0,0.0
+3798,4766786,1500000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,700 m²,8.0,1,0,1,6 sot,0.0,0.0
+3809,4777673,295000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+3812,4780554,480000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,4 sot,0.0,0.0
+3813,2740162,100,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,7 sot,0.0,0.0
+3815,4853301,535000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,225 m²,4.0,1,0,1,7 sot,0.0,0.0
+3816,4467661,548000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,235 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+3818,5121966,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,3 sot,0.0,0.0
+3819,4845487,310000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,0,1,5 sot,0.0,0.0
+3820,4913332,170000,AZN,"['Sabunçu r.', 'Albalılıq q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,8 sot,0.0,0.0
+3828,4709256,170000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+3832,4681318,620000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,8 sot,0.0,0.0
+3833,5066675,220000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,1,3 sot,0.0,0.0
+3837,4259883,8000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,320 m²,5.0,0,0,1,8 sot,0.0,0.0
+3839,5187160,195000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,3 sot,0.0,0.0
+3841,4984194,820000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,1,1,9 sot,0.0,0.0
+3847,5192802,150000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Həyət evi/Bağ evi,80 m²,4.0,1,0,1,1 sot,0.0,0.0
+3848,4262327,700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,10 sot,0.0,0.0
+3852,4881501,490000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,7 sot,0.0,0.0
+3853,4785626,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+3858,5040595,1700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,17 sot,0.0,0.0
+3859,5194225,875000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,9 sot,0.0,0.0
+3861,4661811,279000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,160 m²,5.0,1,1,1,3 sot,0.0,0.0
+3863,5105012,4500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,0,0,1,5 sot,0.0,0.0
+3866,4212989,520000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,6 sot,0.0,0.0
+3867,4073429,3500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,900 m²,11.0,0,0,1,50 sot,0.0,0.0
+3871,5156313,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,6.0,1,0,1,17 sot,0.0,0.0
+3872,5172337,111000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+3886,3949282,220000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4 sot,0.0,0.0
+3887,5084401,545000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,6 sot,0.0,0.0
+3894,5161608,6500,AZN,['Xəzər r.'],Həyət evi/Bağ evi,180 m²,4.0,0,0,1,6.5 sot,0.0,0.0
+3897,5170553,5500,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,4.0,0,0,1,8 sot,0.0,0.0
+3898,4471255,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,3 sot,0.0,0.0
+3900,5193304,125000,AZN,"['Sabunçu r.', 'Savalan q.']",Həyət evi/Bağ evi,105 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+3907,4034282,1100000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,350 m²,6.0,1,0,1,12 sot,0.0,0.0
+3908,4669060,780000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,1,1,8 sot,0.0,0.0
+3909,4828937,590000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,7 sot,0.0,0.0
+3912,5167703,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+3913,5054928,86000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+3914,5058943,79000,AZN,"['Sabunçu r.', 'Zabrat q.']",Həyət evi/Bağ evi,240 m²,5.0,0,0,1,3 sot,0.0,0.0
+3915,5030111,92000,AZN,[],Həyət evi/Bağ evi,124 m²,4.0,1,0,1,1.2 sot,0.0,0.0
+3916,4722078,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+3918,4808586,1500000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,12 sot,0.0,0.0
+3924,5089277,107000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,90 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+3930,5041777,285000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+3931,5194357,200,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,320 m²,4.0,0,0,1,9 sot,0.0,0.0
+3945,5194216,485000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,0,1,6 sot,0.0,0.0
+3946,5063034,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4.1 sot,0.0,0.0
+3950,4392039,300,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,155 m²,4.0,0,0,1,6 sot,0.0,0.0
+3952,5126935,125000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,210 m²,5.0,1,0,1,11 sot,0.0,0.0
+3954,5042412,295000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+3959,4855822,499000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,1,1,5 sot,0.0,0.0
+3963,4990966,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+3965,4998736,350000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,240 m²,7.0,1,0,1,13 sot,0.0,0.0
+3966,5188299,170000,AZN,[],Həyət evi/Bağ evi,169 m²,3.0,1,0,1,18 sot,0.0,0.0
+3972,5194194,400,AZN,"['DİM', 'Gənclik m.', 'Nəsimi r.']",Həyət evi/Bağ evi,30 m²,1.0,0,0,1,1 sot,0.0,0.0
+3978,5138356,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,315 m²,6.0,0,0,1,9 sot,0.0,0.0
+3980,5073258,1000000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,1,1,15 sot,0.0,0.0
+3989,4231828,1300000,AZN,"['Xəzər r.', 'Buzovna q.', 'Zuğulba q.']",Həyət evi/Bağ evi,600 m²,7.0,1,1,1,48 sot,0.0,0.0
+3990,5108224,950000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,458 m²,6.0,1,1,1,5.7 sot,0.0,0.0
+3992,5111451,790000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,440 m²,6.0,1,1,1,6 sot,0.0,0.0
+3995,4928148,280000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,4 sot,0.0,0.0
+4011,5165139,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,3 sot,0.0,0.0
+4017,5145785,485000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,1,0,1,7 sot,0.0,0.0
+4018,5117379,60000,AZN,['Səbail r.'],Həyət evi/Bağ evi,60 m²,2.0,0,0,1,0.6 sot,0.0,0.0
+4020,4978543,300,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,4.0,0,0,1,5 sot,0.0,0.0
+4022,4036661,600000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,7 sot,0.0,0.0
+4029,5187495,720000,AZN,"['Nəsimi m.', 'Azadlıq Prospekti m.', 'Binəqədi r.', '6-cı mikrorayon q.']",Həyət evi/Bağ evi,223 m²,5.0,1,0,1,4.5 sot,0.0,0.0
+4032,5068561,290000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,1,1,4 sot,0.0,0.0
+4035,4328422,359000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,5 sot,0.0,0.0
+4036,5193319,120000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,400 m²,7.0,1,0,1,3 sot,0.0,0.0
+4043,4699610,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+4049,5152212,165000,AZN,[],Həyət evi/Bağ evi,400 m²,9.0,1,0,1,4 sot,0.0,0.0
+4054,4503561,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,0,1,4 sot,0.0,0.0
+4056,4946176,53000,AZN,['Xəzər r.'],Həyət evi/Bağ evi,85 m²,4.0,0,0,1,2 sot,0.0,0.0
+4069,5152717,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,4 sot,0.0,0.0
+4070,5066218,310000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,1,1,5 sot,0.0,0.0
+4071,4441981,950000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,1,1,14 sot,0.0,0.0
+4077,5059151,790000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,440 m²,6.0,1,0,1,6 sot,0.0,0.0
+4079,5111224,780000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,420 m²,6.0,1,1,1,6 sot,0.0,0.0
+4083,4876433,405000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+4085,5155968,145000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,3 sot,0.0,0.0
+4086,5177809,500,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,116 m²,3.0,0,0,1,2 sot,0.0,0.0
+4087,5111519,445000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,270 m²,6.0,1,1,1,14 sot,0.0,0.0
+4093,4344388,139000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,700 m²,6.0,1,1,1,30 sot,0.0,0.0
+4094,4855652,7000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,5.0,0,0,1,10 sot,0.0,0.0
+4101,4607887,379000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,12 sot,0.0,0.0
+4103,5075059,720000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,225 m²,6.0,1,1,1,8.5 sot,0.0,0.0
+4105,4555765,950000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,15 sot,0.0,0.0
+4107,5193556,55000,AZN,"['Abşeron r.', 'Qobu q.']",Həyət evi/Bağ evi,80 m²,3.0,1,1,1,2 sot,0.0,0.0
+4108,5053576,80000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,180 m²,5.0,1,0,1,4 sot,0.0,0.0
+4109,4743358,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+4111,4954485,369000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,6 sot,0.0,0.0
+4116,5173539,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4.6 sot,0.0,0.0
+4121,5180318,79500,AZN,[],Həyət evi/Bağ evi,146 m²,4.0,1,1,1,12 sot,0.0,0.0
+4127,4606612,103000,AZN,[],Həyət evi/Bağ evi,180 m²,6.0,1,0,1,1.2 sot,0.0,0.0
+4130,4921984,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+4131,4647523,134000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,3 sot,0.0,0.0
+4134,5177170,158000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,185 m²,6.0,0,0,1,2.5 sot,0.0,0.0
+4136,5182883,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,6 sot,0.0,0.0
+4147,4636713,250,AZN,['Abşeron r.'],Həyət evi/Bağ evi,45 m²,1.0,0,0,1,2 sot,0.0,0.0
+4160,4038865,299000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+4165,4668166,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,5 sot,0.0,0.0
+4166,3182035,150,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,16 sot,0.0,0.0
+4167,4789439,535000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,225 m²,4.0,1,0,1,7 sot,0.0,0.0
+4171,5193813,900000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,547 m²,7.0,1,0,1,25 sot,0.0,0.0
+4172,5168139,135500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,104 m²,3.0,1,1,1,4 sot,0.0,0.0
+4173,3464443,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,5.0,0,0,1,12 sot,0.0,0.0
+4176,5193084,3500,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,0,0,1,8 sot,0.0,0.0
+4180,3609394,320000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,6 sot,0.0,0.0
+4189,4776470,368000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+4201,5131538,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+4211,5193580,60000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,56 m²,2.0,1,1,1,1 sot,0.0,0.0
+4213,5086440,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,5 sot,0.0,0.0
+4216,4367036,555000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,8 sot,0.0,0.0
+4223,5179714,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3.8 sot,0.0,0.0
+4234,4873992,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,6 sot,0.0,0.0
+4238,5193999,77000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,100 m²,4.0,1,0,1,1.5 sot,0.0,0.0
+4245,4284050,730000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,10 sot,0.0,0.0
+4247,4537961,188000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,100 m²,3.0,1,1,1,2.4 sot,0.0,0.0
+4262,5194240,240000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,120 m²,3.0,1,1,1,3 sot,0.0,0.0
+4264,5194186,135000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,150 m²,6.0,1,0,0,3 sot,0.0,0.0
+4265,5145798,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+4270,4909742,5000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,450 m²,6.0,0,0,1,12 sot,0.0,0.0
+4272,4853294,265000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+4273,2801130,595000,AZN,"['Şüvəlan q.', 'Xəzər r.']",Həyət evi/Bağ evi,350 m²,0.0,1,0,0,21 sot,0.0,0.0
+4275,4233196,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,1,1,5 sot,0.0,0.0
+4276,5028237,160000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,140 m²,5.0,0,0,1,20 sot,0.0,0.0
+4278,3825844,299000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,1,1,5 sot,0.0,0.0
+4279,4519752,140000,AZN,"['Sabunçu r.', 'Savalan q.']",Həyət evi/Bağ evi,173 m²,7.0,1,0,1,2.5 sot,0.0,0.0
+4283,4978829,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,165 m²,4.0,1,0,1,4 sot,0.0,0.0
+4287,5194254,92000,AZN,[],Həyət evi/Bağ evi,300 m²,4.0,1,1,1,5 sot,0.0,0.0
+4290,4716591,368000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+4294,4376266,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,17 sot,0.0,0.0
+4297,5187459,58000,AZN,"['Sabunçu r.', 'Savalan q.']",Həyət evi/Bağ evi,120 m²,5.0,0,0,1,3 sot,0.0,0.0
+4300,5052214,95000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,3 sot,0.0,0.0
+4305,4046795,350000,AZN,[],Həyət evi/Bağ evi,272 m²,7.0,1,0,1,5.5 sot,0.0,0.0
+4310,5170503,245000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,0,1,3 sot,0.0,0.0
+4312,5194005,399,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,120 m²,3.0,0,0,1,2.4 sot,0.0,0.0
+4316,5192926,7000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,10 sot,0.0,0.0
+4322,5066321,132000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,80 m²,3.0,1,0,1,80 sot,0.0,0.0
+4323,5116550,1100000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,320 m²,6.0,1,0,1,12 sot,0.0,0.0
+4325,3365902,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,300 m²,0.0,1,0,1,6 sot,0.0,0.0
+4327,5139941,50,AZN,[],Həyət evi/Bağ evi,100 m²,3.0,0,0,1,15 sot,0.0,0.0
+4331,4784735,548000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,0,1,6.5 sot,0.0,0.0
+4332,4697150,1200,AZN,['Sabunçu r.'],Həyət evi/Bağ evi,300 m²,7.0,0,0,1,9 sot,0.0,0.0
+4333,5192757,82000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,0,2 sot,0.0,0.0
+4335,4262907,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,5 sot,0.0,0.0
+4337,4453020,5000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,240 m²,4.0,0,0,1,7 sot,0.0,0.0
+4339,5108935,330000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,7 sot,0.0,0.0
+4341,4204498,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,10 sot,0.0,0.0
+4348,4752446,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+4350,4861793,235000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+4352,5118165,600,AZN,"['Bayıl parkı', 'Səbail r.', 'Bayıl q.']",Həyət evi/Bağ evi,60 m²,2.0,0,0,1,3 sot,0.0,0.0
+4353,4757585,299000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,450 m²,7.0,1,1,0,6.4 sot,0.0,0.0
+4354,4925117,47000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,78 m²,3.0,1,0,1,1.1 sot,0.0,0.0
+4360,4371806,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+4361,4484442,6000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,600 m²,8.0,0,0,1,15 sot,0.0,0.0
+4362,5018086,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+4367,4441961,790000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,5.0,1,1,1,16 sot,0.0,0.0
+4368,3513654,1100000,AZN,"['Nəsimi m.', 'Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,1100 m²,14.0,1,0,0,7.5 sot,0.0,0.0
+4374,2021118,350000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,0.0,1,0,0,6 sot,0.0,0.0
+4377,5026593,790000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,6.0,1,0,1,9 sot,0.0,0.0
+4386,5055667,7000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,220 m²,3.0,0,0,1,10 sot,0.0,0.0
+4387,5168167,1500000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,700 m²,8.0,1,0,1,6 sot,0.0,0.0
+4391,4721785,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+4396,5151635,400000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,95.5 m²,3.0,1,0,1,23.3 sot,0.0,0.0
+4400,5020521,138000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+4401,5010118,890000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,320 m²,5.0,1,1,1,12 sot,0.0,0.0
+4402,5194343,32000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,90 m²,3.0,0,0,0,2 sot,0.0,0.0
+4406,5189560,950000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,314.3 m²,6.0,1,1,1,8 sot,0.0,0.0
+4407,4181240,200,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,16 sot,0.0,0.0
+4413,5109896,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,6 sot,0.0,0.0
+4419,4020189,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,15 sot,0.0,0.0
+4422,5172705,129000,AZN,"['Ukrayna dairəsi', 'Əhmədli m.', 'Həzi Aslanov m.', 'Xətai r.']",Həyət evi/Bağ evi,120 m²,5.0,1,1,1,3 sot,0.0,0.0
+4424,5176461,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+4434,4714692,10000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,6.0,0,0,1,20 sot,0.0,0.0
+4436,5188971,220000,AZN,"['Xocəsən m.', 'Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,313 m²,8.0,0,0,1,3.5 sot,0.0,0.0
+4438,4866515,2900000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,1600 m²,20.0,1,0,1,14 sot,0.0,0.0
+4444,4997520,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,0,0,1,7 sot,0.0,0.0
+4450,5166815,165000,AZN,"['Qaradağ r.', 'Müşfiqabad q.']",Həyət evi/Bağ evi,156 m²,4.0,0,0,1,4 sot,0.0,0.0
+4452,4695137,220000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+4453,4915727,135000,AZN,[],Həyət evi/Bağ evi,200 m²,5.0,1,0,1,2.2 sot,0.0,0.0
+4456,5153609,4000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,6 sot,0.0,0.0
+4463,5168861,63000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,80 m²,4.0,1,0,1,2 sot,0.0,0.0
+4465,5193528,90000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+4466,5034494,40000,AZN,['Səbail r.'],Həyət evi/Bağ evi,45 m²,2.0,0,0,1,0.5 sot,0.0,0.0
+4467,5075513,310000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+4470,4834025,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,460 m²,6.0,1,1,1,14 sot,0.0,0.0
+4472,4225677,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,4.0,1,1,1,6 sot,0.0,0.0
+4473,4987582,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+4479,5194368,700000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,440 m²,14.0,1,0,1,6 sot,0.0,0.0
+4482,4616900,900000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,500 m²,5.0,1,0,1,7 sot,0.0,0.0
+4484,5185631,550000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,480 m²,8.0,1,1,1,8 sot,0.0,0.0
+4485,4574769,170000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3 sot,0.0,0.0
+4486,5151004,105000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,95 m²,4.0,1,0,1,2.7 sot,0.0,0.0
+4487,5181745,1990,AZN,"['Badamdar q.', 'Səbail r.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,7 sot,0.0,0.0
+4490,5125189,295000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+4492,5178686,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,12 sot,0.0,0.0
+4495,5176505,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+4501,4204273,12000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,250 m²,6.0,0,0,1,8 sot,0.0,0.0
+4504,4785253,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,5 sot,0.0,0.0
+4512,4964383,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+4516,4802464,275000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,165 m²,4.0,1,1,1,5 sot,0.0,0.0
+4518,5193653,10000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,2 sot,0.0,0.0
+4519,4987561,225000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+4522,4672540,110000,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,110 m²,3.0,0,0,1,2.5 sot,0.0,0.0
+4523,5164467,230000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,270 m²,10.0,1,1,1,6 sot,0.0,0.0
+4524,5171319,55000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,1 sot,0.0,0.0
+4525,4755059,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,235 m²,5.0,1,1,1,5 sot,0.0,0.0
+4535,5156109,175000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,240 m²,5.0,1,0,1,3.8 sot,0.0,0.0
+4537,5106995,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,0,0,0,5 sot,0.0,0.0
+4541,5194055,3500,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,6 sot,0.0,0.0
+4544,2076266,850000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,500 m²,0.0,1,0,0,12 sot,0.0,0.0
+4553,5104167,5500,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,230 m²,5.0,0,0,1,13 sot,0.0,0.0
+4555,5059626,220000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,230 m²,4.0,1,1,1,3 sot,0.0,0.0
+4556,5108237,239000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,6 sot,0.0,0.0
+4562,5119065,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,245 m²,5.0,1,1,1,4 sot,0.0,0.0
+4565,5066588,720000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,9 sot,0.0,0.0
+4568,5193324,35000,AZN,"['Sabunçu r.', 'Albalılıq q.']",Həyət evi/Bağ evi,70 m²,3.0,0,0,1,2.9 sot,0.0,0.0
+4572,5109747,77000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,124 m²,3.0,1,1,1,1.4 sot,0.0,0.0
+4573,5148609,185000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,400 m²,6.0,1,1,0,8 sot,0.0,0.0
+4579,5193130,56000,AZN,"['Sabunçu r.', 'Kürdəxanı q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,1.6 sot,0.0,0.0
+4581,3852598,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4 sot,0.0,0.0
+4582,5159088,175000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,4.4 sot,0.0,0.0
+4583,5110343,4500,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,500 m²,5.0,0,0,1,36 sot,0.0,0.0
+4588,4845597,368000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+4589,5069051,1300000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,550 m²,9.0,1,1,1,6 sot,0.0,0.0
+4591,5072716,175000,AZN,"['Xəzər r.', 'Qala q.']",Həyət evi/Bağ evi,110 m²,8.0,0,0,1,7 sot,0.0,0.0
+4594,5193326,132000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,180 m²,6.0,1,0,1,3 sot,0.0,0.0
+4597,4291138,250,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,0,0,1,7 sot,0.0,0.0
+4599,5115723,100,AZN,[],Həyət evi/Bağ evi,90 m²,3.0,0,0,1,3 sot,0.0,0.0
+4600,5194277,224900,AZN,[],Həyət evi/Bağ evi,200 m²,4.0,1,1,1,6 sot,0.0,0.0
+4605,5003138,190,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,130 m²,4.0,0,0,1,3 sot,0.0,0.0
+4609,5136117,395000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+4617,5194084,350000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Həyət evi/Bağ evi,280 m²,5.0,1,1,1,3.5 sot,0.0,0.0
+4619,5173482,237000,AZN,['Xəzər r.'],Həyət evi/Bağ evi,220 m²,4.0,1,1,1,5 sot,0.0,0.0
+4621,5111818,418000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,130 m²,5.0,1,0,1,6 sot,0.0,0.0
+4622,5112507,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+4626,5149253,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,4.0,0,0,1,10 sot,0.0,0.0
+4637,5161441,4000000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,2000 m²,11.0,1,1,1,22 sot,0.0,0.0
+4639,5192707,136000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,170 m²,5.0,1,1,1,2.5 sot,0.0,0.0
+4640,5180629,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,3 sot,0.0,0.0
+4642,4076509,330000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,400 m²,0.0,0,0,0,7 sot,0.0,0.0
+4644,5193087,5000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,210 m²,4.0,0,0,1,6 sot,0.0,0.0
+4645,5165049,245000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+4647,4866386,400000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,1,1,1,6 sot,0.0,0.0
+4649,5018854,375000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,6 sot,0.0,0.0
+4650,5122660,10000,AZN,"['Xəzər r.', 'Türkan q.']",Həyət evi/Bağ evi,504 m²,4.0,0,0,1,15 sot,0.0,0.0
+4656,4512092,375000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,350 m²,5.0,1,0,1,6 sot,0.0,0.0
+4659,2546275,900000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,670 m²,0.0,1,0,0,15 sot,0.0,0.0
+4670,5194311,285000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,5 sot,0.0,0.0
+4673,5193329,265000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,330 m²,7.0,0,0,1,10 sot,0.0,0.0
+4674,5064054,150,AZN,[],Həyət evi/Bağ evi,400 m²,7.0,0,0,1,16 sot,0.0,0.0
+4678,4775013,300000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+4679,5173380,595000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,1,1,7 sot,0.0,0.0
+4705,5193587,380000,AZN,['Binəqədi r.'],Həyət evi/Bağ evi,300 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+4716,5163861,265000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+4718,4979236,120000,AZN,"['Sabunçu r.', 'Albalılıq q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,12 sot,0.0,0.0
+4724,5194170,145000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,165 m²,4.0,0,0,1,2 sot,0.0,0.0
+4725,5150760,273000,AZN,[],Həyət evi/Bağ evi,400 m²,6.0,1,1,1,14 sot,0.0,0.0
+4732,5020312,299000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,0,1,5 sot,0.0,0.0
+4735,5165586,120,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,50 m²,2.0,0,0,1,3 sot,0.0,0.0
+4736,2863110,200000,AZN,[],Həyət evi/Bağ evi,300 m²,4.0,1,1,1,15 sot,0.0,0.0
+4744,5012976,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,7 sot,0.0,0.0
+4763,5047528,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,225 m²,5.0,1,1,1,6 sot,0.0,0.0
+4767,5193844,189,AZN,[],Həyət evi/Bağ evi,180 m²,3.0,0,0,1,6 sot,0.0,0.0
+4777,5174033,235,AZN,"['Sabunçu r.', 'Sabunçu q.']",Həyət evi/Bağ evi,25 m²,1.0,0,0,1,1 sot,0.0,0.0
+4783,5192139,230000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,240 m²,6.0,1,1,1,4 sot,0.0,0.0
+4787,5112903,175000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3 sot,0.0,0.0
+4791,4342616,328000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,6 sot,0.0,0.0
+4800,5070279,45000,AZN,['Pirallahı r.'],Həyət evi/Bağ evi,110 m²,3.0,0,0,0,17 sot,0.0,0.0
+4804,5023788,650000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,10 sot,0.0,0.0
+4805,5095647,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,175 m²,4.0,1,1,1,4 sot,0.0,0.0
+4807,5187056,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,6.0,0,0,0,8 sot,0.0,0.0
+4808,5193028,465000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+4817,4933093,170,AZN,[],Həyət evi/Bağ evi,120 m²,4.0,0,0,1,8 sot,0.0,0.0
+4818,4780507,770000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,6 sot,0.0,0.0
+4819,5170963,2500000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,800 m²,6.0,1,0,1,10 sot,0.0,0.0
+4825,5192850,85000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,4 sot,0.0,0.0
+4827,5194314,1100000,AZN,[],Həyət evi/Bağ evi,200 m²,20.0,1,1,0,62 sot,0.0,0.0
+4828,4849047,130000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,41 m²,2.0,1,1,1,12 sot,0.0,0.0
+4830,4699875,650000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,8.2 sot,0.0,0.0
+4832,5102123,1700,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,107 m²,3.0,0,0,1,8 sot,0.0,0.0
+4840,4768785,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,5 sot,0.0,0.0
+4842,4286736,1050000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,600 m²,7.0,1,0,1,24 sot,0.0,0.0
+4846,4131728,415000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+4848,3788409,255000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,0,1,4.1 sot,0.0,0.0
+4855,4487106,680000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,8 sot,0.0,0.0
+4860,4768539,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,1,1,5 sot,0.0,0.0
+4864,5098194,515000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,1,1,7.2 sot,0.0,0.0
+4868,4561955,359000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,5 sot,0.0,0.0
+4886,4008131,6000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,0,0,1,6 sot,0.0,0.0
+4889,4377282,625000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,1,1,7 sot,0.0,0.0
+4891,5180023,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+4901,2514548,15000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,4.0,0,0,1,9 sot,0.0,0.0
+4902,5166339,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,1,1,5 sot,0.0,0.0
+4904,4900087,245000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,250 m²,7.0,1,0,1,5.5 sot,0.0,0.0
+4906,2834408,6000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,540 m²,8.0,0,0,1,16 sot,0.0,0.0
+4908,5066507,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,1,1,4 sot,0.0,0.0
+4909,5194319,110000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,150 m²,2.0,0,0,1,1 sot,0.0,0.0
+4911,5139673,185000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,3 sot,0.0,0.0
+4914,5161743,460000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,350 m²,9.0,1,0,1,12 sot,0.0,0.0
+4917,4212121,6500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,0,0,1,6 sot,0.0,0.0
+4918,5140337,88000,AZN,"['Sabunçu r.', 'Savalan q.']",Həyət evi/Bağ evi,76 m²,4.0,1,0,1,1.6 sot,0.0,0.0
+4924,5193780,600,AZN,"['Montin bazarı', 'Nərimanov r.']",Həyət evi/Bağ evi,60 m²,3.0,0,0,1,1 sot,0.0,0.0
+4930,4775985,300000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+4934,4338438,980000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,700 m²,8.0,1,0,1,15 sot,0.0,0.0
+4943,5099788,130000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,240 m²,7.0,1,1,1,3 sot,0.0,0.0
+4944,5186936,695000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,6.5 sot,0.0,0.0
+4950,2733906,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,0,0,1,10 sot,0.0,0.0
+4954,5194161,200000,AZN,[],Həyət evi/Bağ evi,300 m²,6.0,1,0,1,17 sot,0.0,0.0
+4959,5193085,4500,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,0,0,1,8 sot,0.0,0.0
+4960,4726119,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+4965,4998868,190000,AZN,"['Suraxanı r.', 'Yeni Suraxanı q.']",Həyət evi/Bağ evi,190 m²,5.0,1,1,1,6 sot,0.0,0.0
+4972,4457774,660000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,0,1,8 sot,0.0,0.0
+4978,5190207,155000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,140 m²,7.0,1,0,1,3 sot,0.0,0.0
+4983,4918770,890000,AZN,"['Gənclik m.', 'Nərimanov r.']",Həyət evi/Bağ evi,540 m²,9.0,1,0,1,3 sot,0.0,0.0
+4987,4362566,450000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,350 m²,6.0,1,1,1,6 sot,0.0,0.0
+4989,5188774,235000,AZN,"['Şüvəlan q.', 'Xəzər r.']",Həyət evi/Bağ evi,148 m²,4.0,1,1,1,2.8 sot,0.0,0.0
+4993,5193086,2500,AZN,"['Xəzər r.', 'Dübəndi q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,12 sot,0.0,0.0
+4994,4039112,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,5 sot,0.0,0.0
+4998,5132839,850000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,3 sot,0.0,0.0
+5012,3357312,7000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,320 m²,6.0,0,0,1,15 sot,0.0,0.0
+5019,4557743,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,3 sot,0.0,0.0
+5031,5001977,200,AZN,"['Abşeron r.', 'Görədil q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,15 sot,0.0,0.0
+5033,5148033,3900,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,175 m²,4.0,0,0,1,6 sot,0.0,0.0
+5039,5034864,6900,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,260 m²,4.0,0,0,1,6.6 sot,0.0,0.0
+5043,5158011,450,AZN,"['Pirşağı q.', 'Sabunçu r.']",Həyət evi/Bağ evi,216 m²,4.0,0,0,1,7 sot,0.0,0.0
+5044,4814234,385000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,6 sot,0.0,0.0
+5050,5194302,310000,AZN,"['Abşeron r.', 'Saray q.']",Həyət evi/Bağ evi,180 m²,5.0,1,0,1,16 sot,0.0,0.0
+5053,5192720,87000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,100 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+5056,5106680,495000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,800 m²,9.0,1,0,0,8 sot,0.0,0.0
+5062,5035038,285000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+5064,5017887,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+5065,4350028,470000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,300 m²,4.0,1,1,1,9 sot,0.0,0.0
+5066,4847579,299000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,175 m²,4.0,1,1,1,4 sot,0.0,0.0
+5069,1448407,13000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,550 m²,17.0,0,0,1,6 sot,0.0,0.0
+5074,5183533,56000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,75 m²,3.0,1,1,1,1.2 sot,0.0,0.0
+5077,5161128,196000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,150 m²,3.0,1,0,1,6 sot,0.0,0.0
+5081,5192419,695000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,7 sot,0.0,0.0
+5084,5140072,77900,AZN,[],Həyət evi/Bağ evi,100 m²,3.0,1,0,1,1.4 sot,0.0,0.0
+5089,4907001,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+5091,3609292,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,5.0,1,0,1,7 sot,0.0,0.0
+5096,5136132,395000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,5.0,1,1,1,5 sot,0.0,0.0
+5102,5174160,370000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,535 m²,7.0,1,1,1,3 sot,0.0,0.0
+5109,4897942,285000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4 sot,0.0,0.0
+5113,4018129,295000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,0,1,8 sot,0.0,0.0
+5118,5193686,180000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,100 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+5123,5101934,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,5 sot,0.0,0.0
+5127,5102722,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,4.0,0,0,1,10 sot,0.0,0.0
+5129,4656793,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,20 sot,0.0,0.0
+5135,5194321,245000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+5136,4993419,175000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,110 m²,3.0,1,1,1,3 sot,0.0,0.0
+5137,4987615,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+5140,4426507,630000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,4.0,1,0,1,8 sot,0.0,0.0
+5145,5178670,5000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,320 m²,5.0,0,0,1,10 sot,0.0,0.0
+5147,5191267,320000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,5.0,1,1,1,7 sot,0.0,0.0
+5163,4753564,890000,AZN,"['Gənclik m.', 'Nərimanov r.']",Həyət evi/Bağ evi,450 m²,9.0,1,0,1,3 sot,0.0,0.0
+5164,5153584,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,6 sot,0.0,0.0
+5166,4367167,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,9 sot,0.0,0.0
+5170,4405602,250,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,12 sot,0.0,0.0
+5174,4170487,265000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,134 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+5175,5089811,115000,AZN,"['Sabunçu r.', 'Savalan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+5178,4014706,445000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,230 m²,4.0,1,0,1,6 sot,0.0,0.0
+5182,5172655,408000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,360 m²,7.0,1,1,1,3 sot,0.0,0.0
+5183,4578544,58000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,90 m²,3.0,0,0,1,1.8 sot,0.0,0.0
+5185,2725289,230000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,220 m²,4.0,1,0,0,7 sot,0.0,0.0
+5187,5192391,245000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+5190,5183203,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,120 m²,3.0,1,0,1,3 sot,0.0,0.0
+5191,5194390,178000,AZN,"['Qaradağ r.', 'Lökbatan q.']",Həyət evi/Bağ evi,190 m²,5.0,1,0,1,2 sot,0.0,0.0
+5195,5052386,399000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,225 m²,4.0,1,1,1,3 sot,0.0,0.0
+5196,5026904,430000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,4 sot,0.0,0.0
+5197,5192833,133000,AZN,"['Sabunçu r.', 'Savalan q.']",Həyət evi/Bağ evi,210 m²,7.0,1,0,1,3 sot,0.0,0.0
+5202,5192853,235000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Həyət evi/Bağ evi,130 m²,6.0,1,1,1,4 sot,0.0,0.0
+5205,4475671,399000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,220 m²,7.0,1,1,1,3 sot,0.0,0.0
+5208,4866854,5500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,8 sot,0.0,0.0
+5210,4998842,655000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,255 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+5211,5152170,195000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+5216,5194309,55000,AZN,[],Həyət evi/Bağ evi,100 m²,3.0,1,0,1,6 sot,0.0,0.0
+5220,4661715,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,4.0,1,1,1,5 sot,0.0,0.0
+5222,5122322,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+5223,5189601,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+5228,5179274,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,3 sot,0.0,0.0
+5235,4014821,700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,330 m²,6.0,1,1,1,10 sot,0.0,0.0
+5236,4853242,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+5238,4743869,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,1,1,5 sot,0.0,0.0
+5245,4601351,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,6 sot,0.0,0.0
+5247,5170300,850000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,4 sot,0.0,0.0
+5249,5025083,72000,AZN,"['Sabunçu r.', 'Yeni Ramana q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+5251,5109522,240000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4 sot,0.0,0.0
+5253,5175666,220000,AZN,"['Abşeron r.', 'Saray q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,0,8 sot,0.0,0.0
+5257,5193396,145000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,130 m²,3.0,1,1,1,2 sot,0.0,0.0
+5277,5193165,330000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,12 sot,0.0,0.0
+5281,4969124,980000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,5.0,1,0,1,12 sot,0.0,0.0
+5289,5194369,485000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,6 sot,0.0,0.0
+5290,4868594,150,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,12 sot,0.0,0.0
+5296,5001358,140000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,120 m²,3.0,1,0,1,2.5 sot,0.0,0.0
+5297,4014540,950000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,7.0,1,0,1,16 sot,0.0,0.0
+5299,5085853,55500,AZN,"['Qaradağ r.', 'Lökbatan q.']",Həyət evi/Bağ evi,50 m²,2.0,1,0,0,1 sot,0.0,0.0
+5300,5011905,188000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,110 m²,3.0,1,1,1,2.5 sot,0.0,0.0
+5301,4913633,187000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,100 m²,3.0,1,1,1,2.5 sot,0.0,0.0
+5303,4802713,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,4.0,0,0,1,6 sot,0.0,0.0
+5309,5109951,350000,AZN,"['Xəzər r.', 'Qala q.']",Həyət evi/Bağ evi,150 m²,6.0,1,0,1,7.5 sot,0.0,0.0
+5311,5193356,63000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,56 m²,2.0,1,0,1,1 sot,0.0,0.0
+5312,5191383,400000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,206 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+5327,5131636,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+5331,4949322,700000,AZN,"['Xəzər r.', 'Qala q.']",Həyət evi/Bağ evi,750 m²,0.0,1,0,0,16 sot,0.0,0.0
+5335,4947608,62000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,87 m²,3.0,1,0,1,1.5 sot,0.0,0.0
+5340,4943517,1500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,0,0,1,4 sot,0.0,0.0
+5344,4897867,485000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,0,1,5 sot,0.0,0.0
+5345,3775546,1650000,AZN,['Nəsimi r.'],Həyət evi/Bağ evi,450 m²,9.0,1,0,0,6.5 sot,0.0,0.0
+5351,4855512,7000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,16 sot,0.0,0.0
+5353,5189994,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+5355,5102619,66000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,80 m²,3.0,1,1,1,2 sot,0.0,0.0
+5361,4573253,170000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3 sot,0.0,0.0
+5362,5125352,750000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,18 sot,0.0,0.0
+5365,5068606,290000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,5 sot,0.0,0.0
+5366,5138470,89000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,85 m²,3.0,0,0,1,2 sot,0.0,0.0
+5370,5174553,205000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,5 sot,0.0,0.0
+5372,5165276,430000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,1,0,7 sot,0.0,0.0
+5373,4833532,620000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,4.0,1,1,1,5 sot,0.0,0.0
+5375,4612694,95000,AZN,[],Həyət evi/Bağ evi,360 m²,6.0,1,0,0,10 sot,0.0,0.0
+5379,5136139,290000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.8 sot,0.0,0.0
+5380,4792603,385000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,0,1,6 sot,0.0,0.0
+5382,5177735,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3.2 sot,0.0,0.0
+5391,4034271,345000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,6 sot,0.0,0.0
+5392,5194210,250,AZN,[],Həyət evi/Bağ evi,50 m²,2.0,0,0,1,1 sot,0.0,0.0
+5399,4775715,260000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+5400,5194102,68000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,90 m²,3.0,1,0,1,3 sot,0.0,0.0
+5408,5194134,45000,AZN,[],Həyət evi/Bağ evi,50 m²,2.0,0,0,1,0.5 sot,0.0,0.0
+5413,4859427,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+5414,4902151,950000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,1,1,11 sot,0.0,0.0
+5415,4964298,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+5416,4457684,170,AZN,[],Həyət evi/Bağ evi,180 m²,4.0,0,0,1,5 sot,0.0,0.0
+5426,4036716,700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,6.0,1,0,1,10 sot,0.0,0.0
+5428,5106799,150,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,12 sot,0.0,0.0
+5440,5194354,185000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,1,1,3 sot,0.0,0.0
+5443,4035201,590000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,350 m²,6.0,1,0,1,8 sot,0.0,0.0
+5444,5165218,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,6.0,1,0,0,11 sot,0.0,0.0
+5449,4363803,495000,AZN,['Səbail r.'],Həyət evi/Bağ evi,800 m²,9.0,1,0,0,8 sot,0.0,0.0
+5453,5068292,199000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,320 m²,7.0,1,0,1,4 sot,0.0,0.0
+5454,5135951,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+5456,5006137,1700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,17 sot,0.0,0.0
+5458,5165120,185000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,3 sot,0.0,0.0
+5462,4825441,160000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,206 m²,7.0,1,0,1,4 sot,0.0,0.0
+5463,4856884,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5 sot,0.0,0.0
+5466,5115518,980000,AZN,['Nizami r.'],Həyət evi/Bağ evi,300 m²,8.0,1,1,1,13 sot,0.0,0.0
+5469,5153435,6000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,500 m²,7.0,0,0,1,15 sot,0.0,0.0
+5475,5194008,125000,AZN,"['Xətai r.', 'NZS q.']",Həyət evi/Bağ evi,85 m²,3.0,0,0,1,2 sot,0.0,0.0
+5479,5193227,53000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Həyət evi/Bağ evi,43 m²,3.0,1,1,1,1 sot,0.0,0.0
+5480,5193410,149900,AZN,"['Sabunçu r.', 'Pirşağı q.']",Həyət evi/Bağ evi,100 m²,3.0,1,1,1,4 sot,0.0,0.0
+5483,5189903,300,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,5 sot,0.0,0.0
+5485,5193077,330000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,165 m²,4.0,1,0,1,12 sot,0.0,0.0
+5486,5013916,160000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,135 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+5493,5179206,450000,AZN,"['Şüvəlan q.', 'Xəzər r.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4 sot,0.0,0.0
+5494,4476348,5000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,270 m²,5.0,0,0,1,8 sot,0.0,0.0
+5496,5124852,665000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,360 m²,7.0,1,1,0,6.8 sot,0.0,0.0
+5500,4704140,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,5 sot,0.0,0.0
+5501,5192958,170000,AZN,"['Xətai r.', 'NZS q.']",Həyət evi/Bağ evi,183 m²,3.0,0,0,1,1.5 sot,0.0,0.0
+5502,4707609,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+5520,5045079,810000,AZN,"['Qara Qarayev m.', 'Nizami r.']",Həyət evi/Bağ evi,400 m²,7.0,1,0,1,7 sot,0.0,0.0
+5525,4847310,275000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+5529,5163225,245000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+5533,5190982,4000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,5.0,0,0,1,20 sot,0.0,0.0
+5536,5194320,65000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,1.5 sot,0.0,0.0
+5539,5193198,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,7 sot,0.0,0.0
+5542,4405224,199,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,205 m²,4.0,0,0,1,7 sot,0.0,0.0
+5543,5176005,74000,AZN,"['Sabunçu r.', 'Albalılıq q.']",Həyət evi/Bağ evi,80 m²,2.0,1,0,1,7 sot,0.0,0.0
+5547,5065125,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+5556,5168172,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,175 m²,4.0,1,0,1,5 sot,0.0,0.0
+5558,4957401,225000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,6.5 sot,0.0,0.0
+5562,5184212,245000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,5 sot,0.0,0.0
+5567,4780487,460000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,1,1,8 sot,0.0,0.0
+5575,5168222,120000,AZN,"['Binə atçılıq mərkəzi', 'Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,3 sot,0.0,0.0
+5579,4778590,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+5580,4792152,625000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,7 sot,0.0,0.0
+5587,4674953,6000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,7 sot,0.0,0.0
+5588,5032564,280000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+5593,5076419,4500000,AZN,"['DİM', 'Neftçi bazası', 'Gənclik m.', 'Nərimanov r.']",Həyət evi/Bağ evi,950 m²,8.0,1,0,1,9 sot,0.0,0.0
+5594,4588259,250000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,8 sot,0.0,0.0
+5595,5094379,18000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,500 m²,11.0,0,0,1,32 sot,0.0,0.0
+5598,5185107,128000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,2.2 sot,0.0,0.0
+5604,4792309,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+5605,5159161,150000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,4 sot,0.0,0.0
+5609,5192885,147000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,220 m²,6.0,1,0,1,5 sot,0.0,0.0
+5615,5194258,2500,AZN,"['Sabunçu r.', 'Pirşağı q.']",Həyət evi/Bağ evi,220 m²,5.0,0,0,1,5 sot,0.0,0.0
+5617,5192794,78000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,2 sot,0.0,0.0
+5623,4922519,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+5626,3534118,295000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,175 m²,0.0,1,0,1,6 sot,0.0,0.0
+5632,5100680,265000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,220 m²,5.0,0,0,1,4 sot,0.0,0.0
+5633,4998968,655000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,255 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+5635,5173667,455000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,245 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+5643,5077280,720000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,9 sot,0.0,0.0
+5655,5194200,120000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,2.5 sot,0.0,0.0
+5657,4916406,170000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+5662,4914506,730000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,6.0,1,1,1,10 sot,0.0,0.0
+5666,4965309,150000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,110 m²,4.0,1,0,1,1.5 sot,0.0,0.0
+5671,2728120,350000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,0.0,1,0,0,6 sot,0.0,0.0
+5672,5172228,235,AZN,"['Sabunçu r.', 'Sabunçu q.']",Həyət evi/Bağ evi,25 m²,1.0,0,0,1,1 sot,0.0,0.0
+5674,5140525,200000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,210 m²,7.0,1,1,1,4.2 sot,0.0,0.0
+5676,4541410,520000,AZN,[],Həyət evi/Bağ evi,500 m²,6.0,1,0,1,11 sot,0.0,0.0
+5678,5192874,120,AZN,[],Həyət evi/Bağ evi,110 m²,4.0,0,0,1,4 sot,0.0,0.0
+5679,5117169,150000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,0,1,3 sot,0.0,0.0
+5686,4934119,820000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,270 m²,5.0,1,1,0,9 sot,0.0,0.0
+5687,5192173,330000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,140 m²,5.0,1,0,0,24 sot,0.0,0.0
+5688,4847692,310000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,6 sot,0.0,0.0
+5689,4872230,100,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,6 sot,0.0,0.0
+5695,4443208,357000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,4.0,1,1,1,6 sot,0.0,0.0
+5698,5194204,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,165 m²,4.0,1,0,1,7 sot,0.0,0.0
+5699,4950020,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4 sot,0.0,0.0
+5702,5171387,350000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+5710,5190518,78000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,150 m²,4.0,0,0,1,1.3 sot,0.0,0.0
+5712,5194235,470000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,4 sot,0.0,0.0
+5716,5170497,285000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,0,1,5 sot,0.0,0.0
+5717,5093160,320000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+5718,5165167,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,6 sot,0.0,0.0
+5720,5193800,100000,AZN,"['Sabunçu r.', 'Kürdəxanı q.']",Həyət evi/Bağ evi,110 m²,3.0,1,1,1,2.5 sot,0.0,0.0
+5727,5149961,59000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,80 m²,3.0,1,0,1,2 sot,0.0,0.0
+5737,2901880,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,20 sot,0.0,0.0
+5740,5114381,345000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,1,1,4 sot,0.0,0.0
+5741,5096663,485000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,5 sot,0.0,0.0
+5752,4503359,454000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4.1 sot,0.0,0.0
+5760,5194396,135000,AZN,[],Həyət evi/Bağ evi,220 m²,5.0,0,0,1,3 sot,0.0,0.0
+5762,5099090,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+5767,5106786,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3 sot,0.0,0.0
+5773,4819859,137000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,70 m²,3.0,1,0,1,3 sot,0.0,0.0
+5775,4524922,280000,AZN,['Sabunçu r.'],Həyət evi/Bağ evi,240 m²,6.0,1,0,1,6 sot,0.0,0.0
+5800,4897891,730000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,7.0,1,0,1,7 sot,0.0,0.0
+5802,5170524,59500,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,70 m²,3.0,1,0,1,1.5 sot,0.0,0.0
+5806,5194063,65,AZN,[],Həyət evi/Bağ evi,39 m²,2.0,0,0,1,50 sot,0.0,0.0
+5809,5192740,300,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,35 m²,2.0,0,0,1,0.1 sot,0.0,0.0
+5815,5188349,71000,AZN,"['Abşeron r.', 'Pirəkəşkül q.']",Həyət evi/Bağ evi,400 m²,7.0,1,0,0,3 sot,0.0,0.0
+5824,5192887,138000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+5827,4412075,700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,6.0,1,1,1,10 sot,0.0,0.0
+5834,5112560,375000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,0,1,1,6 sot,0.0,0.0
+5843,5174341,470000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,4 sot,0.0,0.0
+5850,5067182,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,5.0,1,0,1,3 sot,0.0,0.0
+5859,5194130,85000,AZN,[],Həyət evi/Bağ evi,80 m²,3.0,1,0,1,1 sot,0.0,0.0
+5860,5110080,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,6 sot,0.0,0.0
+5863,5194046,250000,AZN,"['Sabunçu r.', 'Zabrat q.']",Həyət evi/Bağ evi,150 m²,12.0,1,0,1,20 sot,0.0,0.0
+5864,5102674,170000,AZN,[],Həyət evi/Bağ evi,216 m²,6.0,1,0,1,6 sot,0.0,0.0
+5872,5116041,4000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,450 m²,6.0,0,0,1,14 sot,0.0,0.0
+5873,5194032,135000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,210 m²,5.0,1,1,1,2.5 sot,0.0,0.0
+5886,5148436,200000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,240 m²,5.0,1,1,1,5 sot,0.0,0.0
+5890,4741281,525000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,7.5 sot,0.0,0.0
+5894,4784345,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,142 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+5895,5179212,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,4.6 sot,0.0,0.0
+5897,5169079,58500,AZN,[],Həyət evi/Bağ evi,130 m²,5.0,1,0,0,1.5 sot,0.0,0.0
+5899,4357627,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,7 sot,0.0,0.0
+5907,5181153,132000,AZN,"['Sabunçu r.', 'Yeni Ramana q.']",Həyət evi/Bağ evi,150 m²,5.0,1,0,1,6 sot,0.0,0.0
+5908,5012295,525000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,1,1,7.5 sot,0.0,0.0
+5909,5193558,85000,AZN,[],Həyət evi/Bağ evi,80 m²,3.0,1,0,1,1.3 sot,0.0,0.0
+5917,4859546,45000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,52 m²,2.0,1,0,1,1 sot,0.0,0.0
+5918,4746273,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+5920,5144063,99000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,120 m²,6.0,1,0,1,1.5 sot,0.0,0.0
+5925,5103719,450000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,2.5 sot,0.0,0.0
+5934,4777296,1580000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,300 m²,10.0,1,0,1,90 sot,0.0,0.0
+5936,5193014,485000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,6 sot,0.0,0.0
+5937,4254790,415000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+5939,4582413,520000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,5 sot,0.0,0.0
+5941,4965816,890000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,320 m²,5.0,1,1,1,12 sot,0.0,0.0
+5942,5192437,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,120 m²,3.0,1,0,1,3 sot,0.0,0.0
+5946,4786792,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,270 m²,6.0,1,1,1,6 sot,0.0,0.0
+5947,5063015,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+5950,2431929,150,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,260 m²,5.0,0,0,1,12 sot,0.0,0.0
+5951,4974401,41500,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,65 m²,2.0,1,1,1,1 sot,0.0,0.0
+5959,5061112,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+5961,4093917,850000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,6 sot,0.0,0.0
+5962,5193381,250,AZN,"['Xəzər r.', 'Şimal DRES q.']",Həyət evi/Bağ evi,120 m²,3.0,0,0,1,4 sot,0.0,0.0
+5963,4014637,480000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,8 sot,0.0,0.0
+5968,5193373,1200000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,570 m²,5.0,1,0,1,15 sot,0.0,0.0
+5971,4019455,750000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,12 sot,0.0,0.0
+5972,4795202,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,1,0,1,8 sot,0.0,0.0
+5986,5096226,310000,AZN,"['Suraxanı r.', 'Bülbülə q.']",Həyət evi/Bağ evi,500 m²,6.0,1,0,1,6 sot,0.0,0.0
+5987,5036293,260000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,340 m²,5.0,1,0,1,6.7 sot,0.0,0.0
+5997,5193351,210000,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,250 m²,6.0,0,0,1,4 sot,0.0,0.0
+5998,4780559,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,5 sot,0.0,0.0
+6000,5194312,100,AZN,[],Həyət evi/Bağ evi,120 m²,3.0,0,0,1,6 sot,0.0,0.0
+6003,4616889,900000,AZN,"['Səbail r.', 'Şıxov q.']",Həyət evi/Bağ evi,500 m²,5.0,1,0,1,12 sot,0.0,0.0
+6011,5115908,4500,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,0,10 sot,0.0,0.0
+6014,5113112,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+6016,5102884,449000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,195 m²,5.0,1,1,1,8 sot,0.0,0.0
+6018,5065895,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4.1 sot,0.0,0.0
+6022,4927704,535000,AZN,['Nizami r.'],Həyət evi/Bağ evi,370 m²,8.0,1,0,1,3 sot,0.0,0.0
+6025,4859418,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,7 sot,0.0,0.0
+6026,4776550,345000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,3 sot,0.0,0.0
+6027,5115655,359000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,4.5 sot,0.0,0.0
+6036,4776689,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+6037,4951881,750000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,1000 m²,8.0,1,0,1,30 sot,0.0,0.0
+6047,5178683,56000,AZN,['Nərimanov r.'],Həyət evi/Bağ evi,38 m²,1.0,0,0,1,1 sot,0.0,0.0
+6048,4700614,955000,AZN,['Xətai r.'],Həyət evi/Bağ evi,480 m²,12.0,1,0,1,10 sot,0.0,0.0
+6049,4825705,445000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,182 m²,4.0,1,1,1,5 sot,0.0,0.0
+6052,4631975,690000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.']",Həyət evi/Bağ evi,500 m²,5.0,1,1,1,3 sot,0.0,0.0
+6056,4518651,100,AZN,[],Həyət evi/Bağ evi,160 m²,6.0,0,0,1,3 sot,0.0,0.0
+6058,5194401,239000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,397 m²,6.0,0,0,1,11 sot,0.0,0.0
+6061,4871566,490000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,5 sot,0.0,0.0
+6062,5175733,330000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,200 m²,6.0,1,0,1,4 sot,0.0,0.0
+6066,2825151,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,0.0,1,0,0,7 sot,0.0,0.0
+6075,5181308,545000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,185 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+6078,5186910,158000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,219.9 m²,3.0,1,0,1,4 sot,0.0,0.0
+6079,5018093,175000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+6085,5082985,850000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,1,1,5 sot,0.0,0.0
+6090,5107341,422000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,410 m²,5.0,1,0,1,6.4 sot,0.0,0.0
+6092,3921717,520000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,11 sot,0.0,0.0
+6095,4972574,379000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,210 m²,5.0,1,1,1,4 sot,0.0,0.0
+6097,4873627,195000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+6099,5179568,285000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,5 sot,0.0,0.0
+6101,4380749,148000,AZN,['Binəqədi r.'],Həyət evi/Bağ evi,151 m²,5.0,1,0,1,7 sot,0.0,0.0
+6105,5193431,110000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,60 m²,3.0,0,0,1,5 sot,0.0,0.0
+6112,5117271,900,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,14 sot,0.0,0.0
+6113,5146169,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+6114,4973071,630000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,305 m²,5.0,1,1,1,7.5 sot,0.0,0.0
+6115,4781885,180000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+6116,4104847,415000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+6120,4705604,500,AZN,"['Fəvvarələr meydanı', 'Azərbaycan kinoteatrı', 'Xalça Muzeyi', 'M.Ə.Sabir parkı', 'Mərkəzi Univermaq', 'Sahil m.', 'İçəri Şəhər m.', 'Yasamal q.', 'Yasamal r.']",Həyət evi/Bağ evi,57 m²,2.0,0,0,1,1 sot,0.0,0.0
+6123,4884420,1100000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,600 m²,6.0,1,1,1,30 sot,0.0,0.0
+6124,5103858,1300,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,9 sot,0.0,0.0
+6126,4489477,185000,AZN,"['Sabunçu r.', 'Albalılıq q.']",Həyət evi/Bağ evi,260 m²,4.0,0,0,1,12 sot,0.0,0.0
+6128,5138503,36500,AZN,[],Həyət evi/Bağ evi,80 m²,2.0,0,0,1,1 sot,0.0,0.0
+6131,5106836,7500,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,350 m²,4.0,0,0,1,10 sot,0.0,0.0
+6132,4143813,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4 sot,0.0,0.0
+6144,4727349,258000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+6154,5110969,545000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,6 sot,0.0,0.0
+6155,5110519,185000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,135 m²,4.0,1,1,1,3.2 sot,0.0,0.0
+6160,5179247,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,0,1,7 sot,0.0,0.0
+6164,5173018,125000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,120 m²,4.0,0,0,1,3 sot,0.0,0.0
+6166,5158885,8000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,17 sot,0.0,0.0
+6169,5000755,565000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,4.0,1,1,1,6.5 sot,0.0,0.0
+6172,5193847,320000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+6174,4828373,455000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+6177,5169365,165000,AZN,"['Abşeron r.', 'Görədil q.']",Həyət evi/Bağ evi,220 m²,6.0,1,0,1,12 sot,0.0,0.0
+6184,4586055,520000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,5.7 sot,0.0,0.0
+6189,4488190,290000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+6194,5089830,98000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,2.5 sot,0.0,0.0
+6195,5191335,3400,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,15 sot,0.0,0.0
+6200,5069492,780000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,1,1,6 sot,0.0,0.0
+6201,2299102,200,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,480 m²,8.0,0,0,1,8 sot,0.0,0.0
+6203,4872980,680000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,5.0,1,1,1,8 sot,0.0,0.0
+6212,4061421,3000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,0,0,1,8 sot,0.0,0.0
+6219,5181622,97000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,108 m²,3.0,1,0,1,2.5 sot,0.0,0.0
+6222,5175934,155000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,170 m²,5.0,1,0,1,4.2 sot,0.0,0.0
+6225,5145462,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,5.0,1,0,1,5 sot,0.0,0.0
+6226,5193753,365000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,450 m²,8.0,0,0,1,10 sot,0.0,0.0
+6237,5078463,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+6240,4038124,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,4 sot,0.0,0.0
+6248,5192821,128000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,210 m²,7.0,1,0,1,3 sot,0.0,0.0
+6254,5153691,960000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,6.0,1,0,1,12 sot,0.0,0.0
+6255,5192727,55000,AZN,"['Sabunçu r.', 'Sabunçu q.']",Həyət evi/Bağ evi,46 m²,2.0,0,0,1,2 sot,0.0,0.0
+6262,5123669,339000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,240 m²,6.0,1,0,1,14 sot,0.0,0.0
+6266,4868587,175000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,3 sot,0.0,0.0
+6267,4699816,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+6270,5185733,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,7 sot,0.0,0.0
+6273,5182984,655000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,255 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+6279,5143265,1150000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,355 m²,8.0,1,1,1,13 sot,0.0,0.0
+6282,4981201,465000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+6288,4964066,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,246 m²,5.0,1,1,1,9 sot,0.0,0.0
+6289,5193550,250,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,8 sot,0.0,0.0
+6290,5138624,88000,AZN,[],Həyət evi/Bağ evi,130 m²,4.0,1,0,1,1.7 sot,0.0,0.0
+6292,4737288,155000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,110 m²,3.0,1,0,1,2.5 sot,0.0,0.0
+6293,5020762,66500,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,75 m²,3.0,1,0,1,1.5 sot,0.0,0.0
+6299,5181888,220000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+6303,4064312,265000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4 sot,0.0,0.0
+6306,4821695,96900,AZN,['Abşeron r.'],Həyət evi/Bağ evi,120 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+6311,5111018,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,5.5 sot,0.0,0.0
+6322,4687402,250000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,5 sot,0.0,0.0
+6326,3816095,510000,AZN,"['Suraxanı r.', 'Bülbülə q.']",Həyət evi/Bağ evi,408 m²,10.0,1,1,1,10 sot,0.0,0.0
+6327,5156268,100,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,6 sot,0.0,0.0
+6332,4784487,157000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,225 m²,4.0,1,1,1,2.3 sot,0.0,0.0
+6339,5110133,55000,AZN,[],Həyət evi/Bağ evi,104 m²,4.0,0,0,1,2.3 sot,0.0,0.0
+6342,5193139,700,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,100 m²,4.0,0,0,1,1 sot,0.0,0.0
+6345,5150256,137000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+6347,5169676,85000,AZN,"['Abşeron r.', 'Saray q.']",Həyət evi/Bağ evi,100 m²,0.0,0,0,1,2 sot,0.0,0.0
+6352,4859429,350000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+6354,4721786,300000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,5 sot,0.0,0.0
+6356,5188513,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4 sot,0.0,0.0
+6366,5182895,148000,AZN,"['Sabunçu r.', 'Zabrat q.']",Həyət evi/Bağ evi,210 m²,5.0,1,0,0,2.5 sot,0.0,0.0
+6369,5068454,1300000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,5.0,1,1,1,11 sot,0.0,0.0
+6372,4772411,5000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,0,0,1,6 sot,0.0,0.0
+6373,4909881,480000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,6 sot,0.0,0.0
+6377,4864300,5000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,8 sot,0.0,0.0
+6379,3161506,5800,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,320 m²,6.0,0,0,1,10 sot,0.0,0.0
+6392,5193346,585000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,330 m²,6.0,1,0,1,4.5 sot,0.0,0.0
+6395,5138383,4500,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,270 m²,5.0,0,0,1,10 sot,0.0,0.0
+6399,5103938,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,300 m²,4.0,0,0,1,7 sot,0.0,0.0
+6402,5188378,6000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,224 m²,5.0,0,0,1,7 sot,0.0,0.0
+6404,5052348,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,7 sot,0.0,0.0
+6405,3814453,1200000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,380 m²,6.0,1,1,1,18 sot,0.0,0.0
+6406,5193619,140000,AZN,"['Xətai r.', 'NZS q.']",Həyət evi/Bağ evi,108.5 m²,10.0,0,0,1,1.5 sot,0.0,0.0
+6407,4839526,319000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,155 m²,4.0,1,0,1,4 sot,0.0,0.0
+6418,5129305,120000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+6427,5194346,50000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,50 m²,2.0,0,0,1,0.5 sot,0.0,0.0
+6428,4713788,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+6435,4950325,890000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,12 sot,0.0,0.0
+6437,3258174,950000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,0.0,1,0,1,12 sot,0.0,0.0
+6439,3212341,16000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,500 m²,7.0,0,0,1,30 sot,0.0,0.0
+6441,4170503,265000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,112 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+6442,4685391,162500,AZN,"['Sabunçu r.', 'Kürdəxanı q.']",Həyət evi/Bağ evi,240 m²,6.0,0,0,1,4.5 sot,0.0,0.0
+6443,5006185,1700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,17 sot,0.0,0.0
+6446,4211980,300,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,0,0,1,6 sot,0.0,0.0
+6447,5181754,100,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,125 m²,3.0,0,0,1,4 sot,0.0,0.0
+6448,4810964,7000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,4.0,0,0,1,12 sot,0.0,0.0
+6457,4015660,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,4.0,1,0,1,6 sot,0.0,0.0
+6461,5157552,49000,AZN,"['Sabunçu r.', 'Zabrat q.']",Həyət evi/Bağ evi,130 m²,4.0,0,0,0,3 sot,0.0,0.0
+6465,4617889,189000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,220 m²,6.0,1,1,1,3200 sot,0.0,0.0
+6466,5193399,55000,AZN,[],Həyət evi/Bağ evi,150 m²,3.0,0,0,0,4 sot,0.0,0.0
+6467,4034233,350000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,8 sot,0.0,0.0
+6474,2690027,1700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,0.0,1,0,0,17 sot,0.0,0.0
+6475,4605654,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+6476,5007474,370000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,240 m²,5.0,1,1,1,12 sot,0.0,0.0
+6478,5113442,480000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,7 sot,0.0,0.0
+6481,5136119,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+6482,5148818,160000,AZN,"['Sabunçu r.', 'Ramana q.']",Həyət evi/Bağ evi,210 m²,7.0,1,0,1,5 sot,0.0,0.0
+6483,5076823,73000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,90 m²,3.0,1,0,1,2 sot,0.0,0.0
+6486,4941386,820000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,0,1,9 sot,0.0,0.0
+6487,5115562,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+6488,5065623,310000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.8 sot,0.0,0.0
+6496,5194209,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+6497,5132126,1350000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,450 m²,8.0,1,1,1,6.5 sot,0.0,0.0
+6501,5168063,2199000,AZN,['Binəqədi r.'],Həyət evi/Bağ evi,950 m²,0.0,1,0,1,6 sot,0.0,0.0
+6512,5194316,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+6514,5178665,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,10 sot,0.0,0.0
+6515,5135834,690000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,5.0,1,0,1,12 sot,0.0,0.0
+6521,4313189,117000,AZN,"['Binəqədi r.', 'Görədil q.']",Həyət evi/Bağ evi,144 m²,4.0,1,0,1,6 sot,0.0,0.0
+6525,5194016,92000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,0,3.8 sot,0.0,0.0
+6526,5080410,850000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,1,11 sot,0.0,0.0
+6527,5172115,500,AZN,"['Yasamal r.', 'Yasamal q.']",Həyət evi/Bağ evi,100 m²,2.0,0,0,1,1 sot,0.0,0.0
+6528,5124957,385000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,317.9 m²,6.0,1,0,1,12 sot,0.0,0.0
+6529,4713813,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,4.0,1,1,1,12 sot,0.0,0.0
+6536,4338460,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,4.0,1,1,1,6 sot,0.0,0.0
+6537,4617415,469000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,270 m²,5.0,1,0,1,7 sot,0.0,0.0
+6538,5119144,4000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,10 sot,0.0,0.0
+6540,4774925,545000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4 sot,0.0,0.0
+6543,4996071,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,155 m²,4.0,1,1,1,4 sot,0.0,0.0
+6551,5039310,520000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,350 m²,7.0,1,0,1,8 sot,0.0,0.0
+6553,4780134,345000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6.5 sot,0.0,0.0
+6561,5149279,50000,AZN,"['Xəzər r.', 'Qala q.']",Həyət evi/Bağ evi,130 m²,4.0,0,0,1,3.5 sot,0.0,0.0
+6570,5153827,680000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,20 sot,0.0,0.0
+6575,4872284,110000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+6576,5152260,100000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,170 m²,6.0,0,0,1,2.5 sot,0.0,0.0
+6579,5112736,4000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,300 m²,4.0,0,0,1,12 sot,0.0,0.0
+6585,5010469,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,360 m²,6.0,1,0,1,14 sot,0.0,0.0
+6588,4872218,150,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,6 sot,0.0,0.0
+6590,5156252,120,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,0,0,1,7 sot,0.0,0.0
+6592,5087805,49900,AZN,"['Abşeron r.', 'Mehdiabad q.']",Həyət evi/Bağ evi,80 m²,3.0,1,0,1,2 sot,0.0,0.0
+6601,5182485,195000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,2.5 sot,0.0,0.0
+6606,5076916,10000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,18 sot,0.0,0.0
+6607,5183550,185000,AZN,"['Sabunçu r.', 'Albalılıq q.']",Həyət evi/Bağ evi,400 m²,6.0,1,0,0,8 sot,0.0,0.0
+6609,4755142,326000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,206 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+6610,4791718,325000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4 sot,0.0,0.0
+6617,5116080,5000,AZN,"['Sabunçu r.', 'Pirşağı q.']",Həyət evi/Bağ evi,245 m²,4.0,0,0,1,12 sot,0.0,0.0
+6618,5192618,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+6622,4415471,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,6 sot,0.0,0.0
+6623,5163898,245000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+6626,5193318,575000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,430 m²,8.0,1,0,1,5 sot,0.0,0.0
+6627,4855354,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,350 m²,4.0,0,0,1,8 sot,0.0,0.0
+6628,5116600,890000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,600 m²,9.0,1,0,1,6 sot,0.0,0.0
+6629,5135055,960000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,12 sot,0.0,0.0
+6635,5169467,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,7 sot,0.0,0.0
+6637,4479323,120,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,270 m²,4.0,0,0,1,7 sot,0.0,0.0
+6638,5121594,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+6639,5122728,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+6646,5018090,290000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,5 sot,0.0,0.0
+6649,5064177,350000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,172 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+6650,4782841,385000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,6 sot,0.0,0.0
+6654,4769472,2147000,AZN,"['Nəsimi m.', 'Binəqədi r.', '6-cı mikrorayon q.']",Həyət evi/Bağ evi,650 m²,6.0,1,0,1,24 sot,0.0,0.0
+6655,4614564,95000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Həyət evi/Bağ evi,130 m²,4.0,0,0,1,1.5 sot,0.0,0.0
+6656,4375643,390000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,5.0,1,1,1,8 sot,0.0,0.0
+6660,2673961,7000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,320 m²,5.0,0,0,1,16 sot,0.0,0.0
+6661,4996773,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+6662,4503449,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,4 sot,0.0,0.0
+6665,2621531,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,237 m²,0.0,1,0,0,7 sot,0.0,0.0
+6666,5156155,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,5 sot,0.0,0.0
+6670,4937934,730000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,7 sot,0.0,0.0
+6671,5194181,105000,AZN,"['Xəzər r.', 'Qala q.']",Həyət evi/Bağ evi,130 m²,4.0,1,0,1,3 sot,0.0,0.0
+6673,4633380,1750000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,300 m²,5.0,1,0,1,11 sot,0.0,0.0
+6674,4775951,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,5 sot,0.0,0.0
+6685,5111890,70000,AZN,"['Sabunçu r.', 'Kürdəxanı q.']",Həyət evi/Bağ evi,110 m²,4.0,0,0,1,3 sot,0.0,0.0
+6689,5011026,455000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+6696,4832955,770000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,1,1,8 sot,0.0,0.0
+6706,4861651,1275000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,320 m²,6.0,1,1,1,4 sot,0.0,0.0
+6709,4951696,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,4 sot,0.0,0.0
+6712,4773082,200000,AZN,['Pirallahı r.'],Həyət evi/Bağ evi,70 m²,2.0,0,0,1,30 sot,0.0,0.0
+6717,5163817,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,105 m²,3.0,1,0,1,3 sot,0.0,0.0
+6719,5122201,230000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,5 sot,0.0,0.0
+6721,4744840,45000,AZN,"['Sabunçu r.', 'Sabunçu q.']",Həyət evi/Bağ evi,49 m²,2.0,0,0,1,0.5 sot,0.0,0.0
+6728,4774687,198000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,3.0,1,1,1,4 sot,0.0,0.0
+6732,5135607,220000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,2 sot,0.0,0.0
+6740,4965575,318000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,5.0,1,1,1,6 sot,0.0,0.0
+6741,5178903,95000,AZN,"['Sabunçu r.', 'Savalan q.']",Həyət evi/Bağ evi,83.7 m²,4.0,1,0,1,2.6 sot,0.0,0.0
+6746,4698775,1200000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,0,1,14 sot,0.0,0.0
+6749,3116680,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,210 m²,0.0,1,0,1,6 sot,0.0,0.0
+6750,5124418,670000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,400 m²,7.0,1,0,1,8 sot,0.0,0.0
+6751,5193626,235000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Həyət evi/Bağ evi,120 m²,6.0,1,1,1,4 sot,0.0,0.0
+6755,3577183,318000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,7 sot,0.0,0.0
+6756,4870518,225000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,6.5 sot,0.0,0.0
+6757,5171325,129000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,2.5 sot,0.0,0.0
+6761,5063329,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,5 sot,0.0,0.0
+6767,4811709,236000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,111 m²,4.0,1,1,1,3 sot,0.0,0.0
+6771,4503551,150,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,100 sot,0.0,0.0
+6772,4789485,255000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+6774,5130441,469000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+6776,4909746,5000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,8 sot,0.0,0.0
+6778,5139756,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,225 m²,4.0,1,1,1,6 sot,0.0,0.0
+6780,5179844,230000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+6784,4711397,295000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Həyət evi/Bağ evi,180 m²,5.0,1,1,1,2.5 sot,0.0,0.0
+6786,4842538,390000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,6 sot,0.0,0.0
+6788,5112791,69000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,90 m²,4.0,1,0,1,1.7 sot,0.0,0.0
+6790,5075710,270000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,5 sot,0.0,0.0
+6791,4732723,660000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,4.0,1,1,1,8 sot,0.0,0.0
+6798,3722008,209000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,100 m²,3.0,1,1,1,6 sot,0.0,0.0
+6800,5072144,550000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,700 m²,9.0,1,0,1,32 sot,0.0,0.0
+6802,4781013,385000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,1,1,6 sot,0.0,0.0
+6803,5193820,725000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,230 m²,4.0,0,0,0,5 sot,0.0,0.0
+6806,4802812,318000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,7 sot,0.0,0.0
+6809,4860227,165000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,130 m²,3.0,1,1,1,2.5 sot,0.0,0.0
+6820,2727392,90,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,240 m²,4.0,0,0,1,10 sot,0.0,0.0
+6824,3562101,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,250 m²,3.0,0,0,1,7 sot,0.0,0.0
+6829,4034294,290000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,7 sot,0.0,0.0
+6834,4078229,295000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+6848,5155255,4000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,8 sot,0.0,0.0
+6851,5005762,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,220 m²,6.0,1,1,1,6.5 sot,0.0,0.0
+6852,5193564,900000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,18 m²,0.0,1,1,0,18 sot,0.0,0.0
+6854,4460442,130,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,140 m²,3.0,0,0,1,10 sot,0.0,0.0
+6866,4061270,7000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,8.0,0,0,1,30 sot,0.0,0.0
+6870,4994775,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,135 m²,4.0,1,1,1,3 sot,0.0,0.0
+6877,5192997,160000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,110 m²,4.0,1,0,1,4.5 sot,0.0,0.0
+6882,4331723,590000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,450 m²,6.0,1,0,1,10 sot,0.0,0.0
+6885,4256710,1700000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,500 m²,6.0,1,0,1,36 sot,0.0,0.0
+6887,4875445,5000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,900 m²,7.0,0,0,1,40 sot,0.0,0.0
+6893,5175710,235000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3 sot,0.0,0.0
+6894,4853248,369000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5.5 sot,0.0,0.0
+6897,5152377,7000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,0,0,1,3 sot,0.0,0.0
+6898,4177104,720000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,1,1,1,12 sot,0.0,0.0
+6899,5130497,225000,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Həyət evi/Bağ evi,410 m²,8.0,0,0,1,8 sot,0.0,0.0
+6901,5192807,177000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,240 m²,7.0,1,0,1,4 sot,0.0,0.0
+6917,4449164,9000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,240 m²,4.0,0,0,1,12 sot,0.0,0.0
+6929,5194348,65000,AZN,[],Həyət evi/Bağ evi,125 m²,5.0,1,0,1,4 sot,0.0,0.0
+6934,5175796,560000,AZN,[],Həyət evi/Bağ evi,354 m²,5.0,1,1,1,12 sot,0.0,0.0
+6940,5083151,340000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+6942,5175636,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,4.0,1,1,1,4 sot,0.0,0.0
+6945,5171842,4500,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,4.0,0,0,1,8 sot,0.0,0.0
+6947,4081123,342000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,300 m²,7.0,1,0,1,2 sot,0.0,0.0
+6953,5189909,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,5 sot,0.0,0.0
+6956,4779284,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,6 sot,0.0,0.0
+6957,5176770,190000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,3 sot,0.0,0.0
+6958,5178656,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,0,0,1,9 sot,0.0,0.0
+6961,5064193,310000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,0,1,5 sot,0.0,0.0
+6965,4073273,1200000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,500 m²,10.0,1,1,1,19 sot,0.0,0.0
+6967,5169843,360000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,7 sot,0.0,0.0
+6968,5191649,200000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,105 m²,4.0,1,1,1,6 sot,0.0,0.0
+6970,4472124,380000,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,270 m²,9.0,1,0,1,12 sot,0.0,0.0
+6974,5194187,40000,AZN,[],Həyət evi/Bağ evi,45 m²,1.0,0,0,1,1 sot,0.0,0.0
+6976,5194147,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,240 m²,6.0,0,0,1,12 sot,0.0,0.0
+6979,4779329,390000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,5 sot,0.0,0.0
+6989,5179265,150,AZN,[],Həyət evi/Bağ evi,150 m²,4.0,0,0,1,6 sot,0.0,0.0
+6992,5167135,145000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,120 m²,4.0,1,0,1,3 sot,0.0,0.0
+6994,4314302,150,AZN,[],Həyət evi/Bağ evi,130 m²,3.0,0,0,1,6 sot,0.0,0.0
+6999,4247677,235000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,400 m²,5.0,1,0,0,2.6 sot,0.0,0.0
+7014,5176811,135000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,4 sot,0.0,0.0
+7031,3671688,395000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Həyət evi/Bağ evi,430 m²,11.0,1,1,1,4 sot,0.0,0.0
+7033,5082814,255000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,4 sot,0.0,0.0
+7043,4415018,495000,AZN,['Binəqədi r.'],Həyət evi/Bağ evi,280 m²,8.0,1,0,1,5 sot,0.0,0.0
+7046,4036647,320000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,0,1,5 sot,0.0,0.0
+7052,5142035,265000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,6 sot,0.0,0.0
+7060,4297039,470000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,4.0,1,1,1,6 sot,0.0,0.0
+7061,4075488,360000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,0,1,5 sot,0.0,0.0
+7063,5192960,270000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,150 m²,5.0,1,1,1,3 sot,0.0,0.0
+7065,5163883,6000,AZN,"['Abşeron r.', 'Görədil q.']",Həyət evi/Bağ evi,200 m²,5.0,0,0,1,15 sot,0.0,0.0
+7068,5037795,280000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4.5 sot,0.0,0.0
+7073,5193368,79000,AZN,"['Xəzər r.', 'Qala q.']",Həyət evi/Bağ evi,200 m²,6.0,1,0,1,3 sot,0.0,0.0
+7081,3667035,250,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,160 m²,5.0,0,0,0,7 sot,0.0,0.0
+7082,2716158,6000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,340 m²,6.0,0,0,1,15 sot,0.0,0.0
+7083,3218823,380000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,0.0,1,1,0,6 sot,0.0,0.0
+7084,5052910,290000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+7087,4748829,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,20 sot,0.0,0.0
+7093,5167436,180000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,305 m²,6.0,1,1,1,6 sot,0.0,0.0
+7095,5063928,430000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,300 m²,8.0,1,0,1,18 sot,0.0,0.0
+7097,5160140,210000,AZN,"['Suraxanı r.', 'Yeni Suraxanı q.']",Həyət evi/Bağ evi,225 m²,7.0,1,1,1,3.5 sot,0.0,0.0
+7103,5170113,300000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,6 sot,0.0,0.0
+7104,4700236,210000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4 sot,0.0,0.0
+7106,5154273,790000,AZN,['Xəzər r.'],Həyət evi/Bağ evi,350 m²,6.0,1,0,1,15 sot,0.0,0.0
+7110,5194006,138000,AZN,"['Xəzər r.', 'Şağan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+7112,4629304,755000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', '7-ci mikrorayon q.']",Həyət evi/Bağ evi,500 m²,10.0,1,1,1,7 sot,0.0,0.0
+7115,4351331,275000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,5.5 sot,0.0,0.0
+7119,5193933,78000,AZN,"['Abşeron r.', 'Məmmədli q.']",Həyət evi/Bağ evi,85 m²,3.0,1,1,1,2 sot,0.0,0.0
+7122,5144974,510000,AZN,"['Səbail r.', 'Badamdar q.']",Həyət evi/Bağ evi,200 m²,5.0,1,0,1,3.3 sot,0.0,0.0
+7129,5167981,990000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,120 m²,0.0,1,0,0,24 sot,0.0,0.0
+7136,5179103,595000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,300 m²,5.0,1,1,1,8 sot,0.0,0.0
+7137,5192784,42000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,100 m²,3.0,0,0,1,200 sot,0.0,0.0
+7144,4788577,4500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,300 m²,6.0,0,0,1,4 sot,0.0,0.0
+7146,5166966,85000,AZN,"['Sabunçu r.', 'Maştağa q.']",Həyət evi/Bağ evi,100 m²,3.0,1,0,1,2.5 sot,0.0,0.0
+7149,4998786,655000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,5.0,1,0,1,7 sot,0.0,0.0
+7151,5139808,44000,AZN,"['Xəzər r.', 'Binə q.']",Həyət evi/Bağ evi,80 m²,3.0,0,0,1,1 sot,0.0,0.0
+7152,5193417,85000,AZN,"['Sabunçu r.', 'Zabrat q.']",Həyət evi/Bağ evi,100 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+7154,5188988,165000,AZN,[],Həyət evi/Bağ evi,240 m²,5.0,1,0,1,3 sot,0.0,0.0
+7156,4735123,365000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,190 m²,4.0,1,0,1,5 sot,0.0,0.0
+7157,4839829,840000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,280 m²,5.0,1,1,1,10 sot,0.0,0.0
+7159,4027210,450000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,4.0,1,0,1,7.5 sot,0.0,0.0
+7161,4810722,690000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,250 m²,5.0,1,0,1,12 sot,0.0,0.0
+7164,5046859,580000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,6.0,1,1,1,3 sot,0.0,0.0
+7165,5179285,255000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+7168,4689826,220000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,165 m²,4.0,1,1,1,3.5 sot,0.0,0.0
+7169,4036248,260000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,4 sot,0.0,0.0
+7171,5100403,2900,AZN,"['Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,240 m²,5.0,0,0,1,8 sot,0.0,0.0
+7172,5186907,420000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,230 m²,7.0,1,1,1,13 sot,0.0,0.0
+7173,4833888,305000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,6 sot,0.0,0.0
+7179,5115706,240000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,140 m²,4.0,1,1,1,2.5 sot,0.0,0.0
+7189,4458740,265000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,6 sot,0.0,0.0
+7190,5155333,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,3.0,0,0,1,5 sot,0.0,0.0
+7193,5123354,1270000,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,580 m²,8.0,1,1,1,13 sot,0.0,0.0
+7195,5065615,98000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,150 m²,4.0,1,1,1,1.5 sot,0.0,0.0
+7201,4866438,320000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,5.0,1,1,1,7 sot,0.0,0.0
+7204,5018370,590000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,265 m²,5.0,1,1,1,6 sot,0.0,0.0
+7215,5144915,289000,AZN,"['Abşeron r.', 'Fatmayı q.']",Həyət evi/Bağ evi,214 m²,5.0,1,1,1,6 sot,0.0,0.0
+7216,5173685,150,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,0,0,1,7 sot,0.0,0.0
+7217,4820823,229000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,150 m²,4.0,1,0,1,3.5 sot,0.0,0.0
+7220,4661353,126000,AZN,[],Həyət evi/Bağ evi,120 m²,4.0,1,1,1,1 sot,0.0,0.0
+7223,4953639,110,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,250 m²,5.0,0,0,1,6 sot,0.0,0.0
+7224,5192798,290000,AZN,"['Abşeron r.', 'Mehdiabad q.']",Həyət evi/Bağ evi,400 m²,9.0,1,0,1,10 sot,0.0,0.0
+7236,5193206,158000,AZN,"['Sabunçu r.', 'Sabunçu q.']",Həyət evi/Bağ evi,130 m²,4.0,0,0,1,3 sot,0.0,0.0
+7237,2589223,15000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,6.0,0,0,1,10 sot,0.0,0.0
+7239,5194303,450000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,1,1,4 sot,0.0,0.0
+7241,4271544,110,AZN,[],Həyət evi/Bağ evi,100 m²,4.0,0,0,0,2000 sot,0.0,0.0
+7246,5029646,17000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,650 m²,6.0,0,0,1,15 sot,0.0,0.0
+7247,5193958,79000,AZN,"['Suraxanı r.', 'Hövsan q.']",Həyət evi/Bağ evi,85 m²,3.0,1,0,1,1.6 sot,0.0,0.0
+7260,4721172,340000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,0,1,4 sot,0.0,0.0
+7267,5184721,215000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,145 m²,4.0,1,1,1,4 sot,0.0,0.0
+7274,4470801,325000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,6 sot,0.0,0.0
+7276,5189984,720000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,260 m²,5.0,1,1,1,8.5 sot,0.0,0.0
+7288,5115485,150,AZN,[],Həyət evi/Bağ evi,300 m²,5.0,0,0,1,8 sot,0.0,0.0
+7290,5018110,395000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,240 m²,5.0,1,1,1,6.5 sot,0.0,0.0
+7291,4061122,5000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,400 m²,5.0,0,0,1,12 sot,0.0,0.0
+7293,5081810,850000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,250 m²,5.0,1,1,1,11 sot,0.0,0.0
+7294,5117466,620000,AZN,"['Abşeron r.', 'Novxanı q.']",Həyət evi/Bağ evi,300 m²,6.0,1,1,1,8 sot,0.0,0.0
+7300,5166729,48000,AZN,[],Həyət evi/Bağ evi,65 m²,3.0,0,0,1,1 sot,0.0,0.0
+7302,4774734,380000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,330 m²,6.0,1,1,1,5 sot,0.0,0.0
+7307,5103636,3000,AZN,"['Sea Breeze', 'Sabunçu r.', 'Nardaran q.']",Həyət evi/Bağ evi,55 m²,1.0,0,0,1,2 sot,0.0,0.0
+7310,4928345,280000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,141 m²,4.0,1,0,1,4 sot,0.0,0.0
+7311,2857118,4500,AZN,"['Xəzər r.', 'Buzovna q.']",Həyət evi/Bağ evi,130 m²,4.0,0,0,1,0.2 sot,0.0,0.0
+7312,5192616,245000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,170 m²,4.0,1,1,1,4 sot,0.0,0.0
+7316,5192617,370000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,180 m²,4.0,1,1,1,4.6 sot,0.0,0.0
+7317,3210084,200,AZN,"['Xəzər r.', 'Şüvəlan q.']",Həyət evi/Bağ evi,350 m²,5.0,0,0,1,30 sot,0.0,0.0
+7322,4035376,480000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,220 m²,5.0,1,0,1,8 sot,0.0,0.0
+7325,5150933,290000,AZN,"['Səbail r.', 'Bayıl q.']",Həyət evi/Bağ evi,210 m²,6.0,0,0,1,4 sot,0.0,0.0
+7336,5023128,1700000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,500 m²,7.0,1,1,1,17 sot,0.0,0.0
+7340,4852312,175000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,120 m²,4.0,1,1,1,2.6 sot,0.0,0.0
+7346,5194168,250000,AZN,[],Həyət evi/Bağ evi,150 m²,6.0,1,1,1,3.5 sot,0.0,0.0
+7348,4707817,107000,AZN,"['Abşeron r.', 'Masazır q.']",Həyət evi/Bağ evi,180 m²,5.0,1,1,1,1.5 sot,0.0,0.0
+7353,4533346,320000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Həyət evi/Bağ evi,200 m²,4.0,1,0,1,5 sot,0.0,0.0
+7358,5057528,5000,AZN,"['Sabunçu r.', 'Bilgəh q.']",Həyət evi/Bağ evi,600 m²,6.0,0,0,1,30 sot,0.0,0.0
