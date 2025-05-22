@@ -10,4 +10,4 @@ HEYET_CSV_FILE = 'data/heyet_evi_data.csv',
 KOHNE_TIKILI_CSV_FILE = 'data/kohne_tikili_data.csv',
 OBYEKT_CSV_FILE = 'data/obyekt_data.csv',
 OFIS_CSV_FILE = 'data/ofis_data.csv',
-QARAJ_CSV_FILE = 'data/qaraj_data.csv' 
+QARAJ_CSV_FILE = 'data/qaraj_data.csv'
