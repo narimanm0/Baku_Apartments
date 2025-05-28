@@ -1,9 +1,8 @@
 Unnamed: 0,Item_id,Amount,Currency,Location,Category,Area,Number_of_rooms,Frontage,Mortgage,Condition,Land_area,Current_floor,Total_floors
-1555,4710225,34000,AZN,"['Yasamal r.', 'Yasamal q.']",Qaraj,20 m²,0.0,1,0,0,0,0.0,0.0
-3339,4935122,25000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Qaraj,35 m²,0.0,1,0,0,0,0.0,0.0
-4389,4365156,550,AZN,"['Binəqədi r.', '8-ci mikrorayon q.']",Qaraj,18 m²,0.0,0,0,0,0,0.0,0.0
-4837,5194384,100,AZN,"['Dərnəgül m.', 'Binəqədi r.']",Qaraj,12 m²,0.0,0,0,0,0,0.0,0.0
-5162,4677137,40000,AZN,"['ASAN Xidmət №2', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Qaraj,10.3 m²,0.0,1,0,0,0,0.0,0.0
-6468,5161717,37000,AZN,"['ASAN Xidmət №3', 'Bakı Dövlət Universiteti', 'Elmlər Akademiyası m.', 'Yasamal r.']",Qaraj,45.5 m²,0.0,0,0,0,0,0.0,0.0
-7183,5083758,250,AZN,"['Port Baku', 'Crescent Bay', '28 May m.', 'Səbail r.']",Qaraj,30 m²,0.0,0,0,0,0,0.0,0.0
-7277,4348878,58000,AZN,"['Binəqədi r.', '8-ci mikrorayon q.']",Qaraj,18 m²,0.0,1,0,0,0,0.0,0.0
+1510,5169089,29000,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Qaraj,14 m²,0.0,1,1,0,0,0.0,0.0
+3641,5104025,26000,AZN,"['Ayna Sultanova heykəli', 'Binəqədi r.', '8-ci mikrorayon q.']",Qaraj,18 m²,0.0,0,0,0,0,0.0,0.0
+6655,5234610,400,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Qaraj,30 m²,0.0,0,0,0,0,0.0,0.0
+7045,4689167,42000,AZN,"['Bakı Asiya Universiteti', '8 Noyabr m.', '20 Yanvar m.', 'Nəsimi r.']",Qaraj,32 m²,0.0,0,0,0,0,0.0,0.0
+7055,4822431,25500,AZN,"['8 Noyabr m.', 'Yasamal r.']",Qaraj,11 m²,0.0,1,0,0,0,0.0,0.0
+7928,5236171,130,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Qaraj,17 m²,0.0,0,0,0,0,0.0,0.0
+9159,5233217,25000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Qaraj,14 m²,0.0,1,0,0,0,0.0,0.0

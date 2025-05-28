@@ -1,398 +1,533 @@
 Unnamed: 0,Item_id,Amount,Currency,Location,Category,Area,Number_of_rooms,Frontage,Mortgage,Condition,Land_area,Current_floor,Total_floors
-28,5163010,230000,AZN,"['Neftçilər m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,36 m²,0.0,1,1,1,0,0.0,0.0
-43,5180594,495000,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,380 m²,0.0,1,0,1,0,0.0,0.0
-51,5192827,4000,AZN,"['Nəriman Nərimanov m.', 'Nəriman Nərimanov parkı', 'Nərimanov r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-112,4982779,4800000,AZN,"['Səbail r.', '20-ci sahə q.']",Obyekt,1775 m²,0.0,1,0,1,0,0.0,0.0
-174,5094049,3000,AZN,[],Obyekt,450 m²,0.0,0,0,1,0,0.0,0.0
-183,5187352,372000,AZN,"['28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', 'Səməd Vurğun parkı', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Obyekt,93 m²,0.0,0,0,0,0,0.0,0.0
-194,4743303,349000,AZN,"['Suraxanı r.', 'Bülbülə q.']",Obyekt,220 m²,0.0,1,0,1,0,0.0,0.0
-234,5193974,1000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,45 m²,0.0,0,0,1,0,0.0,0.0
-295,5168424,850,AZN,"['Grand Hayat Residence', '8 Noyabr m.', 'Nərimanov r.']",Obyekt,30 m²,0.0,0,0,1,0,0.0,0.0
-310,4584254,2500,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,630 m²,0.0,0,0,1,0,0.0,0.0
-370,5133381,900000,AZN,"['Prezident parkı', 'Dövlət İdarəçilik Akademiyası', 'Filarmoniya bağı', 'İçəri Şəhər m.', 'Şəlalə parkı', 'Axundov bağı', 'İqtisad Universiteti', 'Səbail r.']",Obyekt,213 m²,0.0,1,0,1,0,0.0,0.0
-375,5160620,8000,AZN,"['Sahil m.', 'Sahil bağı', 'Xaqani bağı', 'Xalça Muzeyi', 'Pedaqoji Universiteti', 'Nizami kinoteatrı', 'Səbail r.']",Obyekt,130 m²,0.0,0,0,1,0,0.0,0.0
-378,5096153,420000,AZN,"['Sirk', 'Azərbaycan Dillər Universiteti', 'Bakı Slavyan Universiteti', 'Qış parkı', '28 May m.', 'Nizami m.', 'Nəsimi r.']",Obyekt,150 m²,0.0,1,0,1,0,0.0,0.0
-392,5192906,2300,AZN,"['Nəriman Nərimanov parkı', 'Nəriman Nərimanov m.', 'Rəssamlıq Akademiyası', 'Nərimanov r.']",Obyekt,180 m²,0.0,0,0,1,0,0.0,0.0
-398,5182302,2900000,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,540 m²,0.0,1,0,1,0,0.0,0.0
-415,4877377,1650000,AZN,"['Abşeron r.', 'Novxanı q.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
-422,4596462,5000000,AZN,[],Obyekt,5000 m²,0.0,1,0,1,0,0.0,0.0
-426,5193171,250000,AZN,"['Avtovağzal m.', 'Binəqədi r.', 'Biləcəri q.']",Obyekt,210 m²,0.0,0,0,1,0,0.0,0.0
-463,5148259,900,AZN,"['Şərq bazarı', 'Nərimanov r.']",Obyekt,350 m²,0.0,0,0,1,0,0.0,0.0
-487,5129101,850000,AZN,"['Elmlər Akademiyası m.', 'Hüseyn Cavid parkı', 'Bakı Dövlət Universiteti', 'Texniki Universiteti', 'Yasamal r.']",Obyekt,127 m²,0.0,1,0,1,0,0.0,0.0
-518,4940451,3200,AZN,['Yasamal r.'],Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
-532,5172999,3500,AZN,"['İçəri Şəhər m.', 'Filarmoniya bağı', 'Dövlət İdarəçilik Akademiyası', 'Prezident parkı', 'İqtisad Universiteti', 'Axundov bağı', 'İçəri Şəhər', 'M.Ə.Sabir parkı', 'Şəlalə parkı', 'Azneft meydanı', 'Səbail r.']",Obyekt,200 m²,0.0,0,0,0,0,0.0,0.0
-603,5125339,1550,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,74 m²,0.0,0,0,1,0,0.0,0.0
-611,5170336,500000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
-614,5190388,9000,AZN,"['Abşeron r.', 'Novxanı q.']",Obyekt,1822 m²,0.0,0,0,0,0,0.0,0.0
-628,5191230,55000,AZN,"['Yasamal r.', 'Yasamal q.']",Obyekt,700 m²,0.0,1,0,1,0,0.0,0.0
-645,5164285,10000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Obyekt,1000 m²,0.0,0,0,0,0,0.0,0.0
-671,4553001,340200,AZN,"['Həzi Aslanov m.', 'Ukrayna dairəsi', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,113.4 m²,0.0,1,0,1,0,0.0,0.0
-695,5167081,250000,AZN,"['Tibb Universiteti', 'Nəsimi bazarı', 'ASAN Xidmət №1', 'Park Zorge', 'Nəsimi r.']",Obyekt,55 m²,0.0,1,1,1,0,0.0,0.0
-711,5188477,792500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,317 m²,0.0,1,0,0,0,0.0,0.0
-782,5143822,45000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,30 m²,0.0,1,0,0,0,0.0,0.0
-793,5194299,400,AZN,"['Zərifə Əliyeva adına park', 'Memar Əcəmi m.', 'Nəsimi m.', 'Binəqədi r.', '6-cı mikrorayon q.']",Obyekt,15 m²,0.0,0,0,1,0,0.0,0.0
-845,5065991,265000,AZN,"['Dostluq kinoteatrı', 'Bakı Slavyan Universiteti', 'Zoopark', 'Azərbaycan Dillər Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,53 m²,0.0,1,0,1,0,0.0,0.0
-858,5194232,450,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Obyekt,35 m²,0.0,0,0,1,0,0.0,0.0
-861,5193360,160000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.']",Obyekt,30 m²,0.0,1,0,1,0,0.0,0.0
-873,3927879,85000,AZN,"['Səbail r.', 'Bayıl q.']",Obyekt,30.6 m²,0.0,1,0,1,0,0.0,0.0
-878,5094002,800,AZN,"['Nəriman Nərimanov parkı', 'Rəssamlıq Akademiyası', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
-883,4840140,2174150,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,395.3 m²,0.0,0,0,0,0,0.0,0.0
-902,5051650,1400000,AZN,"['Beşmərtəbə', 'Nizami m.', 'Qış parkı', 'Nəsimi r.', 'Kubinka q.']",Obyekt,440 m²,0.0,1,0,1,0,0.0,0.0
-905,5193681,1600,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
-907,5192907,1359000,AZN,"['Dövlət İdarəçilik Akademiyası', 'Prezident parkı', 'Axundov bağı', 'Filarmoniya bağı', 'İçəri Şəhər m.', 'İqtisad Universiteti', 'Şəlalə parkı', 'Nərimanov heykəli', 'Səbail r.']",Obyekt,151 m²,0.0,1,1,1,0,0.0,0.0
-913,4582565,330000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,180 m²,0.0,1,1,0,0,0.0,0.0
-926,5027770,330000,AZN,['Səbail r.'],Obyekt,150 m²,0.0,1,0,1,0,0.0,0.0
-941,5193838,168000,AZN,"['Mərkəzi Univermaq', 'Beşmərtəbə', 'Nizami m.', 'İçəri Şəhər m.', 'Sahil m.', 'Nəsimi r.']",Obyekt,12 m²,0.0,1,0,1,0,0.0,0.0
-965,5107069,1200,AZN,"['Xalqlar Dostluğu m.', 'Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,52 m²,0.0,0,0,1,0,0.0,0.0
-997,4937269,235000,AZN,"['Həzi Aslanov m.', 'Xətai r.']",Obyekt,110 m²,0.0,1,1,1,0,0.0,0.0
-1018,5193045,6000,AZN,"['Sirk', 'Qış parkı', 'Azərbaycan Dillər Universiteti', 'Zabitlər parkı', '28 May m.', 'Nizami m.', 'Nəsimi r.']",Obyekt,150 m²,0.0,0,0,1,0,0.0,0.0
-1027,5179730,820000,AZN,"['Tibb Universiteti', 'Nəsimi bazarı', 'Park Zorge', 'ASAN Xidmət №1', 'Nəsimi r.']",Obyekt,274 m²,0.0,1,0,1,0,0.0,0.0
-1066,5147940,3000,AZN,"['Gənclik m.', 'Nərimanov r.']",Obyekt,260 m²,0.0,0,0,1,0,0.0,0.0
-1081,5140280,5500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,320 m²,0.0,0,0,1,0,0.0,0.0
-1107,4268737,440000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,201 m²,0.0,1,1,1,0,0.0,0.0
-1165,4145121,1360000,AZN,"['Sahil bağı', 'Xaqani bağı', 'Sahil m.', 'Pedaqoji Universiteti', 'Nizami kinoteatrı', 'Xalça Muzeyi', '28 May m.', 'Səbail r.']",Obyekt,170 m²,0.0,1,0,1,0,0.0,0.0
-1205,5114474,350000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,320 m²,0.0,1,0,1,0,0.0,0.0
-1217,5192927,189000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,81 m²,0.0,1,1,1,0,0.0,0.0
-1229,4487350,2100,AZN,"['Nizami m.', 'Beşmərtəbə', 'Nəsimi r.']",Obyekt,120 m²,0.0,0,0,1,0,0.0,0.0
-1230,5174316,410,AZN,"['Abşeron r.', 'Saray q.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
-1247,5175094,1500,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,150 m²,0.0,0,0,1,0,0.0,0.0
-1254,3675237,1800000,AZN,"['Gənclik m.', 'Nərimanov r.']",Obyekt,280 m²,0.0,1,0,1,0,0.0,0.0
-1270,5193142,700000,AZN,"['Şərq bazarı', 'Nərimanov r.']",Obyekt,270 m²,0.0,1,0,1,0,0.0,0.0
-1346,4416608,1800,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,125 m²,0.0,0,0,1,0,0.0,0.0
-1367,4154092,695000,AZN,"['Dövlət Statistika Komitəsi', 'M.Hüseynzadə parkı', 'İzmir parkı', 'Nizami m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,149 m²,0.0,1,0,1,0,0.0,0.0
-1379,5114858,280000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,140 m²,0.0,1,1,1,0,0.0,0.0
-1390,4956794,8500,AZN,"['Azadlıq meydanı', 'Səməd Vurğun parkı', 'Pedaqoji Universiteti', '28 May m.', 'Sahil m.', 'Səbail r.']",Obyekt,200 m²,0.0,0,0,0,0,0.0,0.0
-1457,5084725,1500,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,180 m²,0.0,0,0,1,0,0.0,0.0
-1473,5108745,750000,AZN,[],Obyekt,800000 m²,0.0,1,1,0,0,0.0,0.0
-1476,5161982,7500,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,290 m²,0.0,0,0,1,0,0.0,0.0
-1481,5112959,800000,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,120 m²,0.0,1,1,1,0,0.0,0.0
-1514,5189819,9000,AZN,"['Sahil m.', 'Xaqani bağı', 'Sahil bağı', 'Xalça Muzeyi', 'Nizami kinoteatrı', 'Pedaqoji Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,125 m²,0.0,0,0,1,0,0.0,0.0
-1529,5193755,230000,AZN,"['20 Yanvar m.', 'Memar Əcəmi m.', 'Nəsimi r.', '1-ci mikrorayon q.']",Obyekt,48 m²,0.0,1,1,1,0,0.0,0.0
-1542,5053802,1700,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,600 m²,0.0,0,0,1,0,0.0,0.0
-1568,5138821,270000,AZN,"['Xəzər r.', 'Türkan q.']",Obyekt,1600 m²,0.0,1,1,0,0,0.0,0.0
-1595,5192722,640000,AZN,"['Sabunçu r.', 'Balaxanı q.']",Obyekt,710 m²,0.0,1,0,1,0,0.0,0.0
-1597,5111903,650000,AZN,"['Sahil m.', 'Xaqani bağı', 'Sahil bağı', 'Xalça Muzeyi', 'Nizami kinoteatrı', 'Pedaqoji Universiteti', '28 May m.', 'Səbail r.']",Obyekt,120 m²,0.0,1,1,1,0,0.0,0.0
-1614,5122445,1590000,AZN,"['Hüseyn Cavid parkı', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,230 m²,0.0,1,0,1,0,0.0,0.0
-1631,5116267,1800000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,450 m²,0.0,1,1,1,0,0.0,0.0
-1644,4965080,1400000,AZN,"['İzmir parkı', 'M.Hüseynzadə parkı', 'Dövlət Statistika Komitəsi', 'Nizami m.', 'Yasamal r.']",Obyekt,800 m²,0.0,1,0,1,0,0.0,0.0
-1650,5193949,2500,AZN,"['Suraxanı r.', 'Yeni Günəşli q.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
-1681,5111583,550000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,186 m²,0.0,1,1,0,0,0.0,0.0
-1702,5187816,700,AZN,"['İncəsənət və Mədəniyyət Un.', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,25 m²,0.0,0,0,1,0,0.0,0.0
-1753,4159956,355000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
-1761,3821454,980000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,1242 m²,0.0,1,0,0,0,0.0,0.0
-1762,5045407,500,AZN,"['Xətai r.', 'NZS q.']",Obyekt,65 m²,0.0,0,0,1,0,0.0,0.0
-1775,4351437,1000000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,90 m²,0.0,1,0,1,0,0.0,0.0
-1778,5168116,590000,AZN,"['Nəsimi bazarı', 'ASAN Xidmət №1', 'Tibb Universiteti', 'Nəsimi r.']",Obyekt,80 m²,0.0,1,0,1,0,0.0,0.0
-1791,5040707,8600000,AZN,['Nərimanov r.'],Obyekt,3200 m²,0.0,1,0,1,0,0.0,0.0
-1793,5139465,695000,AZN,"['İqtisad Universiteti', 'M.Ə.Sabir parkı', 'Axundov bağı', 'İçəri Şəhər m.', 'Dövlət İdarəçilik Akademiyası', 'Filarmoniya bağı', 'Mərkəzi Univermaq', 'Azərbaycan kinoteatrı', 'İçəri Şəhər', 'Prezident parkı', 'Səbail r.']",Obyekt,97 m²,0.0,1,0,1,0,0.0,0.0
-1825,5010623,1025000,AZN,"['Sahil m.', 'Nizami kinoteatrı', 'Xalça Muzeyi', 'Xaqani bağı', 'Fəvvarələr meydanı', 'Sahil bağı', 'Səbail r.']",Obyekt,188 m²,0.0,1,0,1,0,0.0,0.0
-1842,5149042,167000,AZN,"['Mərkəzi Park', 'İncəsənət və Mədəniyyət Un.', 'Nizami m.', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-1922,5164258,200,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
-1933,5190098,140000,AZN,[],Obyekt,170 m²,0.0,1,0,1,0,0.0,0.0
-1964,4823961,400000,AZN,[],Obyekt,546.8 m²,0.0,1,0,1,0,0.0,0.0
-1971,5177191,1200000,AZN,"['Sabunçu r.', 'Maştağa q.']",Obyekt,540 m²,0.0,1,0,1,0,0.0,0.0
-1975,4198946,67000,AZN,"['Zərifə Əliyeva adına park', 'Memar Əcəmi m.', 'Nəsimi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,25 m²,0.0,1,0,1,0,0.0,0.0
-1977,5180015,375000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,140 m²,0.0,1,0,1,0,0.0,0.0
-2008,4947638,8000,AZN,"['Pedaqoji Universiteti', 'Azadlıq meydanı', 'Səməd Vurğun parkı', 'Sahil bağı', '28 May m.', 'Sahil m.', 'Səbail r.']",Obyekt,240 m²,0.0,0,0,1,0,0.0,0.0
-2009,5193060,81000,AZN,"['Texniki Universiteti', 'Hüseyn Cavid parkı', 'Space TV', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,32 m²,0.0,1,0,1,0,0.0,0.0
-2010,5194089,4000,AZN,"['Azərbaycan turizm institutu', 'Respublika stadionu', 'Gənclik m.', 'Nərimanov r.']",Obyekt,280 m²,0.0,0,0,1,0,0.0,0.0
-2029,4670754,1100000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,1200 m²,0.0,1,1,1,0,0.0,0.0
-2062,5152345,1500,AZN,"['İncəsənət və Mədəniyyət Un.', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,62 m²,0.0,0,0,1,0,0.0,0.0
-2072,5175656,1400,AZN,"['Şərq bazarı', 'Nərimanov r.']",Obyekt,350 m²,0.0,0,0,1,0,0.0,0.0
-2077,5190521,1250000,AZN,"['Pedaqoji Universiteti', 'Sahil bağı', 'Xaqani bağı', 'Sahil m.', 'Azadlıq meydanı', '28 May m.', 'Səbail r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-2089,5071380,85000,AZN,"['Heydər Əliyev adına İdman Kompleksi', 'Yasamal r.']",Obyekt,25 m²,0.0,1,0,1,0,0.0,0.0
-2098,5193419,850,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,90 m²,0.0,0,0,1,0,0.0,0.0
-2110,4231200,350000,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,63 m²,0.0,1,0,1,0,0.0,0.0
-2114,5133056,500000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,100 m²,0.0,1,1,1,0,0.0,0.0
-2146,5129361,799000,AZN,"['Memar Əcəmi m.', 'Yasamal r.']",Obyekt,441 m²,0.0,1,0,1,0,0.0,0.0
-2172,5164442,1990000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Obyekt,1000 m²,0.0,1,0,0,0,0.0,0.0
-2187,5193029,25000,AZN,"['Əhmədli m.', 'Xətai r.']",Obyekt,2200 m²,0.0,0,0,1,0,0.0,0.0
-2202,5193339,128000,AZN,"['Elmlər Akademiyası m.', 'Bakı Dövlət Universiteti', 'Yasamal r.', 'Yasamal q.']",Obyekt,35 m²,0.0,1,0,1,0,0.0,0.0
-2214,5163922,950,AZN,"['8 Noyabr m.', 'Memar Əcəmi m.', 'Nəsimi r.', '3-cü mikrorayon q.']",Obyekt,162 m²,0.0,0,0,1,0,0.0,0.0
-2226,4822793,980000,AZN,['Xətai r.'],Obyekt,370 m²,0.0,0,0,1,0,0.0,0.0
-2305,5194361,816000,AZN,"['Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,204 m²,0.0,1,1,1,0,0.0,0.0
-2341,5184548,1300,AZN,"['Zərifə Əliyeva adına park', 'Nəsimi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,75 m²,0.0,0,0,1,0,0.0,0.0
-2377,5178518,5300,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,140 m²,0.0,0,0,1,0,0.0,0.0
-2404,4921899,429800,AZN,[],Obyekt,1020 m²,0.0,0,0,0,0,0.0,0.0
-2470,5010280,750000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,500 m²,0.0,1,0,1,0,0.0,0.0
-2529,5186169,9000,AZN,"['Xaqani bağı', 'Sahil m.', 'Sahil bağı', 'Nizami kinoteatrı', 'Pedaqoji Universiteti', 'Milli Konservatoriya', 'Xalça Muzeyi', '28 May m.', 'Nəsimi r.']",Obyekt,125 m²,0.0,0,0,1,0,0.0,0.0
-2536,5029664,650000,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,150 m²,0.0,0,0,1,0,0.0,0.0
-2553,5115160,495000,AZN,"['Neftçi bazası', 'Nəsimi r.']",Obyekt,270 m²,0.0,1,0,1,0,0.0,0.0
-2554,5157835,7000000,AZN,['Abşeron r.'],Obyekt,96000 m²,0.0,0,0,1,0,0.0,0.0
-2566,5193746,395000,AZN,"['Zərifə Əliyeva adına park', 'Nəsimi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,100 m²,0.0,1,1,1,0,0.0,0.0
-2577,4968135,450000,AZN,"['Axundov bağı', 'İqtisad Universiteti', 'Dövlət İdarəçilik Akademiyası', 'İçəri Şəhər m.', 'Filarmoniya bağı', 'Prezident parkı', 'M.Ə.Sabir parkı', 'Nərimanov heykəli', 'Sovetski', 'Səbail r.']",Obyekt,120 m²,0.0,1,0,1,0,0.0,0.0
-2579,5191660,520000,AZN,['Yasamal r.'],Obyekt,600 m²,0.0,1,0,1,0,0.0,0.0
-2591,5135734,2900,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,90 m²,0.0,0,0,1,0,0.0,0.0
-2603,5148468,8000,AZN,"['Neftçilər m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
-2627,5192873,3500,AZN,"['Şərq bazarı', '28 May m.', 'Nəsimi r.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
-2634,5084718,550000,AZN,"['Tibb Universiteti', 'ASAN Xidmət №1', '8 Noyabr m.', 'Nəsimi r.']",Obyekt,160 m²,0.0,1,0,1,0,0.0,0.0
-2649,5194051,1350,AZN,"['Əhmədli m.', 'Xətai r.']",Obyekt,22 m²,0.0,0,0,1,0,0.0,0.0
-2655,5194105,1000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
-2674,5161352,6500,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,336 m²,0.0,0,0,1,0,0.0,0.0
-2702,5148765,1220000,AZN,"['Memarlıq və İnşaat Universiteti', 'Texniki Universiteti', 'Bakı Dövlət Universiteti', 'Hüseyn Cavid parkı', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,98.5 m²,0.0,1,0,1,0,0.0,0.0
-2718,5193489,235000,AZN,"['Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,75 m²,0.0,1,1,1,0,0.0,0.0
-2721,5192937,2000,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,55.2 m²,0.0,0,0,1,0,0.0,0.0
-2736,5189152,3000,AZN,"['Nəriman Nərimanov m.', 'Gənclik m.', 'Nərimanov r.']",Obyekt,178 m²,0.0,0,0,1,0,0.0,0.0
-2740,4979611,45920,AZN,"['Ulduz m.', 'Nərimanov r.', 'Böyükşor q.']",Obyekt,5740 m²,0.0,0,0,1,0,0.0,0.0
-2753,5171560,3000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-2773,5174454,500000,AZN,"['Texniki Universiteti', 'Hüseyn Cavid parkı', 'Elmlər Akademiyası m.', 'Memarlıq və İnşaat Universiteti', 'Yasamal r.', 'Yasamal q.']",Obyekt,90 m²,0.0,1,0,1,0,0.0,0.0
-2782,5194019,2500,AZN,['Nizami r.'],Obyekt,450 m²,0.0,0,0,1,0,0.0,0.0
-2786,4836094,898220,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,92.6 m²,0.0,0,0,0,0,0.0,0.0
-2792,5068806,649000,AZN,['Xəzər r.'],Obyekt,1550 m²,0.0,1,1,1,0,0.0,0.0
-2811,5159393,1800,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
-2827,5159579,2500,AZN,"['Park Zorge', 'Nəsimi bazarı', 'Tibb Universiteti', 'Rusiya səfirliyi', 'Nəsimi r.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
-2828,5188133,2800000,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,269 m²,0.0,0,0,1,0,0.0,0.0
-2839,4721217,299000,AZN,"['Əhmədli m.', 'Xətai r.']",Obyekt,115 m²,0.0,1,0,1,0,0.0,0.0
-2843,5145959,2600,AZN,"['Zoopark', 'Dostluq kinoteatrı', 'Bakı Slavyan Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
-2884,5189796,275000,AZN,['Nizami r.'],Obyekt,80 m²,0.0,1,0,1,0,0.0,0.0
-2911,5058202,1200,AZN,"['Səməd Vurğun parkı', 'Azadlıq meydanı', 'Sahil m.', 'Səbail r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-2923,5081842,11000,AZN,"['Şərq bazarı', '28 May m.', 'Nərimanov r.']",Obyekt,750 m²,0.0,0,0,0,0,0.0,0.0
-2926,5148775,550000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,67 m²,0.0,1,0,1,0,0.0,0.0
-2943,5111337,270000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,53 m²,0.0,1,0,1,0,0.0,0.0
-2954,5159104,1550000,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,660 m²,0.0,1,1,1,0,0.0,0.0
-2969,5187479,9000,AZN,"['Xaqani bağı', 'Sahil m.', 'Sahil bağı', 'Nizami kinoteatrı', 'Pedaqoji Universiteti', 'Milli Konservatoriya', 'Xalça Muzeyi', '28 May m.', 'Nəsimi r.']",Obyekt,125 m²,0.0,0,0,1,0,0.0,0.0
-3030,5024439,550000,AZN,[],Obyekt,1400 m²,0.0,1,1,1,0,0.0,0.0
-3042,5111075,590000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,200 m²,0.0,1,1,1,0,0.0,0.0
-3043,5094509,6000,AZN,"['Nizami kinoteatrı', 'Sahil m.', 'Xaqani bağı', 'Sahil bağı', 'Milli Konservatoriya', 'Xalça Muzeyi', 'Fəvvarələr meydanı', '28 May m.', 'Səbail r.']",Obyekt,87 m²,0.0,0,0,1,0,0.0,0.0
-3089,5193211,3000,AZN,"['Azərbaycan turizm institutu', 'Gənclik m.', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,178 m²,0.0,0,0,1,0,0.0,0.0
-3094,5157733,440000,AZN,['Suraxanı r.'],Obyekt,400 m²,0.0,1,0,1,0,0.0,0.0
-3132,5172253,650,AZN,['Xətai r.'],Obyekt,70 m²,0.0,0,0,0,0,0.0,0.0
-3141,2872143,400,AZN,"['Suraxanı r.', 'Əmircan q.']",Obyekt,6000 m²,0.0,0,0,0,0,0.0,0.0
-3146,5162825,670000,AZN,"['Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,210 m²,0.0,1,0,1,0,0.0,0.0
-3149,5140550,900000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', '8-ci mikrorayon q.']",Obyekt,250 m²,0.0,0,0,0,0,0.0,0.0
-3169,5186659,4500,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,280 m²,0.0,0,0,1,0,0.0,0.0
-3231,5114185,250000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,60 m²,0.0,1,1,1,0,0.0,0.0
-3264,4992849,700000,AZN,['Nəsimi r.'],Obyekt,800 m²,0.0,1,0,1,0,0.0,0.0
-3267,5193128,7000,AZN,"['Nəriman Nərimanov parkı', 'Rəssamlıq Akademiyası', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,180 m²,0.0,0,0,0,0,0.0,0.0
-3288,4882805,1200000,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,350 m²,0.0,1,0,1,0,0.0,0.0
-3347,5113461,10000,AZN,"['Nəsimi bazarı', 'Koala parkı', 'Park Zorge', 'Dostluq kinoteatrı', 'Nəsimi r.']",Obyekt,700 m²,0.0,0,0,1,0,0.0,0.0
-3348,5041632,3000,AZN,"['Port Baku', 'Azadlıq meydanı', 'Crescent Bay', 'Səməd Vurğun parkı', '28 May m.', 'Səbail r.']",Obyekt,35 m²,0.0,0,0,1,0,0.0,0.0
-3357,4956800,150000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,25 m²,0.0,1,0,1,0,0.0,0.0
-3374,5169465,7000,AZN,"['28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Slavyan Universiteti', 'Bakı Musiqi Akademiyası', 'Nəsimi r.']",Obyekt,67 m²,0.0,0,0,1,0,0.0,0.0
-3417,5194322,90000,AZN,"['Nəriman Nərimanov parkı', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,25 m²,0.0,1,0,1,0,0.0,0.0
-3427,5138477,108000,AZN,"['Xəzər r.', 'Buzovna q.']",Obyekt,18 m²,0.0,1,0,1,0,0.0,0.0
-3463,5182631,400,AZN,"['Nəriman Nərimanov m.', 'Bakmil m.', 'Nərimanov r.']",Obyekt,12 m²,0.0,0,0,1,0,0.0,0.0
-3504,5164764,299000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,120 m²,0.0,1,0,1,0,0.0,0.0
-3549,4270574,900000,AZN,"['20 Yanvar m.', 'Nəsimi r.', '1-ci mikrorayon q.']",Obyekt,82 m²,0.0,1,1,1,0,0.0,0.0
-3592,5182233,2000000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,787 m²,0.0,1,0,1,0,0.0,0.0
-3598,5021769,99999,AZN,"['Neftçilər m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
-3651,5109440,80000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Obyekt,30000 m²,0.0,0,0,1,0,0.0,0.0
-3654,5088998,600,AZN,"['Dərnəgül m.', 'Binəqədi r.', '8-ci mikrorayon q.']",Obyekt,50 m²,0.0,0,0,0,0,0.0,0.0
-3655,5194138,122000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
-3667,5188186,640000,AZN,"['Gənclik m.', 'Nərimanov r.']",Obyekt,125 m²,0.0,1,1,1,0,0.0,0.0
-3684,5181613,500,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,40 m²,0.0,0,0,1,0,0.0,0.0
-3686,4946655,70000,AZN,"['Qaradağ r.', 'Lökbatan q.']",Obyekt,40 m²,0.0,1,0,1,0,0.0,0.0
-3691,4644125,850000,AZN,"['Zərifə Əliyeva adına park', 'Memar Əcəmi m.', 'Nəsimi m.', 'Binəqədi r.', '6-cı mikrorayon q.']",Obyekt,400 m²,0.0,1,0,1,0,0.0,0.0
-3697,5155303,99500,AZN,"['Dağüstü parkı', 'Şəhidlər xiyabanı', 'İçəri Şəhər m.', 'Səbail r.', 'Bayıl q.']",Obyekt,40 m²,0.0,1,0,1,0,0.0,0.0
-3726,4846550,25000,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,2000 m²,0.0,0,0,1,0,0.0,0.0
-3727,4992148,1500,AZN,"['Abşeron r.', 'Masazır q.']",Obyekt,168 m²,0.0,0,0,0,0,0.0,0.0
-3733,5133930,180000,AZN,"['Dövlət Statistika Komitəsi', 'M.Hüseynzadə parkı', 'Mərkəzi Park', 'Nizami m.', 'Yasamal r.']",Obyekt,75.6 m²,0.0,1,0,0,0,0.0,0.0
-3738,5171245,3800,AZN,"['Qara Qarayev m.', 'Neftçilər m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,302 m²,0.0,0,0,1,0,0.0,0.0
-3768,5193921,265000,AZN,"['Ukrayna dairəsi', 'Həzi Aslanov m.', 'Əhmədli m.', 'Xətai r.']",Obyekt,55 m²,0.0,1,0,1,0,0.0,0.0
-3780,4931018,24000,AZN,['Xətai r.'],Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
-3838,4952482,125000,AZN,"['Qaradağ r.', 'Lökbatan q.']",Obyekt,50 m²,0.0,0,0,0,0,0.0,0.0
-3851,5127162,285000,AZN,"['İnşaatçılar m.', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,190 m²,0.0,1,0,1,0,0.0,0.0
-3868,5093862,1300,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,65 m²,0.0,0,0,1,0,0.0,0.0
-3874,3064121,3000,AZN,"['Bakı Dövlət Universiteti', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,6 m²,0.0,0,0,1,0,0.0,0.0
-3876,5121637,180000,AZN,"['Azadlıq Prospekti m.', 'Nəsimi m.', 'Binəqədi r.']",Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
-3885,5164696,299000,AZN,['Xətai r.'],Obyekt,40 m²,0.0,1,0,1,0,0.0,0.0
-3888,4470763,990,AZN,"['Axundov bağı', 'İqtisad Universiteti', 'Dövlət İdarəçilik Akademiyası', 'Sovetski', 'İçəri Şəhər m.', 'Nərimanov heykəli', 'Prezident parkı', 'M.Ə.Sabir parkı', 'Filarmoniya bağı', 'Səbail r.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
-3903,5184362,720000,AZN,"['Azərbaycan Dillər Universiteti', 'Sirk', 'Bakı Slavyan Universiteti', 'Zabitlər parkı', '28 May m.', 'Nəsimi r.']",Obyekt,300 m²,0.0,1,1,1,0,0.0,0.0
-3927,5121623,6000,AZN,"['Azadlıq Prospekti m.', 'Nəsimi m.', 'Binəqədi r.']",Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
-3936,5165625,6000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,445 m²,0.0,0,0,1,0,0.0,0.0
-3943,5160654,1500,AZN,"['Neftçilər m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,3000 m²,0.0,0,0,1,0,0.0,0.0
-3953,4783332,400000,AZN,"['Nizami m.', 'Nəsimi r.', 'Kubinka q.']",Obyekt,125 m²,0.0,1,0,1,0,0.0,0.0
-3961,5054947,5000,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Obyekt,150 m²,0.0,0,0,1,0,0.0,0.0
-3974,5155641,135000,AZN,"['İçəri Şəhər m.', 'Filarmoniya bağı', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Prezident parkı', 'Axundov bağı', 'İçəri Şəhər', 'M.Ə.Sabir parkı', 'Azneft meydanı', 'Şəlalə parkı', 'Səbail r.']",Obyekt,40 m²,0.0,1,1,1,0,0.0,0.0
-3988,3769277,9800,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,1198 m²,0.0,0,0,1,0,0.0,0.0
-4025,4915054,15000,AZN,['Nizami r.'],Obyekt,750 m²,0.0,0,0,1,0,0.0,0.0
-4057,4805969,1950000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,517 m²,0.0,1,1,1,0,0.0,0.0
-4066,5193548,3000,AZN,"['Azərbaycan turizm institutu', 'Gənclik m.', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
-4075,5192989,55000,AZN,[],Obyekt,32 m²,0.0,1,0,1,0,0.0,0.0
-4076,5164782,1500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,120 m²,0.0,0,0,1,0,0.0,0.0
-4089,3063876,4500,AZN,"['Elmlər Akademiyası m.', 'Bakı Dövlət Universiteti', 'Yasamal r.']",Obyekt,10 m²,0.0,0,0,1,0,0.0,0.0
-4141,5194030,1400,AZN,"['Nəsimi bazarı', 'Koala parkı', 'Zoopark', 'Nəsimi r.']",Obyekt,105 m²,0.0,0,0,1,0,0.0,0.0
-4153,4968803,10000,AZN,[],Obyekt,2100 m²,0.0,0,0,1,0,0.0,0.0
-4154,5164715,1500,AZN,['Xətai r.'],Obyekt,40 m²,0.0,0,0,1,0,0.0,0.0
-4155,5192928,2000,AZN,"['Zərifə Əliyeva adına park', 'Nəsimi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,483 m²,0.0,0,0,1,0,0.0,0.0
-4156,5030610,1500,AZN,"['Nizami kinoteatrı', 'Qış parkı', 'Milli Konservatoriya', 'Xaqani bağı', 'Bakı Musiqi Akademiyası', 'Sahil m.', '28 May m.', 'Nəsimi r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-4159,5008901,190000,AZN,"['Şərq bazarı', '28 May m.', 'Xətai r.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
-4196,5193652,8000000,AZN,[],Obyekt,2950 m²,0.0,1,0,1,0,0.0,0.0
-4206,5116872,380000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,164 m²,0.0,1,1,1,0,0.0,0.0
-4219,5044722,15000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,600 m²,0.0,0,0,1,0,0.0,0.0
-4232,4965185,2800,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,330 m²,0.0,0,0,1,0,0.0,0.0
-4239,4877680,28000,AZN,[],Obyekt,18 m²,0.0,1,0,1,0,0.0,0.0
-4248,5086412,798200,AZN,['Xətai r.'],Obyekt,307 m²,0.0,1,0,0,0,0.0,0.0
-4315,5177699,2250,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,300 m²,0.0,0,0,0,0,0.0,0.0
-4330,3429492,4500000,AZN,"['Fəvvarələr meydanı', 'Azərbaycan kinoteatrı', 'Xalça Muzeyi', 'M.Ə.Sabir parkı', 'Mərkəzi Univermaq', 'İçəri Şəhər', 'Sahil m.', 'İçəri Şəhər m.', 'Səbail r.']",Obyekt,360 m²,0.0,1,0,1,0,0.0,0.0
-4334,5192478,1250000,AZN,"['Sevil Qazıyeva parkı', 'Rusiya səfirliyi', 'Park Zorge', 'Tibb Universiteti', 'Nəsimi r.']",Obyekt,330 m²,0.0,1,1,1,0,0.0,0.0
-4366,5173451,420000,AZN,"['Nəsimi bazarı', 'Gənclik m.', 'Nərimanov r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-4393,5186940,250000,AZN,['Abşeron r.'],Obyekt,80 m²,0.0,1,1,1,0,0.0,0.0
-4394,5164660,2000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,110 m²,0.0,0,0,1,0,0.0,0.0
-4416,4888816,2500,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,120 m²,0.0,0,0,1,0,0.0,0.0
-4439,5135524,350000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.']",Obyekt,400 m²,0.0,1,1,1,0,0.0,0.0
-4445,5161951,495000,AZN,"['Təhsil Nazirliyi', 'Azərbaycan turizm institutu', 'Gənclik m.', 'Nərimanov r.']",Obyekt,95 m²,0.0,0,0,0,0,0.0,0.0
-4475,4821874,200000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,64 m²,0.0,0,0,1,0,0.0,0.0
-4478,4451142,1700,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
-4496,4150675,1450,AZN,"['20 Yanvar m.', 'Memar Əcəmi m.', 'Nəsimi r.', '5-ci mikrorayon q.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
-4529,5128061,3000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,906 m²,0.0,0,0,0,0,0.0,0.0
-4554,3769198,10000,AZN,"['Axundov bağı', 'Sovetski', 'Nərimanov heykəli', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Prezident parkı', 'İçəri Şəhər m.', 'Filarmoniya bağı', 'Səbail r.']",Obyekt,405.5 m²,0.0,0,0,0,0,0.0,0.0
-4569,4990909,390000,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'Tibb Universiteti', 'Nəsimi r.']",Obyekt,107 m²,0.0,0,0,1,0,0.0,0.0
-4608,5182011,4000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,303 m²,0.0,0,0,1,0,0.0,0.0
-4610,5194223,135000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,62 m²,0.0,1,0,1,0,0.0,0.0
-4630,5128248,550000,AZN,"['Abşeron r.', 'Pirəkəşkül q.']",Obyekt,500 m²,0.0,1,0,1,0,0.0,0.0
-4653,5192860,500000,AZN,[],Obyekt,10000 m²,0.0,1,0,1,0,0.0,0.0
-4666,5175311,1500,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,150 m²,0.0,0,0,1,0,0.0,0.0
-4688,5135112,3950000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,700 m²,0.0,1,0,1,0,0.0,0.0
-4714,5185714,3000,AZN,['Səbail r.'],Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-4727,4875576,8500000,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'Nərimanov r.']",Obyekt,1800 m²,0.0,1,0,1,0,0.0,0.0
-4728,4528473,385000,AZN,"['Xəzər r.', 'Binə q.']",Obyekt,5000 m²,0.0,1,0,1,0,0.0,0.0
-4742,5153238,1800,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,165 m²,0.0,0,0,1,0,0.0,0.0
-4745,5185843,2300000,AZN,[],Obyekt,4400 m²,0.0,1,0,1,0,0.0,0.0
-4774,4952265,148000,AZN,"['Nizami r.', '8-ci kilometr q.']",Obyekt,165 m²,0.0,1,0,0,0,0.0,0.0
-4788,4895034,900000,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-4802,5179777,10500,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,235 m²,0.0,0,0,1,0,0.0,0.0
-4815,5158445,1700000,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,198 m²,0.0,0,0,1,0,0.0,0.0
-4823,5192742,590000,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,110 m²,0.0,1,0,1,0,0.0,0.0
-4841,4162135,1350000,AZN,"['Texniki Universiteti', 'Space TV', 'Memarlıq və İnşaat Universiteti', 'Hüseyn Cavid parkı', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,80 m²,0.0,1,0,1,0,0.0,0.0
-4888,5118816,3300,AZN,"['Neapol dairəsi', 'Əhmədli m.', 'Xətai r.']",Obyekt,290 m²,0.0,0,0,1,0,0.0,0.0
-4916,4929622,1500,AZN,"['Pedaqoji Universiteti', 'Sahil bağı', 'Xaqani bağı', 'Nizami kinoteatrı', 'Milli Konservatoriya', 'Sahil m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', '28 May m.', 'Səbail r.']",Obyekt,120 m²,0.0,0,0,1,0,0.0,0.0
-4945,4836155,1666400,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,208.3 m²,0.0,0,0,0,0,0.0,0.0
-4956,4898119,249000,AZN,"['Space TV', 'Nərimanov heykəli', 'İçəri Şəhər m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,55 m²,0.0,1,0,1,0,0.0,0.0
-4970,5113451,195000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,100 m²,0.0,1,1,1,0,0.0,0.0
-4975,4577311,9000,AZN,"['Koroğlu m.', 'Qara Qarayev m.', 'Nizami r.']",Obyekt,900 m²,0.0,0,0,1,0,0.0,0.0
-4976,4758456,80000,AZN,"['Neapol dairəsi', 'Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,40 m²,0.0,1,0,1,0,0.0,0.0
-4984,5192864,650000,AZN,"['Axundov bağı', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Prezident parkı', 'İçəri Şəhər m.', 'Filarmoniya bağı', 'Nərimanov heykəli', 'Sovetski', 'M.Ə.Sabir parkı', 'Səbail r.']",Obyekt,80 m²,0.0,1,1,1,0,0.0,0.0
-5006,4864052,4750000,AZN,"['Dövlət Statistika Komitəsi', 'M.Hüseynzadə parkı', 'İzmir parkı', 'Nizami m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,1200 m²,0.0,1,1,1,0,0.0,0.0
-5023,5187298,75000,AZN,"['Əhmədli m.', 'Xətai r.']",Obyekt,20 m²,0.0,1,1,1,0,0.0,0.0
-5034,5164896,2200,AZN,"['Tibb Universiteti', 'Nəsimi r.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
-5037,4907424,2250000,AZN,"['Qış parkı', 'Sirk', 'Beşmərtəbə', 'Nizami m.', 'Nəsimi r.']",Obyekt,500 m²,0.0,1,1,0,0,0.0,0.0
-5041,5194381,142000,AZN,[],Obyekt,34 m²,0.0,1,1,1,0,0.0,0.0
-5048,5174093,1000,AZN,"['Bakı Musiqi Akademiyası', 'Qış parkı', 'Milli Konservatoriya', 'Nizami kinoteatrı', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', '28 May m.', 'Sahil m.', 'Nəsimi r.']",Obyekt,65 m²,0.0,0,0,1,0,0.0,0.0
-5071,5193049,350,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Obyekt,35 m²,0.0,0,0,1,0,0.0,0.0
-5083,4780161,175000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
-5090,5059470,1600,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
-5093,4955280,6000,AZN,"['Fəvvarələr meydanı', 'Mərkəzi Univermaq', 'Azərbaycan kinoteatrı', 'M.Ə.Sabir parkı', 'İqtisad Universiteti', 'İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
-5105,5187398,535000,AZN,"['Bakı Slavyan Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
-5171,5190491,2250000,AZN,"['Elmlər Akademiyası m.', 'Hüseyn Cavid parkı', 'Yasamal r.']",Obyekt,212 m²,0.0,1,0,1,0,0.0,0.0
-5179,5186031,2500,AZN,"['Koala parkı', 'Dostluq kinoteatrı', 'Park Zorge', 'Nəsimi bazarı', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
-5199,5185201,4000,AZN,"['Sabunçu r.', 'Maştağa q.']",Obyekt,900 m²,0.0,0,0,0,0,0.0,0.0
-5286,5172816,930,AZN,"['Bakı Slavyan Universiteti', '28 May m.', 'Azərbaycan Dillər Universiteti', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Nəsimi r.']",Obyekt,65 m²,0.0,0,0,1,0,0.0,0.0
-5319,5174471,3500,AZN,"['28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
-5324,4856265,4000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Obyekt,280 m²,0.0,0,0,1,0,0.0,0.0
-5367,5194281,167000,AZN,"['Mərkəzi Univermaq', 'Beşmərtəbə', 'Fəvvarələr meydanı', 'Nizami m.', 'Sahil m.', 'Səbail r.']",Obyekt,15 m²,0.0,1,0,1,0,0.0,0.0
-5389,5016575,1500,AZN,"['Sahil m.', 'Xaqani bağı', 'Nizami kinoteatrı', 'Sahil bağı', 'Xalça Muzeyi', 'Fəvvarələr meydanı', '28 May m.', 'Səbail r.']",Obyekt,115 m²,0.0,0,0,1,0,0.0,0.0
-5393,5193441,750000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Nəsimi r.', '5-ci mikrorayon q.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
-5401,5163242,1050,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,101 m²,0.0,0,0,1,0,0.0,0.0
-5402,4969243,2500000,AZN,"['Azadlıq Prospekti m.', 'Nəsimi m.', 'Binəqədi r.']",Obyekt,1000 m²,0.0,1,0,1,0,0.0,0.0
-5410,5194273,7000,AZN,"['Abşeron r.', 'Qobu q.']",Obyekt,750 m²,0.0,0,0,1,0,0.0,0.0
-5460,5060815,2000000,AZN,"['Texniki Universiteti', 'Sovetski', 'Hüseyn Cavid parkı', 'Nərimanov heykəli', 'Elmlər Akademiyası m.', 'Yasamal q.', 'Yasamal r.']",Obyekt,390 m²,0.0,1,1,0,0,0.0,0.0
-5467,5190546,1800000,AZN,"['Qış parkı', 'Nizami kinoteatrı', 'Milli Konservatoriya', 'Bakı Musiqi Akademiyası', 'Sahil m.', '28 May m.', 'Nizami m.', 'Yasamal r.']",Obyekt,320 m²,0.0,1,0,1,0,0.0,0.0
-5476,5194251,5000,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,175 m²,0.0,0,0,1,0,0.0,0.0
-5518,5040378,390000,AZN,['Xətai r.'],Obyekt,184 m²,0.0,1,0,0,0,0.0,0.0
-5519,4886199,270000,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,260 m²,0.0,1,0,1,0,0.0,0.0
-5522,5193071,45000,AZN,['Abşeron r.'],Obyekt,2500 m²,0.0,0,0,1,0,0.0,0.0
-5537,5155385,123000,AZN,"['Neapol dairəsi', 'Xətai r.']",Obyekt,150 m²,0.0,1,0,0,0,0.0,0.0
-5546,5114657,350,AZN,"['Zərifə Əliyeva adına park', 'Nəsimi m.', 'Binəqədi r.']",Obyekt,30 m²,0.0,0,0,1,0,0.0,0.0
-5570,5184250,740000,AZN,['Abşeron r.'],Obyekt,840 m²,0.0,1,1,0,0,0.0,0.0
-5573,5193189,330000,AZN,[],Obyekt,300 m²,0.0,1,0,1,0,0.0,0.0
-5576,5163021,1000,AZN,"['Neftçilər m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,36 m²,0.0,0,0,1,0,0.0,0.0
-5590,4769355,430000,AZN,"['Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-5603,4902279,450000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,800 m²,0.0,1,0,0,0,0.0,0.0
-5608,4773880,2505000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.']",Obyekt,1100 m²,0.0,1,1,1,0,0.0,0.0
-5618,5190271,189000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,80 m²,0.0,1,1,1,0,0.0,0.0
-5620,5050979,1500000,AZN,"['İncəsənət və Mədəniyyət Un.', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,112 m²,0.0,1,0,1,0,0.0,0.0
-5636,5180359,750000,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-5639,4869832,190000,AZN,"['8 Noyabr m.', 'Nəsimi r.']",Obyekt,30 m²,0.0,1,0,1,0,0.0,0.0
-5648,5092662,7000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,1000 m²,0.0,0,0,1,0,0.0,0.0
-5652,5173804,5500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,320 m²,0.0,0,0,1,0,0.0,0.0
-5658,4633489,390000,AZN,"['Xəzər r.', 'Binə q.']",Obyekt,397 m²,0.0,1,1,0,0,0.0,0.0
-5669,3391088,2200000,AZN,"['İnşaatçılar m.', 'Yasamal bazarı', 'Yasamal r.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
-5694,5163660,3800,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,305 m²,0.0,0,0,1,0,0.0,0.0
-5711,4955326,1000,AZN,"['ASAN Xidmət №5', 'Koroğlu m.', 'Nizami r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-5753,5184945,138000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,35 m²,0.0,1,0,1,0,0.0,0.0
-5761,5113142,2200,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,700 m²,0.0,0,0,1,0,0.0,0.0
-5768,5172040,2000,AZN,"['Azadlıq meydanı', 'Səməd Vurğun parkı', 'Pedaqoji Universiteti', '28 May m.', 'Sahil m.', 'Səbail r.']",Obyekt,120 m²,0.0,0,0,1,0,0.0,0.0
-5786,5194266,167000,AZN,"['Mərkəzi Univermaq', 'Beşmərtəbə', 'Nizami m.', 'İçəri Şəhər m.', 'Sahil m.', 'Yasamal r.']",Obyekt,12 m²,0.0,1,0,1,0,0.0,0.0
-5792,3858230,700000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
-5803,5064606,5000,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,850 m²,0.0,0,0,1,0,0.0,0.0
-5805,5143497,400000,AZN,"['Bakı Dövlət Universiteti', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,167 m²,0.0,1,0,1,0,0.0,0.0
-5812,5058843,1000,AZN,"['Sahil m.', 'Xaqani bağı', 'Sahil bağı', 'Xalça Muzeyi', 'Nizami kinoteatrı', 'Pedaqoji Universiteti', '28 May m.', 'Səbail r.']",Obyekt,90 m²,0.0,0,0,1,0,0.0,0.0
-5898,5122583,3000000,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,1600 m²,0.0,1,0,1,0,0.0,0.0
-5910,4869687,335000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,32 m²,0.0,1,0,1,0,0.0,0.0
-5932,5042887,7500,AZN,"['Mərkəzi Univermaq', 'M.Ə.Sabir parkı', 'Fəvvarələr meydanı', 'İqtisad Universiteti', 'Azərbaycan kinoteatrı', 'Axundov bağı', 'İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
-5953,5192878,1600,AZN,"['Gənclik m.', 'Respublika stadionu', 'Azərbaycan turizm institutu', 'Nərimanov r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
-5964,5171177,3000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-5988,4817310,620000,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,105 m²,0.0,1,0,1,0,0.0,0.0
-6006,5193988,1800,AZN,"['Xalqlar Dostluğu m.', 'Neftçilər m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,110 m²,0.0,0,0,1,0,0.0,0.0
-6017,5117431,170000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,100 m²,0.0,1,1,1,0,0.0,0.0
-6072,5192929,400,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '3-cü mikrorayon q.']",Obyekt,13 m²,0.0,0,0,1,0,0.0,0.0
-6081,4262092,1500,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-6118,5093575,1800000,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,505 m²,0.0,1,0,1,0,0.0,0.0
-6119,5194077,3000,AZN,"['Azərbaycan turizm institutu', 'Gənclik m.', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,178 m²,0.0,0,0,1,0,0.0,0.0
-6125,5101516,7000,AZN,"['Nəsimi bazarı', 'Koala parkı', 'Nəsimi r.']",Obyekt,300 m²,0.0,0,0,1,0,0.0,0.0
-6135,4693377,350000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
-6140,5193943,500,AZN,"['Qaradağ r.', 'Lökbatan q.']",Obyekt,95 m²,0.0,0,0,1,0,0.0,0.0
-6147,3977176,2300000,AZN,"['Elmlər Akademiyası m.', 'İncəsənət və Mədəniyyət Un.', 'Yasamal r.', 'Yasamal q.']",Obyekt,220 m²,0.0,1,0,1,0,0.0,0.0
-6181,5046949,660000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,330 m²,0.0,0,0,1,0,0.0,0.0
-6182,5133330,650000,AZN,"['ASAN Xidmət №3', 'Yasamal r.']",Obyekt,117 m²,0.0,1,1,1,0,0.0,0.0
-6183,5193506,135000,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,35 m²,0.0,1,0,1,0,0.0,0.0
-6197,4943058,3000,AZN,"['Nizami kinoteatrı', 'Fəvvarələr meydanı', 'Sahil m.', 'Qış parkı', 'Xaqani bağı', 'Səbail r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-6205,3698383,115000,AZN,"['Sabunçu r.', 'Zabrat q.']",Obyekt,190 m²,0.0,1,0,0,0,0.0,0.0
-6223,5181083,190000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Köhnə Günəşli q.']",Obyekt,80.1 m²,0.0,1,1,1,0,0.0,0.0
-6253,5056827,5000,AZN,"['Rəssamlıq Akademiyası', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,500 m²,0.0,0,0,1,0,0.0,0.0
-6260,5193884,1300,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,75 m²,0.0,0,0,1,0,0.0,0.0
-6278,5194220,700,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,65 m²,0.0,0,0,1,0,0.0,0.0
-6291,5137906,1080000,AZN,"['Suraxanı r.', 'Hövsan q.']",Obyekt,1000 m²,0.0,1,0,1,0,0.0,0.0
-6330,5117767,350000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,220 m²,0.0,1,1,1,0,0.0,0.0
-6350,5179776,1000000,AZN,"['M.Hüseynzadə parkı', 'İzmir parkı', 'Sevil Qazıyeva parkı', 'Nizami m.', 'Yasamal r.']",Obyekt,143 m²,0.0,1,1,1,0,0.0,0.0
-6380,3411715,1400000,AZN,"['Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', '28 May m.', 'Milli Konservatoriya', 'Nizami kinoteatrı', 'Sahil m.', 'Nəsimi r.']",Obyekt,175 m²,0.0,1,0,1,0,0.0,0.0
-6387,5189454,160000,AZN,"['Neftçi bazası', 'ASAN Xidmət №1', 'Nərimanov r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-6393,5158038,2450000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', '8-ci mikrorayon q.']",Obyekt,700 m²,0.0,0,0,0,0,0.0,0.0
-6412,5138265,220000,AZN,"['Xəzər r.', 'Türkan q.']",Obyekt,330 m²,0.0,0,0,0,0,0.0,0.0
-6458,5158062,335000,AZN,"['Yasamal r.', 'Yeni Yasamal q.']",Obyekt,224 m²,0.0,1,1,1,0,0.0,0.0
-6473,5182924,600,AZN,"['Nəriman Nərimanov m.', 'Nəriman Nərimanov parkı', 'Nərimanov r.']",Obyekt,22 m²,0.0,0,0,1,0,0.0,0.0
-6491,5012475,1200000,AZN,"['Nizami kinoteatrı', 'Milli Konservatoriya', 'Qış parkı', 'Bakı Musiqi Akademiyası', 'Xaqani bağı', 'Sahil m.', '28 May m.', 'Səbail r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-6502,5031388,186000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,31 m²,0.0,1,0,1,0,0.0,0.0
-6519,5152059,218000,AZN,"['Qara Qarayev m.', 'Koroğlu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,200 m²,0.0,1,1,0,0,0.0,0.0
-6547,4837109,1600,AZN,"['Neftçilər m.', 'Qara Qarayev m.', 'Nizami r.']",Obyekt,80 m²,0.0,0,0,0,0,0.0,0.0
-6559,4284098,1200,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
-6571,5160611,25000,AZN,"['Əhmədli m.', 'Xalqlar Dostluğu m.', 'Xətai r.']",Obyekt,2200 m²,0.0,0,0,1,0,0.0,0.0
-6632,5173891,720000,AZN,"['Azərbaycan Dillər Universiteti', 'Sirk', 'Bakı Slavyan Universiteti', 'Zabitlər parkı', '28 May m.', 'Kubinka q.', 'Nəsimi r.']",Obyekt,274 m²,0.0,1,0,1,0,0.0,0.0
-6633,4608723,700,AZN,"['Abşeron r.', 'Məmmədli q.']",Obyekt,280 m²,0.0,0,0,1,0,0.0,0.0
-6634,5092964,300000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,172 m²,0.0,1,0,1,0,0.0,0.0
-6668,5145830,1250000,AZN,"['28 May m.', 'Bakı Slavyan Universiteti', 'Nəsimi r.']",Obyekt,330 m²,0.0,1,1,1,0,0.0,0.0
-6675,5193303,1100,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,23 m²,0.0,0,0,1,0,0.0,0.0
-6683,5193944,800,AZN,[],Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
-6723,4850463,650000,AZN,['Xətai r.'],Obyekt,255 m²,0.0,1,0,1,0,0.0,0.0
-6734,5180838,235000,AZN,"['Zərifə Əliyeva adına park', 'Nəsimi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,75 m²,0.0,1,0,1,0,0.0,0.0
-6737,3574603,22000,AZN,"['Səməd Vurğun parkı', 'Azadlıq meydanı', 'Port Baku', '28 May m.', 'Səbail r.']",Obyekt,1178 m²,0.0,0,0,0,0,0.0,0.0
-6775,5182542,1500,AZN,"['Mərkəzi Univermaq', 'Beşmərtəbə', 'Fəvvarələr meydanı', 'Sahil m.', 'Nizami m.', 'İçəri Şəhər m.', 'Səbail r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
-6782,5193754,220000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Yasamal r.']",Obyekt,60 m²,0.0,1,1,1,0,0.0,0.0
-6797,4335431,2999999,AZN,"['Sabunçu r.', 'Ramana q.']",Obyekt,3000 m²,0.0,1,0,1,0,0.0,0.0
-6814,5193201,1445000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,880 m²,0.0,1,0,1,0,0.0,0.0
-6847,5193914,235000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,75 m²,0.0,1,0,1,0,0.0,0.0
-6853,5190526,1000000,AZN,"['Azərbaycan Dövlət Neft və Sənaye Universiteti', '28 May m.', 'Bakı Musiqi Akademiyası', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
-6857,4975597,1680000,AZN,"['Axundov bağı', 'Sovetski', 'Nərimanov heykəli', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Prezident parkı', 'İçəri Şəhər m.', 'Filarmoniya bağı', 'Səbail r.']",Obyekt,400 m²,0.0,1,0,1,0,0.0,0.0
-6858,4994966,1000,AZN,"['20 Yanvar m.', 'Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,40 m²,0.0,0,0,1,0,0.0,0.0
-6861,5178314,2500,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,67 m²,0.0,0,0,1,0,0.0,0.0
-6937,4926235,3825000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,2250 m²,0.0,1,1,0,0,0.0,0.0
-6948,4673737,2000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,113.4 m²,0.0,0,0,1,0,0.0,0.0
-6971,4921920,4900000,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,1500 m²,0.0,1,0,1,0,0.0,0.0
-6980,5193221,400,AZN,"['Suraxanı r.', 'Əmircan q.']",Obyekt,52 m²,0.0,0,0,1,0,0.0,0.0
-6984,4330485,1450000,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,410 m²,0.0,0,0,0,0,0.0,0.0
-6996,5134710,1200000,AZN,"['Abşeron r.', 'Məmmədli q.']",Obyekt,220 m²,0.0,1,0,1,0,0.0,0.0
-7002,4805240,225000,AZN,"['Nəsimi m.', 'Binəqədi r.', '6-cı mikrorayon q.']",Obyekt,120 m²,0.0,1,1,1,0,0.0,0.0
-7048,3241146,2000000,AZN,[],Obyekt,414 m²,0.0,1,1,1,0,0.0,0.0
-7088,4917529,135000,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Obyekt,18 m²,0.0,1,0,1,0,0.0,0.0
-7105,5173201,700,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
-7143,5013288,800,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
-7155,5170467,1950000,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,200 m²,0.0,0,0,0,0,0.0,0.0
-7166,5167093,700,AZN,"['Binəqədi r.', 'Biləcəri q.']",Obyekt,28 m²,0.0,0,0,1,0,0.0,0.0
-7231,5175345,699,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
-7261,5077388,3500000,AZN,[],Obyekt,10000 m²,0.0,1,0,1,0,0.0,0.0
-7278,5064003,2200,AZN,"['Həzi Aslanov m.', 'Ukrayna dairəsi', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,275 m²,0.0,0,0,1,0,0.0,0.0
-7328,4953086,295000,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'Nəsimi r.']",Obyekt,55 m²,0.0,1,1,1,0,0.0,0.0
-7329,4877553,560000,AZN,"['Nəriman Nərimanov parkı', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,89 m²,0.0,1,1,1,0,0.0,0.0
-7349,5087465,1800000,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,900 m²,0.0,1,0,1,0,0.0,0.0
-7350,5161913,2000000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,208.5 m²,0.0,1,0,1,0,0.0,0.0
+24,5026009,6000,AZN,"['Neftçi bazası', 'Nərimanov r.']",Obyekt,230 m²,0.0,0,0,1,0,0.0,0.0
+39,5178960,1680000,AZN,"['Sabunçu r.', 'Zabrat q.']",Obyekt,1350 m²,0.0,1,0,1,0,0.0,0.0
+53,5236555,45600,AZN,[],Obyekt,123 m²,0.0,1,0,1,0,0.0,0.0
+71,5135524,315000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.']",Obyekt,400 m²,0.0,1,1,1,0,0.0,0.0
+87,4507856,2700,AZN,"['Abşeron r.', 'Mehdiabad q.']",Obyekt,450 m²,0.0,0,0,1,0,0.0,0.0
+111,5171249,250000,AZN,"['Filarmoniya bağı', 'Prezident parkı', 'Dövlət İdarəçilik Akademiyası', 'İçəri Şəhər m.', 'Axundov bağı', 'Şəlalə parkı', 'İqtisad Universiteti', 'Səbail r.']",Obyekt,100 m²,0.0,1,1,1,0,0.0,0.0
+146,5236584,530000,AZN,"['Memar Əcəmi m.', 'Binəqədi r.']",Obyekt,158 m²,0.0,1,1,1,0,0.0,0.0
+150,4990909,390000,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'Tibb Universiteti', 'Nəsimi r.']",Obyekt,107 m²,0.0,0,0,1,0,0.0,0.0
+177,4487350,2000,AZN,"['Nizami m.', 'Beşmərtəbə', 'Nəsimi r.']",Obyekt,120 m²,0.0,0,0,1,0,0.0,0.0
+188,5170336,500000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
+196,4775056,16000,AZN,"['Neapol dairəsi', 'Əhmədli m.', 'Xəzər r.']",Obyekt,1500 m²,0.0,0,0,0,0,0.0,0.0
+300,5203387,1800,AZN,"['Abşeron r.', 'Mehdiabad q.']",Obyekt,350 m²,0.0,0,0,1,0,0.0,0.0
+323,4930707,599500,AZN,"['Dövlət Statistika Komitəsi', 'Mərkəzi Park', 'İncəsənət və Mədəniyyət Un.', 'Nizami m.', 'Yasamal r.']",Obyekt,100 m²,0.0,1,1,1,0,0.0,0.0
+325,4979953,4600000,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,738 m²,0.0,0,0,1,0,0.0,0.0
+329,5138266,315000,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,318 m²,0.0,1,1,1,0,0.0,0.0
+333,5234622,145000,AZN,"['9-cu mikrorayon q.', 'Binəqədi r.']",Obyekt,53 m²,0.0,1,0,1,0,0.0,0.0
+356,4593538,5500000,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'Nərimanov r.']",Obyekt,1800 m²,0.0,1,1,1,0,0.0,0.0
+359,5182116,2500000,AZN,"['Abşeron r.', 'Novxanı q.']",Obyekt,550 m²,0.0,1,0,1,0,0.0,0.0
+360,5218627,670000,AZN,"['Neftçilər m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
+361,5159564,125000,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,19.5 m²,0.0,1,0,1,0,0.0,0.0
+390,4640552,1200,AZN,"['Dostluq kinoteatrı', 'Koala parkı', 'Zoopark', 'Nəsimi r.']",Obyekt,45 m²,0.0,0,0,1,0,0.0,0.0
+405,3063876,4500,AZN,"['Elmlər Akademiyası m.', 'Bakı Dövlət Universiteti', 'Yasamal r.']",Obyekt,10 m²,0.0,0,0,1,0,0.0,0.0
+419,5236043,550,AZN,"['Abşeron r.', 'Mehdiabad q.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+425,4667768,2300000,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,295 m²,0.0,0,0,1,0,0.0,0.0
+427,5218355,7500,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,288 m²,0.0,0,0,1,0,0.0,0.0
+428,5238109,5000000,AZN,"['Həzi Aslanov m.', 'Xətai r.']",Obyekt,2000 m²,0.0,1,0,1,0,0.0,0.0
+446,5225341,679000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,500 m²,0.0,1,1,1,0,0.0,0.0
+457,5235692,1600,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+458,5187509,550000,AZN,"['Əhmədli m.', 'Xətai r.']",Obyekt,110 m²,0.0,1,0,1,0,0.0,0.0
+514,5046836,2650,AZN,"['Gənclik m.', 'Nərimanov r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+520,4215931,620000,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,285 m²,0.0,1,0,1,0,0.0,0.0
+591,5226367,8000,AZN,"['28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', 'Səməd Vurğun parkı', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Obyekt,330 m²,0.0,0,0,0,0,0.0,0.0
+599,5118816,3300,AZN,"['Neapol dairəsi', 'Əhmədli m.', 'Xətai r.']",Obyekt,290 m²,0.0,0,0,1,0,0.0,0.0
+629,5237218,850000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,91 m²,0.0,1,1,1,0,0.0,0.0
+643,5052215,650000,AZN,"['Neftçilər m.', 'Qara Qarayev m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,208 m²,0.0,1,0,1,0,0.0,0.0
+677,4829444,2350000,AZN,"['Əhmədli m.', 'Xətai r.']",Obyekt,1100 m²,0.0,1,0,1,0,0.0,0.0
+681,4943058,3000,AZN,"['Nizami kinoteatrı', 'Fəvvarələr meydanı', 'Sahil m.', 'Qış parkı', 'Xaqani bağı', 'Səbail r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+719,5148199,8500,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,400 m²,0.0,0,0,1,0,0.0,0.0
+739,5235516,1220000,AZN,"['Bakı Dövlət Universiteti', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,98.5 m²,0.0,1,0,1,0,0.0,0.0
+741,5157945,6700000,AZN,"['Ağ şəhər', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,600 m²,0.0,1,1,1,0,0.0,0.0
+749,5229263,1000,AZN,"['Bakı Slavyan Universiteti', '28 May m.', 'Azərbaycan Dillər Universiteti', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Nəsimi r.']",Obyekt,30 m²,0.0,0,0,1,0,0.0,0.0
+758,5046949,660000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,330 m²,0.0,0,0,1,0,0.0,0.0
+771,4721288,2200,AZN,"['Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,115 m²,0.0,0,0,1,0,0.0,0.0
+795,5146891,1300000,AZN,"['Nəsimi bazarı', 'Koala parkı', 'Dostluq kinoteatrı', 'Nəsimi r.']",Obyekt,325 m²,0.0,1,0,1,0,0.0,0.0
+820,5232603,1500000,AZN,"['Sabunçu r.', 'Sabunçu q.']",Obyekt,400 m²,0.0,1,1,1,0,0.0,0.0
+882,5177394,530000,AZN,"['ASAN Xidmət №1', 'Tibb Universiteti', '8 Noyabr m.', 'Nəsimi r.']",Obyekt,170 m²,0.0,1,0,1,0,0.0,0.0
+885,5000780,3500,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,225 m²,0.0,0,0,0,0,0.0,0.0
+907,5071296,260000,AZN,"['Sabunçu r.', 'Albalılıq q.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
+938,5033662,4500,AZN,"['Nizami kinoteatrı', 'Milli Konservatoriya', 'Qış parkı', 'Bakı Musiqi Akademiyası', 'Xaqani bağı', 'Sahil m.', '28 May m.', 'Nəsimi r.']",Obyekt,75 m²,0.0,0,0,1,0,0.0,0.0
+952,3064121,3000,AZN,"['Bakı Dövlət Universiteti', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,6 m²,0.0,0,0,1,0,0.0,0.0
+972,5236082,6000,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,300 m²,0.0,0,0,1,0,0.0,0.0
+993,4952265,148000,AZN,"['Nizami r.', '8-ci kilometr q.']",Obyekt,165 m²,0.0,1,0,0,0,0.0,0.0
+1020,5237224,550,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,32 m²,0.0,0,0,1,0,0.0,0.0
+1030,5151361,900,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,60 m²,0.0,0,0,1,0,0.0,0.0
+1055,5207450,800,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
+1066,4198946,67000,AZN,"['Zərifə Əliyeva adına park', 'Memar Əcəmi m.', 'Nəsimi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,25 m²,0.0,1,0,1,0,0.0,0.0
+1074,4844334,4000,AZN,"['Mərkəzi Univermaq', 'Fəvvarələr meydanı', 'M.Ə.Sabir parkı', 'Beşmərtəbə', 'Azərbaycan kinoteatrı', 'İçəri Şəhər m.', 'Sahil m.', 'Nizami m.', 'Nəsimi r.']",Obyekt,180 m²,0.0,0,0,1,0,0.0,0.0
+1077,5157901,140000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,21 m²,0.0,1,1,1,0,0.0,0.0
+1088,4673737,2000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,113.4 m²,0.0,0,0,1,0,0.0,0.0
+1090,5103258,900000,AZN,['Nəsimi r.'],Obyekt,115 m²,0.0,1,0,1,0,0.0,0.0
+1108,5140210,5400,AZN,"['Suraxanı r.', 'Hövsan q.']",Obyekt,540 m²,0.0,0,0,1,0,0.0,0.0
+1128,2630467,22000000,AZN,"['Axundov bağı', 'Nərimanov heykəli', 'Sovetski', 'Dövlət İdarəçilik Akademiyası', 'Prezident parkı', 'İqtisad Universiteti', 'Filarmoniya bağı', 'İçəri Şəhər m.', 'Səbail r.']",Obyekt,12000 m²,0.0,1,1,1,0,0.0,0.0
+1135,5112120,13000,AZN,"['Bakı Slavyan Universiteti', 'Azərbaycan Dillər Universiteti', 'Sirk', '28 May m.', 'Nəsimi r.']",Obyekt,530 m²,0.0,0,0,1,0,0.0,0.0
+1146,5233202,590000,AZN,"['Abşeron r.', 'Novxanı q.']",Obyekt,800 m²,0.0,1,1,0,0,0.0,0.0
+1161,4915054,15000,AZN,['Nizami r.'],Obyekt,750 m²,0.0,0,0,1,0,0.0,0.0
+1183,4884768,100000,AZN,"['Nəriman Nərimanov parkı', 'Nəriman Nərimanov m.', 'Rəssamlıq Akademiyası', 'Nərimanov r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
+1197,5204435,900000,AZN,"['28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Nəsimi r.']",Obyekt,90 m²,0.0,1,0,1,0,0.0,0.0
+1210,5235543,1900,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'DİM', 'Nəsimi r.']",Obyekt,85 m²,0.0,0,0,1,0,0.0,0.0
+1236,5235643,2000,AZN,"['Neapol dairəsi', 'Əhmədli m.', 'Xətai r.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+1248,5206299,12000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
+1251,5207750,400000,AZN,"['Zərifə Əliyeva adına park', 'Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,190 m²,0.0,1,0,0,0,0.0,0.0
+1252,5231926,5500,AZN,"['Sabunçu r.', 'Sabunçu q.']",Obyekt,600 m²,0.0,0,0,1,0,0.0,0.0
+1305,4931018,24000,AZN,['Xətai r.'],Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
+1306,5183293,2500,AZN,"['Nəriman Nərimanov m.', 'Nəriman Nərimanov parkı', 'Nərimanov r.']",Obyekt,135 m²,0.0,0,0,1,0,0.0,0.0
+1308,5051650,1200000,AZN,"['Beşmərtəbə', 'Nizami m.', 'Qış parkı', 'Nəsimi r.', 'Kubinka q.']",Obyekt,440 m²,0.0,1,0,1,0,0.0,0.0
+1314,5226101,1500,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+1330,5203550,4000,AZN,"['Nərimanov heykəli', 'Sovetski', 'Texniki Universiteti', 'Hüseyn Cavid parkı', 'Space TV', 'Elmlər Akademiyası m.', 'Yasamal q.', 'Yasamal r.']",Obyekt,170 m²,0.0,0,0,0,0,0.0,0.0
+1358,5231410,300,AZN,"['Sabunçu r.', 'Yeni Ramana q.']",Obyekt,20 m²,0.0,0,0,1,0,0.0,0.0
+1373,5226816,1189000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,661 m²,0.0,0,0,0,0,0.0,0.0
+1433,5071380,85000,AZN,"['Heydər Əliyev adına İdman Kompleksi', 'Yasamal r.']",Obyekt,25 m²,0.0,1,0,1,0,0.0,0.0
+1457,4721218,550000,AZN,"['8 Noyabr m.', 'Nəsimi r.']",Obyekt,160 m²,0.0,1,1,1,0,0.0,0.0
+1461,5234832,217000,AZN,['Nizami r.'],Obyekt,60 m²,0.0,1,1,1,0,0.0,0.0
+1467,5233998,300000,AZN,"['Xəzər r.', 'Binə q.']",Obyekt,800 m²,0.0,0,0,0,0,0.0,0.0
+1496,5235293,235000,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,30 m²,0.0,1,0,1,0,0.0,0.0
+1531,5179730,815000,AZN,"['Tibb Universiteti', 'Nəsimi bazarı', 'Park Zorge', 'ASAN Xidmət №1', 'Nəsimi r.']",Obyekt,274 m²,0.0,1,0,1,0,0.0,0.0
+1533,5235846,900,AZN,['Nəsimi r.'],Obyekt,35 m²,0.0,0,0,1,0,0.0,0.0
+1536,5237249,300000,AZN,"['Mərkəzi Univermaq', 'Beşmərtəbə', 'Fəvvarələr meydanı', 'Sahil m.', 'Nizami m.', 'İçəri Şəhər m.', 'Səbail r.']",Obyekt,130 m²,0.0,1,0,1,0,0.0,0.0
+1544,4762249,1300000,AZN,"['Dövlət Statistika Komitəsi', 'M.Hüseynzadə parkı', 'Nizami m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,200 m²,0.0,1,1,1,0,0.0,0.0
+1553,5231901,1030,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Obyekt,33 m²,0.0,0,0,1,0,0.0,0.0
+1575,5209453,970000,AZN,"['Şərq bazarı', 'Nərimanov r.']",Obyekt,134 m²,0.0,1,0,1,0,0.0,0.0
+1599,4416608,1800,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,125 m²,0.0,0,0,1,0,0.0,0.0
+1612,5235907,30000,AZN,"['Fəvvarələr meydanı', 'Sahil m.', 'Xalça Muzeyi', 'Azərbaycan kinoteatrı', 'Nizami kinoteatrı', 'Mərkəzi Univermaq', 'İçəri Şəhər m.', 'Səbail r.']",Obyekt,4 m²,0.0,1,0,1,0,0.0,0.0
+1622,5226378,12000,AZN,"['Bakı Slavyan Universiteti', '28 May m.', 'Azərbaycan Dillər Universiteti', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Nəsimi r.']",Obyekt,400 m²,0.0,0,0,1,0,0.0,0.0
+1662,5208046,385000,AZN,"['Ağ şəhər', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
+1680,4745949,800000,AZN,"['Nizami m.', 'Beşmərtəbə', 'Yasamal r.']",Obyekt,314 m²,0.0,1,1,0,0,0.0,0.0
+1692,4470763,990,AZN,"['Axundov bağı', 'İqtisad Universiteti', 'Dövlət İdarəçilik Akademiyası', 'Sovetski', 'İçəri Şəhər m.', 'Nərimanov heykəli', 'Prezident parkı', 'M.Ə.Sabir parkı', 'Filarmoniya bağı', 'Səbail r.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
+1699,5053802,1500,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,600 m²,0.0,0,0,1,0,0.0,0.0
+1744,5221187,2000,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Obyekt,300 m²,0.0,0,0,1,0,0.0,0.0
+1752,4632441,11000000,AZN,"['Elmlər Akademiyası m.', 'Hüseyn Cavid parkı', 'Yasamal r.', 'Yasamal q.']",Obyekt,2680 m²,0.0,1,1,1,0,0.0,0.0
+1760,5219202,12000,AZN,"['Azərbaycan Dillər Universiteti', 'Sirk', 'Bakı Slavyan Universiteti', 'Zabitlər parkı', '28 May m.', 'Nəsimi r.']",Obyekt,650 m²,0.0,0,0,1,0,0.0,0.0
+1788,4869687,325000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,32 m²,0.0,1,0,1,0,0.0,0.0
+1793,5235112,7000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,470 m²,0.0,0,0,1,0,0.0,0.0
+1797,5224642,7500,AZN,"['Səbail r.', 'Şıxov q.']",Obyekt,700 m²,0.0,0,0,0,0,0.0,0.0
+1816,5099636,590000,AZN,"['Abşeron r.', 'Novxanı q.']",Obyekt,920 m²,0.0,1,0,1,0,0.0,0.0
+1817,5112748,2500,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Yasamal r.']",Obyekt,117 m²,0.0,0,0,1,0,0.0,0.0
+1847,5179687,1250000,AZN,['Səbail r.'],Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+1852,5013288,800,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
+1885,4689279,1250000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,250 m²,0.0,1,1,1,0,0.0,0.0
+1897,5175272,3200,AZN,['Yasamal r.'],Obyekt,175 m²,0.0,0,0,1,0,0.0,0.0
+1904,5175663,400000,AZN,"['Bakı Dövlət Universiteti', 'ASAN Xidmət №3', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,200 m²,0.0,1,1,1,0,0.0,0.0
+1925,5028574,148000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,55 m²,0.0,1,1,1,0,0.0,0.0
+1930,4681374,700000,AZN,"['Sabunçu r.', 'Maştağa q.']",Obyekt,1200 m²,0.0,1,0,0,0,0.0,0.0
+1949,4810452,530000,AZN,"['Sabunçu r.', 'Zabrat q.']",Obyekt,400 m²,0.0,1,1,1,0,0.0,0.0
+1959,5192632,2000000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Nəsimi r.']",Obyekt,600 m²,0.0,1,0,1,0,0.0,0.0
+1979,5164285,10000,AZN,"['Xəzər r.', 'Şüvəlan q.']",Obyekt,1000 m²,0.0,0,0,0,0,0.0,0.0
+1992,5235173,155000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,100 m²,0.0,1,1,1,0,0.0,0.0
+1995,5058843,800,AZN,"['Sahil m.', 'Xaqani bağı', 'Sahil bağı', 'Xalça Muzeyi', 'Nizami kinoteatrı', 'Pedaqoji Universiteti', '28 May m.', 'Səbail r.']",Obyekt,90 m²,0.0,0,0,1,0,0.0,0.0
+2123,5222671,5990000,AZN,"['Azərbaycan Dillər Universiteti', 'Sirk', 'Bakı Slavyan Universiteti', 'Dostluq kinoteatrı', 'Zabitlər parkı', '28 May m.', 'Nəsimi r.']",Obyekt,1330 m²,0.0,1,0,1,0,0.0,0.0
+2151,5086412,798200,AZN,['Xətai r.'],Obyekt,307 m²,0.0,1,0,0,0,0.0,0.0
+2175,4256452,2290000,AZN,"['Abşeron r.', 'Qobu q.']",Obyekt,3000 m²,0.0,1,0,1,0,0.0,0.0
+2186,4619956,26640,AZN,"['Suraxanı r.', 'Bülbülə q.']",Obyekt,4440 m²,0.0,0,0,1,0,0.0,0.0
+2193,5214752,429000,AZN,"['İçəri Şəhər m.', 'Filarmoniya bağı', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Prezident parkı', 'Axundov bağı', 'İçəri Şəhər', 'M.Ə.Sabir parkı', 'Azneft meydanı', 'Şəlalə parkı', 'Səbail r.']",Obyekt,200 m²,0.0,1,1,1,0,0.0,0.0
+2215,5046717,154000,AZN,"['Abşeron r.', 'Masazır q.']",Obyekt,72 m²,0.0,1,0,1,0,0.0,0.0
+2234,5222560,135000,AZN,"['Dövlət İdarəçilik Akademiyası', 'İçəri Şəhər m.', 'Filarmoniya bağı', 'İqtisad Universiteti', 'Axundov bağı', 'Prezident parkı', 'M.Ə.Sabir parkı', 'İçəri Şəhər', 'Şəlalə parkı', 'Səbail r.']",Obyekt,40 m²,0.0,1,1,1,0,0.0,0.0
+2264,5205728,250000,AZN,['Abşeron r.'],Obyekt,80 m²,0.0,1,1,1,0,0.0,0.0
+2304,5159555,1900000,AZN,"['Dövlət Statistika Komitəsi', 'M.Hüseynzadə parkı', 'Mərkəzi Park', 'İzmir parkı', 'Nizami m.', 'Yasamal r.']",Obyekt,158.5 m²,0.0,1,0,1,0,0.0,0.0
+2311,5099618,5000,AZN,"['Elmlər Akademiyası m.', 'Hüseyn Cavid parkı', 'Yasamal r.', 'Yasamal q.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
+2329,5128464,1999,AZN,"['Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', '28 May m.', 'Milli Konservatoriya', 'Bakı Slavyan Universiteti', 'Sahil m.', 'Nəsimi r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+2330,5163236,199000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,101 m²,0.0,1,1,1,0,0.0,0.0
+2361,5237682,700,AZN,[],Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+2380,5185768,320000,AZN,"['Bakı Asiya Universiteti', 'Grand Hayat Residence', '8 Noyabr m.', '20 Yanvar m.', 'Nəsimi r.', '3-cü mikrorayon q.']",Obyekt,190 m²,0.0,1,1,0,0,0.0,0.0
+2401,5225765,210000,AZN,['Nərimanov r.'],Obyekt,80 m²,0.0,1,0,1,0,0.0,0.0
+2402,5093575,1800000,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,505 m²,0.0,1,0,1,0,0.0,0.0
+2417,5224483,450,AZN,"['Elmlər Akademiyası m.', 'Hüseyn Cavid parkı', 'Yasamal r.', 'Yasamal q.']",Obyekt,20 m²,0.0,0,0,1,0,0.0,0.0
+2445,5234462,1900000,AZN,"['Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,737 m²,0.0,1,0,1,0,0.0,0.0
+2467,2872143,400,AZN,"['Suraxanı r.', 'Əmircan q.']",Obyekt,6000 m²,0.0,0,0,0,0,0.0,0.0
+2475,5235809,7500,AZN,"['Mərkəzi Univermaq', 'M.Ə.Sabir parkı', 'Fəvvarələr meydanı', 'İqtisad Universiteti', 'Azərbaycan kinoteatrı', 'İçəri Şəhər m.', 'Sahil m.', 'Nizami m.', 'Səbail r.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
+2497,4850463,650000,AZN,['Xətai r.'],Obyekt,255 m²,0.0,1,0,1,0,0.0,0.0
+2516,5234602,528000,AZN,"['Mərkəzi Univermaq', 'M.Ə.Sabir parkı', 'Fəvvarələr meydanı', 'İqtisad Universiteti', 'Azərbaycan kinoteatrı', 'İçəri Şəhər m.', 'Sahil m.', 'Nizami m.', 'Səbail r.']",Obyekt,264 m²,0.0,1,0,1,0,0.0,0.0
+2585,5235065,330000,AZN,"['Qara Qarayev m.', 'Nizami r.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
+2620,5148530,2000000,AZN,['Sabunçu r.'],Obyekt,560 m²,0.0,1,0,1,0,0.0,0.0
+2656,3675237,1800000,AZN,"['Gənclik m.', 'Nərimanov r.']",Obyekt,280 m²,0.0,1,0,1,0,0.0,0.0
+2663,5185501,450000,AZN,"['Koala parkı', 'Nəsimi bazarı', 'Dostluq kinoteatrı', 'Park Zorge', 'Nəsimi r.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
+2705,5236930,1500,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,68 m²,0.0,0,0,1,0,0.0,0.0
+2706,5189533,1520,AZN,"['Qış parkı', 'Bakı Musiqi Akademiyası', 'Milli Konservatoriya', 'Sirk', 'Azərbaycan Dillər Universiteti', 'Bakı Slavyan Universiteti', '28 May m.', 'Sahil m.', 'Nəsimi r.']",Obyekt,66 m²,0.0,0,0,1,0,0.0,0.0
+2731,5158062,335000,AZN,"['Yasamal r.', 'Yeni Yasamal q.']",Obyekt,224 m²,0.0,1,1,1,0,0.0,0.0
+2732,5225221,2000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Obyekt,150 m²,0.0,0,0,1,0,0.0,0.0
+2773,4933561,500,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,27 m²,0.0,0,0,1,0,0.0,0.0
+2788,5222510,8000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,700 m²,0.0,0,0,1,0,0.0,0.0
+2798,5235590,2500,AZN,"['Yasamal r.', 'Sahil m.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+2833,5232762,2500,AZN,"['Tibb Universiteti', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
+2885,5235354,2000,AZN,"['Texniki Universiteti', 'Hüseyn Cavid parkı', 'Memarlıq və İnşaat Universiteti', 'Space TV', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,75 m²,0.0,0,0,1,0,0.0,0.0
+2889,4521115,6600000,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,3500 m²,0.0,1,1,0,0,0.0,0.0
+2902,5214805,300000,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,18 m²,0.0,1,1,1,0,0.0,0.0
+2925,5092662,7000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,1000 m²,0.0,0,0,1,0,0.0,0.0
+2934,5207018,1150000,AZN,[],Obyekt,700 m²,0.0,1,1,1,0,0.0,0.0
+2945,5235111,1200000,AZN,['Sabunçu r.'],Obyekt,480 m²,0.0,1,0,1,0,0.0,0.0
+2947,5214772,499000,AZN,"['Həzi Aslanov m.', 'Xətai r.']",Obyekt,200 m²,0.0,1,1,1,0,0.0,0.0
+2957,5197214,2200,AZN,"['Yasamal r.', 'Yasamal q.']",Obyekt,500 m²,0.0,0,0,1,0,0.0,0.0
+2984,4933911,1200000,AZN,"['Nəriman Nərimanov parkı', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,400 m²,0.0,1,0,0,0,0.0,0.0
+2993,4645483,1900000,AZN,"['Suraxanı r.', 'Hövsan q.']",Obyekt,3200 m²,0.0,1,0,0,0,0.0,0.0
+3000,4996241,293000,AZN,"['Axundov bağı', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'İçəri Şəhər m.', 'Prezident parkı', 'Filarmoniya bağı', 'M.Ə.Sabir parkı', 'Nərimanov heykəli', 'Sovetski', 'Səbail r.']",Obyekt,85 m²,0.0,1,1,1,0,0.0,0.0
+3012,5162826,1500,AZN,"['Binəqədi r.', 'Sulutəpə q.']",Obyekt,110 m²,0.0,0,0,1,0,0.0,0.0
+3017,4953086,295000,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'Nəsimi r.']",Obyekt,55 m²,0.0,1,1,1,0,0.0,0.0
+3022,5148834,3500,AZN,"['Milli Konservatoriya', 'Bakı Musiqi Akademiyası', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Pedaqoji Universiteti', 'Xaqani bağı', 'Nizami kinoteatrı', 'Sahil bağı', '28 May m.', 'Sahil m.', 'Nəsimi r.']",Obyekt,67 m²,0.0,0,0,1,0,0.0,0.0
+3034,5107280,2500,AZN,"['Fəvvarələr meydanı', 'Azərbaycan kinoteatrı', 'Mərkəzi Univermaq', 'Xalça Muzeyi', 'M.Ə.Sabir parkı', 'Səbail r.']",Obyekt,50 m²,0.0,0,0,0,0,0.0,0.0
+3036,5131816,350000,AZN,"['Bakı Slavyan Universiteti', 'Azərbaycan Dillər Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,76 m²,0.0,1,0,0,0,0.0,0.0
+3044,5234097,87000,AZN,"['Suraxanı r.', 'Qaraçuxur q.']",Obyekt,20 m²,0.0,1,0,1,0,0.0,0.0
+3085,5207679,297000,AZN,"['Zərifə Əliyeva adına park', 'Nəsimi m.', 'Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,230 m²,0.0,1,1,0,0,0.0,0.0
+3091,5094049,3000,AZN,[],Obyekt,450 m²,0.0,0,0,1,0,0.0,0.0
+3106,5214293,95000,AZN,"['Xətai r.', 'Həzi Aslanov q.']",Obyekt,37 m²,0.0,1,0,1,0,0.0,0.0
+3119,4033362,500000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,160 m²,0.0,1,0,1,0,0.0,0.0
+3124,2206512,5200000,AZN,['Nərimanov r.'],Obyekt,4500 m²,0.0,1,1,1,0,0.0,0.0
+3129,5088471,149000,AZN,[],Obyekt,10000 m²,0.0,1,1,1,0,0.0,0.0
+3166,4629877,8500000,AZN,"['Nəriman Nərimanov m.', 'Nəriman Nərimanov parkı', 'Nərimanov r.']",Obyekt,935 m²,0.0,1,1,1,0,0.0,0.0
+3201,4858478,420000,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,50 m²,0.0,1,0,1,0,0.0,0.0
+3225,5185201,4000,AZN,"['Sabunçu r.', 'Maştağa q.']",Obyekt,900 m²,0.0,0,0,0,0,0.0,0.0
+3227,5235757,700,AZN,"['Mərkəzi Univermaq', 'Beşmərtəbə', 'Nizami m.', 'İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,12 m²,0.0,0,0,1,0,0.0,0.0
+3244,4884972,2500,AZN,"['Binəqədi r.', '8-ci mikrorayon q.']",Obyekt,300 m²,0.0,0,0,1,0,0.0,0.0
+3247,5025838,80000,AZN,"['Xəzər r.', 'Mərdəkan q.']",Obyekt,30000 m²,0.0,0,0,1,0,0.0,0.0
+3263,4763767,2000,AZN,"['Sevil Qazıyeva parkı', 'Rusiya səfirliyi', 'M.Hüseynzadə parkı', 'Nizami m.', 'Nəsimi r.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+3267,5159573,140000,AZN,"['Səbail r.', 'Bayıl q.']",Obyekt,40 m²,0.0,1,0,1,0,0.0,0.0
+3277,5185843,2300000,AZN,[],Obyekt,4400 m²,0.0,1,0,1,0,0.0,0.0
+3294,5164463,1500,AZN,"['Qış parkı', 'Sirk', 'Bakı Musiqi Akademiyası', 'Azərbaycan Dillər Universiteti', 'Milli Konservatoriya', 'Bakı Slavyan Universiteti', '28 May m.', 'Nizami m.', 'Sahil m.', 'Nəsimi r.']",Obyekt,90 m²,0.0,0,0,1,0,0.0,0.0
+3303,3998478,1400000,AZN,['Abşeron r.'],Obyekt,1000 m²,0.0,1,0,1,0,0.0,0.0
+3329,5229845,189000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Həzi Aslanov q.']",Obyekt,80 m²,0.0,1,1,1,0,0.0,0.0
+3335,5234739,7500,AZN,"['Mərkəzi Univermaq', 'M.Ə.Sabir parkı', 'Fəvvarələr meydanı', 'İqtisad Universiteti', 'Azərbaycan kinoteatrı', 'İçəri Şəhər m.', 'Sahil m.', 'Nizami m.', 'Səbail r.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
+3355,5237624,55000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,55 m²,0.0,1,0,0,0,0.0,0.0
+3376,5204622,3300,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,85 m²,0.0,0,0,1,0,0.0,0.0
+3389,5190526,1000000,AZN,"['Azərbaycan Dövlət Neft və Sənaye Universiteti', '28 May m.', 'Bakı Musiqi Akademiyası', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+3420,5217088,550000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,118 m²,0.0,1,0,1,0,0.0,0.0
+3438,4877553,560000,AZN,"['Nəriman Nərimanov parkı', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,89 m²,0.0,1,1,1,0,0.0,0.0
+3457,5147007,1300,AZN,"['Space TV', 'Texniki Universiteti', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,60 m²,0.0,0,0,1,0,0.0,0.0
+3463,5226291,5100,AZN,"['8 Noyabr m.', 'Bakı Asiya Universiteti', 'Nəsimi r.']",Obyekt,130 m²,0.0,0,0,0,0,0.0,0.0
+3484,4409684,600000,AZN,"['M.Hüseynzadə parkı', 'Dövlət Statistika Komitəsi', 'Nizami m.', 'Yasamal r.']",Obyekt,100 m²,0.0,1,0,0,0,0.0,0.0
+3490,5046391,400,AZN,"['Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
+3501,5235704,300000,AZN,"['Grand Hayat Residence', '8 Noyabr m.', 'Nəsimi r.']",Obyekt,200 m²,0.0,1,0,0,0,0.0,0.0
+3519,5222479,1850000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,700 m²,0.0,1,0,1,0,0.0,0.0
+3523,4548123,800000,AZN,"['İçəri Şəhər m.', 'Filarmoniya bağı', 'İçəri Şəhər', 'Azneft meydanı', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Prezident parkı', 'M.Ə.Sabir parkı', 'Axundov bağı', 'Səbail r.']",Obyekt,180 m²,0.0,1,0,1,0,0.0,0.0
+3546,5234408,1500,AZN,"['ASAN Xidmət №3', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,101 m²,0.0,0,0,1,0,0.0,0.0
+3555,5222483,1200,AZN,"['Pedaqoji Universiteti', 'Sahil bağı', 'Xaqani bağı', 'Nizami kinoteatrı', 'Milli Konservatoriya', 'Sahil m.', 'Bakı Musiqi Akademiyası', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', '28 May m.', 'Səbail r.']",Obyekt,60 m²,0.0,0,0,1,0,0.0,0.0
+3561,5197163,10500,AZN,"['Dərnəgül m.', 'Nərimanov r.']",Obyekt,2100 m²,0.0,0,0,1,0,0.0,0.0
+3597,5145830,1250000,AZN,"['28 May m.', 'Bakı Slavyan Universiteti', 'Nəsimi r.']",Obyekt,330 m²,0.0,1,1,1,0,0.0,0.0
+3619,5156621,5000000,AZN,"['Dövlət Statistika Komitəsi', 'Mərkəzi Park', 'İzmir parkı', 'M.Hüseynzadə parkı', 'İncəsənət və Mədəniyyət Un.', 'Nizami m.', 'Yasamal q.', 'Yasamal r.']",Obyekt,1000 m²,0.0,1,0,1,0,0.0,0.0
+3622,5229313,6000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,353.6 m²,0.0,0,0,1,0,0.0,0.0
+3661,4992849,700000,AZN,['Nəsimi r.'],Obyekt,800 m²,0.0,1,0,1,0,0.0,0.0
+3667,5205107,830000,AZN,"['Azərbaycan Dövlət Neft və Sənaye Universiteti', '28 May m.', 'Bakı Musiqi Akademiyası', 'Milli Konservatoriya', 'Bakı Slavyan Universiteti', 'Sahil m.', 'Nəsimi r.']",Obyekt,155 m²,0.0,1,1,1,0,0.0,0.0
+3693,5236323,1300,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '2-ci mikrorayon q.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
+3710,5234453,75000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,30 m²,0.0,1,0,1,0,0.0,0.0
+3728,5228701,1500,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
+3811,5169401,2500,AZN,"['Səməd Vurğun parkı', '28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Sahil m.', 'Nəsimi r.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
+3814,5137460,81000,AZN,[],Obyekt,50 m²,0.0,1,0,1,0,0.0,0.0
+3818,5216059,60000,AZN,"['Həzi Aslanov m.', 'Xətai r.']",Obyekt,30 m²,0.0,1,0,1,0,0.0,0.0
+3839,5224993,1500000,AZN,['Nərimanov r.'],Obyekt,345 m²,0.0,1,0,1,0,0.0,0.0
+3842,5108281,1100,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Nəsimi r.', '5-ci mikrorayon q.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+3854,5190546,1800000,AZN,"['Qış parkı', 'Nizami kinoteatrı', 'Milli Konservatoriya', 'Bakı Musiqi Akademiyası', 'Sahil m.', '28 May m.', 'Nizami m.', 'Yasamal r.']",Obyekt,320 m²,0.0,1,0,1,0,0.0,0.0
+3890,5237451,3500,AZN,"['8 Noyabr m.', 'Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,300 m²,0.0,0,0,1,0,0.0,0.0
+3921,5235521,2000,AZN,"['Bakı Slavyan Universiteti', 'Azərbaycan Dillər Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+3938,5236377,1500,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,400 m²,0.0,0,0,0,0,0.0,0.0
+3940,3997405,1600,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,80 m²,0.0,0,0,0,0,0.0,0.0
+3993,5177562,71000,AZN,"['Nəsimi r.', '28 May m.']",Obyekt,22 m²,0.0,1,0,1,0,0.0,0.0
+4035,5226559,1450,AZN,"['Xəzər r.', 'Binə q.']",Obyekt,315 m²,0.0,0,0,1,0,0.0,0.0
+4037,5233657,7000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,450 m²,0.0,0,0,1,0,0.0,0.0
+4076,5236149,1500,AZN,"['Sahil m.', 'Sahil bağı', 'Xaqani bağı', 'Xalça Muzeyi', 'Pedaqoji Universiteti', 'Nizami kinoteatrı', '28 May m.', 'Səbail r.']",Obyekt,35 m²,0.0,0,0,1,0,0.0,0.0
+4078,5066408,4000000,AZN,"['Dostluq kinoteatrı', 'Koala parkı', 'Bakı Slavyan Universiteti', 'Azərbaycan Dillər Universiteti', 'Zoopark', '28 May m.', 'Nəsimi r.']",Obyekt,1200 m²,0.0,1,0,1,0,0.0,0.0
+4086,5072202,3000,AZN,"['Şərq bazarı', 'Nərimanov r.']",Obyekt,215 m²,0.0,0,0,1,0,0.0,0.0
+4092,5197201,5000000,AZN,"['Şərq bazarı', 'Nərimanov r.']",Obyekt,940 m²,0.0,0,0,1,0,0.0,0.0
+4094,5235705,1100,AZN,"['20 Yanvar m.', 'Nəsimi r.', '5-ci mikrorayon q.']",Obyekt,22 m²,0.0,0,0,1,0,0.0,0.0
+4116,5190098,140000,AZN,[],Obyekt,170 m²,0.0,1,0,1,0,0.0,0.0
+4121,5048321,5500000,AZN,"['Gənclik m.', 'Nərimanov r.']",Obyekt,2200 m²,0.0,1,0,1,0,0.0,0.0
+4165,5238089,1100,AZN,"['Bakı Slavyan Universiteti', 'Azərbaycan Dillər Universiteti', 'Dostluq kinoteatrı', '28 May m.', 'Nəsimi r.']",Obyekt,43 m²,0.0,0,0,1,0,0.0,0.0
+4176,5224839,475000,AZN,"['Tibb Universiteti', 'Nəsimi r.']",Obyekt,55 m²,0.0,1,0,1,0,0.0,0.0
+4182,5137906,1080000,AZN,"['Suraxanı r.', 'Hövsan q.']",Obyekt,1000 m²,0.0,1,0,1,0,0.0,0.0
+4184,4902279,450000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,800 m²,0.0,1,0,0,0,0.0,0.0
+4198,4846550,25000,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,2000 m²,0.0,0,0,1,0,0.0,0.0
+4216,5235120,230000,AZN,"['Nəriman Nərimanov parkı', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,40 m²,0.0,1,0,1,0,0.0,0.0
+4251,2182012,980000,AZN,"['Dostluq kinoteatrı', 'Koala parkı', 'Zoopark', 'Nəsimi bazarı', 'Nəsimi r.']",Obyekt,120 m²,0.0,1,0,1,0,0.0,0.0
+4255,4742634,77000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,30 m²,0.0,0,0,1,0,0.0,0.0
+4256,5197364,550,AZN,"['Yasamal r.', 'Yasamal q.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
+4257,4964157,830000,AZN,"['Bakı Slavyan Universiteti', 'Azərbaycan Dillər Universiteti', 'Bakı Musiqi Akademiyası', 'Sirk', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,150 m²,0.0,1,0,1,0,0.0,0.0
+4258,5225895,7000,AZN,"['Elmlər Akademiyası m.', 'Nizami m.', 'Yasamal r.']",Obyekt,385 m²,0.0,0,0,0,0,0.0,0.0
+4264,5235126,3500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,300 m²,0.0,0,0,1,0,0.0,0.0
+4311,4886818,970000,AZN,[],Obyekt,450 m²,0.0,1,0,0,0,0.0,0.0
+4323,5183603,4000,AZN,"['Azərbaycan turizm institutu', 'Gənclik m.', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,280 m²,0.0,0,0,1,0,0.0,0.0
+4327,5159177,3000,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+4336,5226560,1500,AZN,"['Binəqədi r.', 'M.Ə.Rəsulzadə q.']",Obyekt,350 m²,0.0,0,0,1,0,0.0,0.0
+4345,5204415,750000,AZN,"['Şərq bazarı', '28 May m.', 'Nəsimi r.']",Obyekt,65 m²,0.0,1,1,1,0,0.0,0.0
+4363,5235058,150000,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,30 m²,0.0,1,1,1,0,0.0,0.0
+4377,5228990,209000,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,80 m²,0.0,1,0,1,0,0.0,0.0
+4401,5188974,4000,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,300 m²,0.0,0,0,1,0,0.0,0.0
+4432,4363333,5000,AZN,"['Səməd Vurğun parkı', 'Port Baku', '28 May m.', 'Nəsimi r.']",Obyekt,130 m²,0.0,0,0,1,0,0.0,0.0
+4454,5161352,6500,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,336 m²,0.0,0,0,1,0,0.0,0.0
+4467,5236092,4500,AZN,"['Gənclik m.', 'Nərimanov r.']",Obyekt,85 m²,0.0,0,0,1,0,0.0,0.0
+4483,5008901,190000,AZN,"['Şərq bazarı', '28 May m.', 'Xətai r.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
+4494,4371459,157000,AZN,['Binəqədi r.'],Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+4500,4823961,400000,AZN,[],Obyekt,546.8 m²,0.0,1,0,1,0,0.0,0.0
+4504,5097570,565000,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,80 m²,0.0,1,0,1,0,0.0,0.0
+4514,4841248,89000,AZN,"['Xalqlar Dostluğu m.', 'Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,64 m²,0.0,1,1,1,0,0.0,0.0
+4515,5170301,260000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,60.1 m²,0.0,1,0,1,0,0.0,0.0
+4572,5186715,2450000,AZN,"['İçəri Şəhər m.', 'Filarmoniya bağı', 'Dövlət İdarəçilik Akademiyası', 'İçəri Şəhər', 'İqtisad Universiteti', 'Prezident parkı', 'Azneft meydanı', 'Axundov bağı', 'M.Ə.Sabir parkı', 'Səbail r.']",Obyekt,500 m²,0.0,1,0,1,0,0.0,0.0
+4603,5234584,229000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,46 m²,0.0,1,0,1,0,0.0,0.0
+4651,5169573,540000,AZN,"['Rəssamlıq Akademiyası', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,83 m²,0.0,0,0,1,0,0.0,0.0
+4654,5186940,250000,AZN,['Abşeron r.'],Obyekt,80 m²,0.0,1,1,1,0,0.0,0.0
+4655,5234371,800,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,9 m²,0.0,0,0,1,0,0.0,0.0
+4660,5218714,325000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,32 m²,0.0,1,0,1,0,0.0,0.0
+4667,5204012,210000,AZN,"['Nizami m.', 'Yasamal r.']",Obyekt,50 m²,0.0,1,0,1,0,0.0,0.0
+4684,5235245,6000,AZN,"['ASAN Xidmət №1', 'Neftçi bazası', 'Tibb Universiteti', 'Nərimanov r.']",Obyekt,300 m²,0.0,0,0,1,0,0.0,0.0
+4725,5042887,7500,AZN,"['Mərkəzi Univermaq', 'M.Ə.Sabir parkı', 'Fəvvarələr meydanı', 'İqtisad Universiteti', 'Azərbaycan kinoteatrı', 'Axundov bağı', 'İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+4745,5203268,450,AZN,[],Obyekt,6 m²,0.0,0,0,1,0,0.0,0.0
+4771,5234110,700,AZN,"['Təhsil Nazirliyi', 'Nərimanov r.']",Obyekt,16 m²,0.0,0,0,1,0,0.0,0.0
+4789,5226342,6500,AZN,"['28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', 'Səməd Vurğun parkı', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Obyekt,210 m²,0.0,0,0,0,0,0.0,0.0
+4792,5068806,600000,AZN,['Xəzər r.'],Obyekt,1550 m²,0.0,1,1,1,0,0.0,0.0
+4827,3814756,88000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,90.6 m²,0.0,1,1,1,0,0.0,0.0
+4832,5096153,420000,AZN,"['Sirk', 'Azərbaycan Dillər Universiteti', 'Bakı Slavyan Universiteti', 'Qış parkı', '28 May m.', 'Nizami m.', 'Nəsimi r.']",Obyekt,150 m²,0.0,1,0,1,0,0.0,0.0
+4839,5221552,25000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,30 m²,0.0,1,1,1,0,0.0,0.0
+4858,4907372,1350000,AZN,"['Qış parkı', 'Sirk', 'Nizami m.', 'Nəsimi r.']",Obyekt,300 m²,0.0,1,1,0,0,0.0,0.0
+4902,4976998,350,AZN,"['Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,26 m²,0.0,0,0,1,0,0.0,0.0
+4914,4837109,1600,AZN,"['Neftçilər m.', 'Qara Qarayev m.', 'Nizami r.']",Obyekt,80 m²,0.0,0,0,0,0,0.0,0.0
+4920,5237317,10000,AZN,"['Neapol dairəsi', 'Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,600 m²,0.0,0,0,1,0,0.0,0.0
+4960,4849569,400000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,198 m²,0.0,1,0,1,0,0.0,0.0
+4970,5237319,1200,AZN,"['Nəriman Nərimanov m.', 'Nəriman Nərimanov parkı', 'Nərimanov r.']",Obyekt,60 m²,0.0,0,0,1,0,0.0,0.0
+4989,5096633,200000,AZN,"['Yasamal bazarı', 'İnşaatçılar m.', 'Yasamal r.']",Obyekt,70 m²,0.0,1,1,1,0,0.0,0.0
+5016,4109605,15000,AZN,"['Keşlə bazarı', 'Nizami r.']",Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
+5043,4899772,1000,AZN,"['Axundov bağı', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Prezident parkı', 'İçəri Şəhər m.', 'Nərimanov heykəli', 'Filarmoniya bağı', 'M.Ə.Sabir parkı', 'Səbail r.']",Obyekt,150 m²,0.0,0,0,1,0,0.0,0.0
+5055,5181317,4000,AZN,"['Nizami kinoteatrı', 'Milli Konservatoriya', 'Qış parkı', 'Xaqani bağı', 'Sahil m.', 'Bakı Musiqi Akademiyası', 'Sahil bağı', '28 May m.', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
+5084,5234438,330000,AZN,"['Qara Qarayev m.', 'Nizami r.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
+5087,5076993,900,AZN,"['Suraxanı r.', 'Yeni Günəşli q.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+5107,4903540,2200,AZN,"['Neapol dairəsi', 'Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+5118,5028435,598000,AZN,"['Dövlət Statistika Komitəsi', 'Mərkəzi Park', 'M.Hüseynzadə parkı', 'Nizami m.', 'Yasamal r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+5140,5066289,1900000,AZN,"['Xəzər r.', 'Buzovna q.']",Obyekt,1200 m²,0.0,1,1,0,0,0.0,0.0
+5145,5044722,14000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,600 m²,0.0,0,0,1,0,0.0,0.0
+5232,4993931,9000000,AZN,"['İçəri Şəhər', 'Azneft meydanı', 'İçəri Şəhər m.', 'Filarmoniya bağı', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Azərbaycan kinoteatrı', 'M.Ə.Sabir parkı', 'Səbail r.']",Obyekt,900 m²,0.0,1,1,1,0,0.0,0.0
+5249,5235123,1190000,AZN,"['Qara Qarayev m.', 'Koroğlu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,380 m²,0.0,1,0,1,0,0.0,0.0
+5256,5132666,1100000,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,600 m²,0.0,1,0,1,0,0.0,0.0
+5279,5235136,2000,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,390 m²,0.0,0,0,1,0,0.0,0.0
+5284,5234998,2300,AZN,"['Axundov bağı', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'İçəri Şəhər m.', 'Filarmoniya bağı', 'Prezident parkı', 'M.Ə.Sabir parkı', 'Nərimanov heykəli', 'Səbail r.']",Obyekt,60 m²,0.0,0,0,1,0,0.0,0.0
+5287,5161913,2000000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,208.5 m²,0.0,1,0,1,0,0.0,0.0
+5291,4937984,5000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+5293,4995326,3000,AZN,"['Ayna Sultanova heykəli', 'Binəqədi r.']",Obyekt,438 m²,0.0,0,0,1,0,0.0,0.0
+5307,5141736,700,AZN,"['Koala parkı', 'Nəsimi bazarı', 'Dostluq kinoteatrı', 'Park Zorge', 'Nəsimi r.']",Obyekt,30 m²,0.0,0,0,1,0,0.0,0.0
+5348,5208406,4300,AZN,"['ASAN Xidmət №3', 'Yasamal bazarı', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,140 m²,0.0,0,0,1,0,0.0,0.0
+5362,5190772,610000,AZN,"['İzmir parkı', 'M.Hüseynzadə parkı', 'Dövlət Statistika Komitəsi', 'Nizami m.', 'Yasamal r.']",Obyekt,200 m²,0.0,1,1,1,0,0.0,0.0
+5391,5122732,9800,AZN,"['Azadlıq meydanı', 'Səməd Vurğun parkı', 'Pedaqoji Universiteti', '28 May m.', 'Sahil m.', 'Səbail r.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+5463,5172177,450,AZN,"['Heydər Əliyev adına İdman Kompleksi', 'Yasamal r.']",Obyekt,25 m²,0.0,0,0,1,0,0.0,0.0
+5480,5071946,4800000,AZN,"['Azərbaycan kinoteatrı', 'Fəvvarələr meydanı', 'M.Ə.Sabir parkı', 'Mərkəzi Univermaq', 'İçəri Şəhər', 'İqtisad Universiteti', 'Xalça Muzeyi', 'İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,97 m²,0.0,1,1,1,0,0.0,0.0
+5517,4864052,4750000,AZN,"['Dövlət Statistika Komitəsi', 'M.Hüseynzadə parkı', 'İzmir parkı', 'Nizami m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,1200 m²,0.0,1,1,1,0,0.0,0.0
+5547,4629888,195000,AZN,"['Park Zorge', 'Nəsimi bazarı', 'Koala parkı', 'Tibb Universiteti', 'Nəsimi r.']",Obyekt,70 m²,0.0,1,1,1,0,0.0,0.0
+5553,5230994,209000,AZN,"['Gənclik m.', 'Respublika stadionu', 'Nərimanov r.']",Obyekt,80 m²,0.0,1,1,1,0,0.0,0.0
+5606,5093183,1500000,AZN,"['Nizami m.', 'Beşmərtəbə', 'Yasamal r.']",Obyekt,350 m²,0.0,1,1,1,0,0.0,0.0
+5613,5234654,7500,AZN,"['Qış parkı', 'Sirk', 'Bakı Musiqi Akademiyası', 'Milli Konservatoriya', '28 May m.', 'Nizami m.', 'Sahil m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
+5643,4716396,345000,AZN,[],Obyekt,55000 m²,0.0,1,0,1,0,0.0,0.0
+5658,4153277,95000,AZN,"['İncəsənət və Mədəniyyət Un.', 'Dövlət Statistika Komitəsi', 'Elmlər Akademiyası m.', 'Nizami m.', 'Yasamal r.']",Obyekt,26 m²,0.0,1,0,1,0,0.0,0.0
+5684,5237799,1000,AZN,"['İçəri Şəhər m.', 'Filarmoniya bağı', 'Dövlət İdarəçilik Akademiyası', 'Prezident parkı', 'İqtisad Universiteti', 'Axundov bağı', 'İçəri Şəhər', 'M.Ə.Sabir parkı', 'Şəlalə parkı', 'Azneft meydanı', 'Səbail r.']",Obyekt,40 m²,0.0,0,0,1,0,0.0,0.0
+5691,4743459,110000,AZN,"['Həzi Aslanov m.', 'Xətai r.']",Obyekt,70 m²,0.0,1,1,1,0,0.0,0.0
+5699,5196384,598000,AZN,"['M.Hüseynzadə parkı', 'Dövlət Statistika Komitəsi', 'İzmir parkı', 'Mərkəzi Park', 'Nizami m.', 'Yasamal r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+5702,5195209,550,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,27 m²,0.0,0,0,1,0,0.0,0.0
+5728,5225893,105000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,44 m²,0.0,1,0,1,0,0.0,0.0
+5729,4955280,6000,AZN,"['Fəvvarələr meydanı', 'Mərkəzi Univermaq', 'Azərbaycan kinoteatrı', 'M.Ə.Sabir parkı', 'İqtisad Universiteti', 'İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+5749,5194706,153500,AZN,"['Mərkəzi Univermaq', 'Fəvvarələr meydanı', 'Beşmərtəbə', 'M.Ə.Sabir parkı', 'Sahil m.', 'İçəri Şəhər m.', 'Nizami m.', 'Nəsimi r.']",Obyekt,12 m²,0.0,1,1,1,0,0.0,0.0
+5801,4795182,1500,AZN,"['Binəqədi r.', 'Xocəsən q.']",Obyekt,300 m²,0.0,0,0,0,0,0.0,0.0
+5807,4968803,10000,AZN,[],Obyekt,2100 m²,0.0,0,0,1,0,0.0,0.0
+5834,4556093,990000,AZN,['Nərimanov r.'],Obyekt,340 m²,0.0,1,0,1,0,0.0,0.0
+5839,5190491,2250000,AZN,"['Elmlər Akademiyası m.', 'Hüseyn Cavid parkı', 'Yasamal r.']",Obyekt,212 m²,0.0,1,0,1,0,0.0,0.0
+5854,5193754,220000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Yasamal r.']",Obyekt,60 m²,0.0,1,1,1,0,0.0,0.0
+5866,5210274,330000,AZN,"['Binə atçılıq mərkəzi', 'Xəzər r.', 'Binə q.']",Obyekt,331 m²,0.0,1,0,1,0,0.0,0.0
+5868,5216781,1700,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
+5876,5075394,630000,AZN,"['Neapol dairəsi', 'Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,295 m²,0.0,1,0,1,0,0.0,0.0
+5888,5178262,99000,AZN,"['ASAN Xidmət №2', 'Ağ şəhər', 'Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,650 m²,0.0,1,0,1,0,0.0,0.0
+5899,5013276,2300,AZN,"['Nəsimi bazarı', 'Koala parkı', 'Park Zorge', 'Dostluq kinoteatrı', 'Nəsimi r.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+5903,5224720,2700,AZN,"['Nəriman Nərimanov parkı', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+5906,4865884,350000,AZN,"['Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,280 m²,0.0,1,0,1,0,0.0,0.0
+5979,5215720,2000000,AZN,"['20 Yanvar m.', 'Memar Əcəmi m.', '8 Noyabr m.', 'Nəsimi r.']",Obyekt,560 m²,0.0,1,0,1,0,0.0,0.0
+6035,5156347,4000,AZN,"['Nəsimi r.', '28 May m.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
+6049,5205384,4000,AZN,"['Sovetski', 'Hüseyn Cavid parkı', 'Texniki Universiteti', 'Nərimanov heykəli', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+6058,5237915,150000,AZN,"['Memar Əcəmi m.', '8 Noyabr m.', 'Nəsimi r.', '3-cü mikrorayon q.']",Obyekt,70 m²,0.0,1,0,1,0,0.0,0.0
+6066,4631089,225000,AZN,"['Nəsimi m.', 'Zərifə Əliyeva adına park', 'Binəqədi r.']",Obyekt,121 m²,0.0,1,0,1,0,0.0,0.0
+6084,5237951,320000,AZN,"['Xəzər r.', 'Binə q.']",Obyekt,85 m²,0.0,0,0,1,0,0.0,0.0
+6094,4514630,550000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.']",Obyekt,95 m²,0.0,1,0,1,0,0.0,0.0
+6148,5237933,35000,AZN,[],Obyekt,40 m²,0.0,0,0,1,0,0.0,0.0
+6177,5138821,275000,AZN,"['Xəzər r.', 'Türkan q.']",Obyekt,1500 m²,0.0,1,1,0,0,0.0,0.0
+6178,5198251,514000,AZN,"['Nəriman Nərimanov m.', 'Nəriman Nərimanov parkı', 'Nərimanov r.']",Obyekt,257 m²,0.0,1,0,1,0,0.0,0.0
+6193,4568077,525000,AZN,"['Memar Əcəmi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,315 m²,0.0,0,0,1,0,0.0,0.0
+6221,5229330,3500000,AZN,"['Abşeron r.', 'Novxanı q.']",Obyekt,2200 m²,0.0,1,0,1,0,0.0,0.0
+6227,5234556,2640,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,88 m²,0.0,0,0,1,0,0.0,0.0
+6235,5045395,400,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,26 m²,0.0,0,0,1,0,0.0,0.0
+6247,5180594,495000,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,380 m²,0.0,1,0,1,0,0.0,0.0
+6260,5237754,1200,AZN,"['Abşeron r.', 'Masazır q.']",Obyekt,42 m²,0.0,0,0,1,0,0.0,0.0
+6274,4693377,350000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
+6292,5145272,8500,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
+6297,5210073,900,AZN,"['DİM', 'Gənclik m.', 'Nərimanov r.']",Obyekt,35 m²,0.0,0,0,1,0,0.0,0.0
+6310,5179501,950000,AZN,"['Memar Əcəmi m.', 'Binəqədi r.']",Obyekt,185 m²,0.0,0,0,1,0,0.0,0.0
+6319,5165625,6000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,445 m²,0.0,0,0,1,0,0.0,0.0
+6355,2648842,2500000,AZN,"['Space TV', 'Texniki Universiteti', 'Memarlıq və İnşaat Universiteti', 'Yasamal r.', 'Yasamal q.']",Obyekt,790 m²,0.0,1,1,1,0,0.0,0.0
+6362,5118944,195000,AZN,"['Axundov bağı', 'Prezident parkı', 'Dövlət İdarəçilik Akademiyası', 'Nərimanov heykəli', 'Şəlalə parkı', 'Filarmoniya bağı', 'Sovetski', 'İçəri Şəhər m.', 'İqtisad Universiteti', 'Səbail r.']",Obyekt,70 m²,0.0,1,0,1,0,0.0,0.0
+6381,4739105,650000,AZN,[],Obyekt,16000 m²,0.0,1,1,1,0,0.0,0.0
+6453,2892280,2500000,AZN,"['Xəzər r.', 'Dübəndi q.']",Obyekt,9000 m²,0.0,1,0,1,0,0.0,0.0
+6484,5212784,1500,AZN,"['Xətai r.', 'NZS q.']",Obyekt,125 m²,0.0,0,0,1,0,0.0,0.0
+6485,5237440,800,AZN,"['Binəqədi r.', 'Biləcəri q.']",Obyekt,450 m²,0.0,0,0,1,0,0.0,0.0
+6498,5202567,2100,AZN,"['Abşeron r.', 'Mehdiabad q.']",Obyekt,2100 m²,0.0,0,0,1,0,0.0,0.0
+6565,5159579,2500,AZN,"['Park Zorge', 'Nəsimi bazarı', 'Tibb Universiteti', 'Rusiya səfirliyi', 'Nəsimi r.']",Obyekt,50 m²,0.0,0,0,1,0,0.0,0.0
+6592,5188477,790000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,317 m²,0.0,1,0,0,0,0.0,0.0
+6637,5210475,5000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', '8-ci mikrorayon q.']",Obyekt,450 m²,0.0,0,0,1,0,0.0,0.0
+6658,5181083,190000,AZN,"['Həzi Aslanov m.', 'Xətai r.', 'Köhnə Günəşli q.']",Obyekt,80.1 m²,0.0,1,1,1,0,0.0,0.0
+6689,5180359,750000,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+6713,4840131,2045850,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,177.9 m²,0.0,0,0,0,0,0.0,0.0
+6716,4262092,1500,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+6718,5221249,330,AZN,[],Obyekt,32 m²,0.0,0,0,1,0,0.0,0.0
+6752,5154516,135000,AZN,"['Zərifə Əliyeva adına park', 'Memar Əcəmi m.', 'Nəsimi m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,67 m²,0.0,1,0,0,0,0.0,0.0
+6754,5235818,150000,AZN,[],Obyekt,19.8 m²,0.0,1,0,1,0,0.0,0.0
+6761,4877377,1650000,AZN,"['Abşeron r.', 'Novxanı q.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
+6783,5121623,6000,AZN,"['Azadlıq Prospekti m.', 'Nəsimi m.', 'Binəqədi r.']",Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
+6785,5201622,2000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,160 m²,0.0,0,0,1,0,0.0,0.0
+6792,5113643,10000,AZN,"['Nəriman Nərimanov m.', 'Gənclik m.', 'Nərimanov r.']",Obyekt,600 m²,0.0,0,0,1,0,0.0,0.0
+6794,1643358,4800000,AZN,"['Sabunçu r.', 'Maştağa q.']",Obyekt,2500 m²,0.0,1,1,1,0,0.0,0.0
+6812,5233005,340000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,80 m²,0.0,1,0,1,0,0.0,0.0
+6813,5197838,750,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,35 m²,0.0,0,0,1,0,0.0,0.0
+6820,5189349,750000,AZN,['Səbail r.'],Obyekt,361 m²,0.0,1,0,0,0,0.0,0.0
+6881,4159956,355000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
+6889,4984646,4500,AZN,"['Dövlət Statistika Komitəsi', 'Mərkəzi Park', 'İncəsənət və Mədəniyyət Un.', 'Nizami m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,500 m²,0.0,0,0,1,0,0.0,0.0
+6903,5214535,1500,AZN,"['ASAN Xidmət №3', 'Elmlər Akademiyası m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,100 m²,0.0,0,0,1,0,0.0,0.0
+6906,4869832,190000,AZN,"['8 Noyabr m.', 'Nəsimi r.']",Obyekt,30 m²,0.0,1,0,1,0,0.0,0.0
+6916,4649684,160000,AZN,"['Əhmədli m.', 'Ukrayna dairəsi', 'Xətai r.', 'Əhmədli q.']",Obyekt,60 m²,0.0,1,0,1,0,0.0,0.0
+6948,5222379,549000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Nəsimi r.']",Obyekt,120 m²,0.0,1,1,1,0,0.0,0.0
+6981,5066585,143000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,90 m²,0.0,1,1,0,0,0.0,0.0
+6984,4371468,1480,AZN,"['Nəsimi r.', 'Memar Əcəmi m.']",Obyekt,60 m²,0.0,0,0,1,0,0.0,0.0
+6990,5162000,100000,AZN,[],Obyekt,105 m²,0.0,1,1,1,0,0.0,0.0
+6991,5160949,2850,AZN,"['Sirk', 'Qış parkı', 'Zabitlər parkı', 'Nizami m.', 'Nəsimi r.', 'Kubinka q.']",Obyekt,90 m²,0.0,0,0,0,0,0.0,0.0
+7014,5187398,535000,AZN,"['Bakı Slavyan Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
+7015,3769277,9800,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,1198 m²,0.0,0,0,1,0,0.0,0.0
+7019,4335431,2999999,AZN,"['Sabunçu r.', 'Ramana q.']",Obyekt,3000 m²,0.0,1,0,1,0,0.0,0.0
+7082,5189992,74000,AZN,"['Həzi Aslanov m.', 'Xətai r.']",Obyekt,60 m²,0.0,1,1,1,0,0.0,0.0
+7123,5209438,2100000,AZN,"['Nəriman Nərimanov parkı', 'Rəssamlıq Akademiyası', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,200 m²,0.0,1,0,1,0,0.0,0.0
+7137,4928621,135000,AZN,"['Dövlət İdarəçilik Akademiyası', 'Prezident parkı', 'Axundov bağı', 'Filarmoniya bağı', 'İçəri Şəhər m.', 'Nərimanov heykəli', 'Şəlalə parkı', 'İqtisad Universiteti', 'Sovetski', 'Səbail r.']",Obyekt,60 m²,0.0,1,1,1,0,0.0,0.0
+7168,5200814,4000,AZN,"['Nərimanov heykəli', 'Sovetski', 'Texniki Universiteti', 'Hüseyn Cavid parkı', 'Space TV', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,170 m²,0.0,0,0,0,0,0.0,0.0
+7170,5235197,450,AZN,"['Sabunçu r.', 'Zabrat q.']",Obyekt,40 m²,0.0,0,0,0,0,0.0,0.0
+7174,5078405,1100000,AZN,"['28 May m.', 'Şərq bazarı', 'Nəsimi r.']",Obyekt,155 m²,0.0,1,0,1,0,0.0,0.0
+7187,5179776,1000000,AZN,"['M.Hüseynzadə parkı', 'İzmir parkı', 'Sevil Qazıyeva parkı', 'Nizami m.', 'Yasamal r.']",Obyekt,143 m²,0.0,1,1,1,0,0.0,0.0
+7205,5236486,480000,AZN,[],Obyekt,300 m²,0.0,1,0,0,0,0.0,0.0
+7208,5236436,650000,AZN,"['Abşeron r.', 'Hökməli q.']",Obyekt,3800 m²,0.0,1,1,1,0,0.0,0.0
+7255,5234226,870000,AZN,[],Obyekt,1800 m²,0.0,1,0,1,0,0.0,0.0
+7262,5041632,2700,AZN,"['Port Baku', 'Azadlıq meydanı', 'Crescent Bay', 'Səməd Vurğun parkı', '28 May m.', 'Səbail r.']",Obyekt,35 m²,0.0,0,0,1,0,0.0,0.0
+7293,5237371,1800,AZN,"['Dövlət Statistika Komitəsi', 'Mərkəzi Park', 'İncəsənət və Mədəniyyət Un.', 'Nizami m.', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
+7304,5233229,18000,AZN,"['Abşeron r.', 'Saray q.']",Obyekt,2700 m²,0.0,0,0,1,0,0.0,0.0
+7328,5217642,950000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Nəsimi r.', '4-cü mikrorayon q.']",Obyekt,353 m²,0.0,1,0,1,0,0.0,0.0
+7339,5211350,2650,AZN,"['Axundov bağı', 'İqtisad Universiteti', 'Dövlət İdarəçilik Akademiyası', 'İçəri Şəhər m.', 'Prezident parkı', 'Filarmoniya bağı', 'M.Ə.Sabir parkı', 'Nərimanov heykəli', 'Sovetski', 'Səbail r.']",Obyekt,75 m²,0.0,0,0,1,0,0.0,0.0
+7361,5067203,2700,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,240 m²,0.0,0,0,0,0,0.0,0.0
+7383,5235247,15000,AZN,['Səbail r.'],Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+7398,5070199,165000,AZN,"['İnşaatçılar m.', 'Yasamal r.', 'Yeni Yasamal q.']",Obyekt,125 m²,0.0,1,1,0,0,0.0,0.0
+7446,5189883,255000,AZN,"['Yasamal r.', 'Yeni Yasamal q.']",Obyekt,183 m²,0.0,0,0,1,0,0.0,0.0
+7457,4836094,898220,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,92.6 m²,0.0,0,0,0,0,0.0,0.0
+7470,5214732,374000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.']",Obyekt,260 m²,0.0,1,1,1,0,0.0,0.0
+7502,5141974,3000,AZN,"['Neftçi bazası', 'ASAN Xidmət №1', 'Nərimanov r.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+7514,5162825,670000,AZN,"['Memar Əcəmi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,210 m²,0.0,1,0,1,0,0.0,0.0
+7551,5190521,1250000,AZN,"['Pedaqoji Universiteti', 'Sahil bağı', 'Xaqani bağı', 'Sahil m.', 'Azadlıq meydanı', '28 May m.', 'Səbail r.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+7590,5237463,465000,AZN,['Nəsimi r.'],Obyekt,70 m²,0.0,1,1,1,0,0.0,0.0
+7605,4811323,257000,AZN,"['Fəvvarələr meydanı', 'Xalça Muzeyi', 'Sahil m.', 'Azərbaycan kinoteatrı', 'Nizami kinoteatrı', 'İçəri Şəhər m.', 'Səbail r.']",Obyekt,51 m²,0.0,1,1,1,0,0.0,0.0
+7607,5234389,1000,AZN,"['Əhmədli m.', 'Xətai r.', 'Əhmədli q.']",Obyekt,130 m²,0.0,0,0,1,0,0.0,0.0
+7618,5211777,550000,AZN,"['Abşeron r.', 'Pirəkəşkül q.']",Obyekt,500 m²,0.0,1,0,1,0,0.0,0.0
+7674,4805969,1950000,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,517 m²,0.0,1,1,1,0,0.0,0.0
+7692,5205268,2000000,AZN,"['Xaqani bağı', 'Sahil bağı', 'Pedaqoji Universiteti', 'Nizami kinoteatrı', 'Sahil m.', 'Milli Konservatoriya', 'Bakı Musiqi Akademiyası', '28 May m.', 'Nəsimi r.']",Obyekt,96 m²,0.0,1,0,1,0,0.0,0.0
+7704,5047979,5250000,AZN,"['Qış parkı', 'Beşmərtəbə', 'Nizami m.', 'Sahil m.', 'Nəsimi r.']",Obyekt,350 m²,0.0,1,1,0,0,0.0,0.0
+7711,5214768,175000,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,32 m²,0.0,1,0,1,0,0.0,0.0
+7722,5231818,7500,AZN,"['İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,280 m²,0.0,0,0,1,0,0.0,0.0
+7743,5208148,1250000,AZN,"['Sabunçu r.', 'Bakıxanov q.']",Obyekt,850 m²,0.0,1,1,1,0,0.0,0.0
+7803,5237481,1000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Nəsimi r.']",Obyekt,47 m²,0.0,0,0,1,0,0.0,0.0
+7808,3153724,2600000,AZN,"['Azərbaycan kinoteatrı', 'M.Ə.Sabir parkı', 'Fəvvarələr meydanı', 'İçəri Şəhər', 'Mərkəzi Univermaq', 'İqtisad Universiteti', 'İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,280 m²,0.0,1,1,1,0,0.0,0.0
+7859,5153172,105000,AZN,"['Suraxanı r.', 'Massiv V q.']",Obyekt,80 m²,0.0,1,0,1,0,0.0,0.0
+7862,5127455,2500,AZN,"['İqtisad Universiteti', 'Axundov bağı', 'Dövlət İdarəçilik Akademiyası', 'İçəri Şəhər m.', 'M.Ə.Sabir parkı', 'Filarmoniya bağı', 'Prezident parkı', 'Mərkəzi Univermaq', 'Səbail r.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
+7900,5174454,550000,AZN,"['Texniki Universiteti', 'Hüseyn Cavid parkı', 'Elmlər Akademiyası m.', 'Memarlıq və İnşaat Universiteti', 'Yasamal r.', 'Yasamal q.']",Obyekt,90 m²,0.0,1,0,1,0,0.0,0.0
+7903,3769198,17000,AZN,"['Axundov bağı', 'Sovetski', 'Nərimanov heykəli', 'Dövlət İdarəçilik Akademiyası', 'İqtisad Universiteti', 'Prezident parkı', 'İçəri Şəhər m.', 'Filarmoniya bağı', 'Səbail r.']",Obyekt,505 m²,0.0,0,0,0,0,0.0,0.0
+7927,5210031,550,AZN,"['Yasamal r.', 'Yeni Yasamal q.']",Obyekt,40 m²,0.0,0,0,1,0,0.0,0.0
+7934,4982779,4800000,AZN,"['Səbail r.', '20-ci sahə q.']",Obyekt,1775 m²,0.0,1,0,1,0,0.0,0.0
+8007,5234960,1600,AZN,"['Milli Konservatoriya', 'Bakı Musiqi Akademiyası', 'Nizami kinoteatrı', 'Qış parkı', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Xaqani bağı', '28 May m.', 'Sahil m.', 'Nəsimi r.']",Obyekt,110 m²,0.0,0,0,1,0,0.0,0.0
+8048,5234510,2100,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+8062,5204322,2200000,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,570 m²,0.0,1,0,1,0,0.0,0.0
+8063,5230406,219000,AZN,"['8 Noyabr m.', 'Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,46 m²,0.0,1,0,1,0,0.0,0.0
+8065,5237860,5000,AZN,['Binəqədi r.'],Obyekt,580 m²,0.0,0,0,1,0,0.0,0.0
+8093,4911936,4600,AZN,"['Ağ şəhər', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,240 m²,0.0,0,0,0,0,0.0,0.0
+8097,5235941,3500,AZN,"['Tibb Universiteti', 'Nəsimi r.']",Obyekt,250 m²,0.0,0,0,1,0,0.0,0.0
+8134,5035200,1000,AZN,"['Dövlət Statistika Komitəsi', 'İzmir parkı', 'M.Hüseynzadə parkı', 'Nizami m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,32 m²,0.0,0,0,1,0,0.0,0.0
+8175,5230223,1250000,AZN,"['Qış parkı', 'Sirk', 'Azərbaycan Dillər Universiteti', 'Bakı Musiqi Akademiyası', 'Bakı Slavyan Universiteti', 'Milli Konservatoriya', '28 May m.', 'Nizami m.', 'Nəsimi r.']",Obyekt,330 m²,0.0,1,1,1,0,0.0,0.0
+8187,5223264,8400,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,210 m²,0.0,0,0,1,0,0.0,0.0
+8217,4555887,3000,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,100 m²,0.0,0,0,0,0,0.0,0.0
+8306,4632993,20000,AZN,"['Ağ şəhər', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,365 m²,0.0,0,0,1,0,0.0,0.0
+8319,4769725,2000,AZN,"['M.Hüseynzadə parkı', 'İzmir parkı', 'Sevil Qazıyeva parkı', 'Dövlət Statistika Komitəsi', 'Nizami m.', 'Yasamal r.']",Obyekt,200 m²,0.0,0,0,1,0,0.0,0.0
+8346,5237490,13000,AZN,"['Azadlıq Prospekti m.', 'Nəsimi m.', 'Binəqədi r.', 'Binəqədi q.']",Obyekt,1100 m²,0.0,0,0,1,0,0.0,0.0
+8363,5124939,1500,AZN,"['Cavanşir körpüsü', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
+8373,5152597,650,AZN,"['Memar Əcəmi m.', 'Nəsimi r.']",Obyekt,65 m²,0.0,0,0,1,0,0.0,0.0
+8382,5114032,450000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,570 m²,0.0,0,0,1,0,0.0,0.0
+8402,5059580,620000,AZN,"['Nəriman Nərimanov m.', 'Nəriman Nərimanov parkı', 'Nərimanov r.']",Obyekt,125 m²,0.0,1,1,1,0,0.0,0.0
+8415,5236288,1499,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,55 m²,0.0,0,0,1,0,0.0,0.0
+8448,5205669,3300,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,85 m²,0.0,0,0,1,0,0.0,0.0
+8455,5087465,1800000,AZN,"['Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,900 m²,0.0,1,0,1,0,0.0,0.0
+8486,5235598,500,AZN,"['Binə atçılıq mərkəzi', 'Xəzər r.', 'Binə q.']",Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+8500,5190775,900000,AZN,"['ASAN Xidmət №2', 'Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,178 m²,0.0,1,1,1,0,0.0,0.0
+8506,4885028,2500,AZN,"['Abşeron r.', 'Mehdiabad q.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
+8526,5164782,1500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,120 m²,0.0,0,0,1,0,0.0,0.0
+8536,3597197,290000,AZN,"['Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+8540,5235858,430000,AZN,"['Tibb Universiteti', 'Nəsimi r.']",Obyekt,32 m²,0.0,1,0,1,0,0.0,0.0
+8549,5235740,960000,AZN,"['Dövlət Statistika Komitəsi', 'Mərkəzi Park', 'M.Hüseynzadə parkı', 'Nizami m.', 'Yasamal r.']",Obyekt,120 m²,0.0,1,0,1,0,0.0,0.0
+8557,5237595,2500,AZN,"['İçəri Şəhər m.', 'Filarmoniya bağı', 'Dövlət İdarəçilik Akademiyası', 'Prezident parkı', 'İqtisad Universiteti', 'Axundov bağı', 'İçəri Şəhər', 'Şəlalə parkı', 'M.Ə.Sabir parkı', 'Azneft meydanı', 'Səbail r.']",Obyekt,20 m²,0.0,0,0,1,0,0.0,0.0
+8565,5158541,360000,AZN,"['Memar Əcəmi m.', 'Binəqədi r.']",Obyekt,60 m²,0.0,1,1,1,0,0.0,0.0
+8580,5163660,3800,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,305 m²,0.0,0,0,1,0,0.0,0.0
+8582,5160681,500,AZN,"['Neftçi bazası', 'DİM', 'ASAN Xidmət №1', 'Nərimanov r.']",Obyekt,18 m²,0.0,0,0,1,0,0.0,0.0
+8626,5024040,75000,AZN,"['Binəqədi r.', 'Biləcəri q.']",Obyekt,102 m²,0.0,1,0,1,0,0.0,0.0
+8635,5225329,419000,AZN,"['Nəriman Nərimanov m.', 'Nəriman Nərimanov parkı', 'Nərimanov r.']",Obyekt,130 m²,0.0,1,1,1,0,0.0,0.0
+8697,5235824,7000,AZN,"['Abşeron r.', 'Hökməli q.']",Obyekt,1170 m²,0.0,0,0,0,0,0.0,0.0
+8717,5204666,12000,AZN,"['28 May m.', 'Nəsimi r.', '5-ci mikrorayon q.']",Obyekt,400 m²,0.0,0,0,1,0,0.0,0.0
+8765,5138714,1100,AZN,"['Pedaqoji Universiteti', 'Azadlıq meydanı', 'Sahil bağı', 'Xaqani bağı', 'Sahil m.', '28 May m.', 'Səbail r.']",Obyekt,30 m²,0.0,0,0,1,0,0.0,0.0
+8770,5176445,600,AZN,"['Nizami r.', '8-ci kilometr q.']",Obyekt,74 m²,0.0,0,0,1,0,0.0,0.0
+8774,5209576,586000,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,119 m²,0.0,1,0,1,0,0.0,0.0
+8798,5235241,450000,AZN,"['Azadlıq Prospekti m.', 'Nəsimi m.', 'Binəqədi r.', '6-cı mikrorayon q.']",Obyekt,78 m²,0.0,1,0,1,0,0.0,0.0
+8880,5229964,4500,AZN,"['Binəqədi r.', 'Biləcəri q.']",Obyekt,500 m²,0.0,0,0,1,0,0.0,0.0
+8881,5236147,2500,AZN,"['Ağ şəhər', 'ASAN Xidmət №2', 'Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,60 m²,0.0,0,0,1,0,0.0,0.0
+8898,5180015,360000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,140 m²,0.0,1,0,1,0,0.0,0.0
+8903,5236606,325000,AZN,"['İnşaatçılar m.', 'Yasamal r.']",Obyekt,35 m²,0.0,1,1,1,0,0.0,0.0
+8924,5021220,1400000,AZN,"['Ağ şəhər', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,235 m²,0.0,0,0,0,0,0.0,0.0
+8929,5121637,180000,AZN,"['Azadlıq Prospekti m.', 'Nəsimi m.', 'Binəqədi r.']",Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
+8931,5213858,3000,AZN,"['Abşeron r.', 'Hökməli q.']",Obyekt,500 m²,0.0,0,0,1,0,0.0,0.0
+9001,4836155,1666400,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,208.3 m²,0.0,0,0,0,0,0.0,0.0
+9008,4728510,2800000,AZN,"['Xətai r.', 'Ağ şəhər q.']",Obyekt,275 m²,0.0,1,1,1,0,0.0,0.0
+9052,5122646,1150000,AZN,[],Obyekt,800 m²,0.0,1,0,0,0,0.0,0.0
+9055,4405819,600,AZN,"['Montin bazarı', 'Rəssamlıq Akademiyası', 'Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,40 m²,0.0,0,0,1,0,0.0,0.0
+9065,5235029,2000,AZN,"['İqtisad Universiteti', 'Axundov bağı', 'İçəri Şəhər m.', 'Dövlət İdarəçilik Akademiyası', 'M.Ə.Sabir parkı', 'Filarmoniya bağı', 'Prezident parkı', 'Mərkəzi Univermaq', 'İçəri Şəhər', 'Azərbaycan kinoteatrı', 'Səbail r.']",Obyekt,210 m²,0.0,0,0,1,0,0.0,0.0
+9070,5053783,45000,AZN,"['Yasamal bazarı', 'ASAN Xidmət №3', 'İnşaatçılar m.', 'Yasamal r.']",Obyekt,1700 m²,0.0,0,0,0,0,0.0,0.0
+9076,5198741,590000,AZN,['Nərimanov r.'],Obyekt,100 m²,0.0,1,0,1,0,0.0,0.0
+9131,5159501,290000,AZN,['Abşeron r.'],Obyekt,90 m²,0.0,1,1,1,0,0.0,0.0
+9137,5234569,1950,AZN,"['Səbail r.', 'Badamdar q.']",Obyekt,65 m²,0.0,0,0,1,0,0.0,0.0
+9144,4122079,2500,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,120 m²,0.0,0,0,0,0,0.0,0.0
+9157,5235238,3900,AZN,"['Bakı Musiqi Akademiyası', 'Milli Konservatoriya', 'Qış parkı', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Slavyan Universiteti', 'Azərbaycan Dillər Universiteti', '28 May m.', 'Sahil m.', 'Nəsimi r.']",Obyekt,185 m²,0.0,0,0,1,0,0.0,0.0
+9169,4596515,30000,AZN,[],Obyekt,5000 m²,0.0,0,0,1,0,0.0,0.0
+9196,5238114,17000,AZN,"['Həzi Aslanov m.', 'Xətai r.']",Obyekt,2000 m²,0.0,0,0,1,0,0.0,0.0
+9206,5234040,249000,AZN,"['Pedaqoji Universiteti', 'Xaqani bağı', 'Sahil bağı', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Milli Konservatoriya', 'Bakı Musiqi Akademiyası', 'Nizami kinoteatrı', '28 May m.', 'Sahil m.', 'Səbail r.']",Obyekt,70 m²,0.0,1,1,1,0,0.0,0.0
+9214,5234277,80000,AZN,[],Obyekt,70 m²,0.0,1,0,1,0,0.0,0.0
+9248,5235095,500000,AZN,[],Obyekt,500 m²,0.0,0,0,1,0,0.0,0.0
+9271,5167817,5000,AZN,"['Ağ şəhər', 'Xətai r.', 'Ağ şəhər q.']",Obyekt,400 m²,0.0,0,0,0,0,0.0,0.0
+9278,4741942,849000,AZN,"['Memar Əcəmi m.', '20 Yanvar m.', 'Nəsimi r.']",Obyekt,450 m²,0.0,1,1,1,0,0.0,0.0
+9297,5092964,300000,AZN,"['Binəqədi r.', 'Binəqədi q.']",Obyekt,172 m²,0.0,1,0,1,0,0.0,0.0
+9324,5202144,4000,AZN,"['Hüseyn Cavid parkı', 'Elmlər Akademiyası m.', 'Texniki Universiteti', 'Yasamal r.']",Obyekt,126 m²,0.0,0,0,1,0,0.0,0.0
+9337,5197093,8600000,AZN,"['Gənclik m.', 'Nərimanov r.']",Obyekt,3250 m²,0.0,1,1,1,0,0.0,0.0
+9339,5164715,1500,AZN,['Xətai r.'],Obyekt,40 m²,0.0,0,0,1,0,0.0,0.0
+9357,4054308,375000,AZN,"['Azadlıq Prospekti m.', 'Binəqədi r.', '8-ci mikrorayon q.']",Obyekt,260 m²,0.0,1,0,0,0,0.0,0.0
+9392,5237555,400000,AZN,"['Nəriman Nərimanov m.', 'Nərimanov r.']",Obyekt,150 m²,0.0,1,0,1,0,0.0,0.0
+9398,5159104,1550000,AZN,"['Xətai r.', 'Əhmədli q.']",Obyekt,660 m²,0.0,1,1,1,0,0.0,0.0
+9402,4978839,350,AZN,"['Dövlət Statistika Komitəsi', 'İncəsənət və Mədəniyyət Un.', 'Nizami m.', 'Elmlər Akademiyası m.', 'Yasamal r.']",Obyekt,25 m²,0.0,0,0,1,0,0.0,0.0
+9428,5167081,250000,AZN,"['Tibb Universiteti', 'Nəsimi bazarı', 'ASAN Xidmət №1', 'Park Zorge', 'Nəsimi r.']",Obyekt,55 m²,0.0,1,1,1,0,0.0,0.0
+9430,4451142,1700,AZN,"['Xalqlar Dostluğu m.', 'Nizami r.', '8-ci kilometr q.']",Obyekt,70 m²,0.0,0,0,1,0,0.0,0.0
+9435,5006674,300,AZN,"['Həzi Aslanov m.', 'Suraxanı r.', 'Günəşli q.']",Obyekt,15 m²,0.0,0,0,0,0,0.0,0.0
+9452,5225325,139000,AZN,"['28 May m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Bakı Musiqi Akademiyası', 'Səməd Vurğun parkı', 'Milli Konservatoriya', 'Sahil m.', 'Nəsimi r.']",Obyekt,60 m²,0.0,1,1,1,0,0.0,0.0
+9473,5194089,4000,AZN,"['Azərbaycan turizm institutu', 'Respublika stadionu', 'Gənclik m.', 'Nərimanov r.']",Obyekt,280 m²,0.0,0,0,1,0,0.0,0.0
+9521,5230378,300000,AZN,"['Ayna Sultanova heykəli', 'Nərimanov r.']",Obyekt,30 m²,0.0,0,0,1,0,0.0,0.0
+9548,5150030,3499,AZN,"['Azərbaycan Dövlət Neft və Sənaye Universiteti', 'Pedaqoji Universiteti', '28 May m.', 'Bakı Musiqi Akademiyası', 'Milli Konservatoriya', 'Xaqani bağı', 'Səməd Vurğun parkı', 'Sahil bağı', 'Sahil m.', 'Nəsimi r.']",Obyekt,66 m²,0.0,0,0,1,0,0.0,0.0
+9553,5218785,600,AZN,[],Obyekt,94 m²,0.0,0,0,1,0,0.0,0.0
+9564,5232207,180000,AZN,"['Binəqədi r.', '7-ci mikrorayon q.']",Obyekt,62 m²,0.0,1,1,1,0,0.0,0.0
+9567,5237484,330000,AZN,"['Xətai r.', 'Köhnə Günəşli q.']",Obyekt,600 m²,0.0,1,0,1,0,0.0,0.0
+9570,4963423,1037250,AZN,"['Mərkəzi Park', 'Dövlət Statistika Komitəsi', 'İncəsənət və Mədəniyyət Un.', 'Nizami m.', 'Yasamal r.', 'Yasamal q.']",Obyekt,230.5 m²,0.0,1,0,0,0,0.0,0.0
+9572,5153598,2800,AZN,"['Neftçilər m.', 'Nizami r.']",Obyekt,120 m²,0.0,0,0,1,0,0.0,0.0
+9583,5124097,442000,AZN,[],Obyekt,500 m²,0.0,1,1,1,0,0.0,0.0
+9618,5237661,112000,AZN,"['Beşmərtəbə', 'Nizami m.', 'Yasamal r.']",Obyekt,45 m²,0.0,1,0,1,0,0.0,0.0
+9638,4528473,385000,AZN,"['Xəzər r.', 'Binə q.']",Obyekt,5000 m²,0.0,1,0,1,0,0.0,0.0
+9665,5194781,6600,AZN,['Binəqədi r.'],Obyekt,1200 m²,0.0,0,0,1,0,0.0,0.0
+9746,4940451,3200,AZN,['Yasamal r.'],Obyekt,170 m²,0.0,0,0,1,0,0.0,0.0
+9778,4947910,4000000,AZN,"['Azərbaycan kinoteatrı', 'M.Ə.Sabir parkı', 'Fəvvarələr meydanı', 'Mərkəzi Univermaq', 'İçəri Şəhər', 'İqtisad Universiteti', 'İçəri Şəhər m.', 'Sahil m.', 'Səbail r.']",Obyekt,480 m²,0.0,1,1,1,0,0.0,0.0
+9787,5195771,146000,AZN,[],Obyekt,600 m²,0.0,1,0,1,0,0.0,0.0
+9793,3256550,335000,AZN,"['Nizami kinoteatrı', 'Milli Konservatoriya', 'Bakı Musiqi Akademiyası', 'Xaqani bağı', 'Qış parkı', 'Sahil bağı', 'Sahil m.', 'Azərbaycan Dövlət Neft və Sənaye Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,150 m²,0.0,1,0,1,0,0.0,0.0
+9804,5222369,329000,AZN,"['Şah İsmayıl Xətai m.', 'Xətai r.']",Obyekt,400 m²,0.0,1,1,1,0,0.0,0.0
+9809,5226356,7000,AZN,"['Fəvvarələr meydanı', 'Xalça Muzeyi', 'Sahil m.', 'Azərbaycan kinoteatrı', 'Nizami kinoteatrı', 'İçəri Şəhər m.', 'Səbail r.']",Obyekt,60 m²,0.0,0,0,1,0,0.0,0.0
+9817,5237813,1350,AZN,"['Bakı Slavyan Universiteti', 'Azərbaycan Dillər Universiteti', '28 May m.', 'Nəsimi r.']",Obyekt,80 m²,0.0,0,0,1,0,0.0,0.0
+9821,4145121,1360000,AZN,"['Sahil bağı', 'Xaqani bağı', 'Sahil m.', 'Pedaqoji Universiteti', 'Nizami kinoteatrı', 'Xalça Muzeyi', '28 May m.', 'Səbail r.']",Obyekt,170 m²,0.0,1,0,1,0,0.0,0.0
+9844,5168424,850,AZN,"['Grand Hayat Residence', '8 Noyabr m.', 'Nərimanov r.']",Obyekt,30 m²,0.0,0,0,1,0,0.0,0.0
+9853,5179044,145000,AZN,"['Zərifə Əliyeva adına park', 'Nəsimi m.', 'Binəqədi r.', '9-cu mikrorayon q.']",Obyekt,53 m²,0.0,1,0,1,0,0.0,0.0
+9875,5209662,3000,AZN,"['Qara Qarayev m.', 'Nizami r.']",Obyekt,140 m²,0.0,0,0,1,0,0.0,0.0
