@@ -1,6 +1,5 @@
 <h1>Apartment Price Prediction</h1>
-<p>This project is designed to
-    scrape data from <a href="bina.az">bina.az</a>, clean, analyze, and
+<p>This project is designed for scraping data from <a href="bina.az">bina.az</a>, clean, analyze, and
     predict apartment prices using a pipelined XGBoost model. The end
     product is a local web application that allows users to explore and
     predict car prices based on a variety of features.</p> <h2>Project
